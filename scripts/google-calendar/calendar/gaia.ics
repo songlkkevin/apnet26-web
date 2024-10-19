@@ -1,0 +1,72 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//My calendar product//mxm.dk//
+BEGIN:VEVENT
+SUMMARY:GAIA Workshop: Welcome and Introduction
+DTSTART;VALUE=DATE-TIME:20160826T084500
+DTEND;VALUE=DATE-TIME:20160826T090000
+UID:4d37ddeeaf36c3b387e842768d50e89c
+DESCRIPTION:
+LOCATION:Room: Esmeralda 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GAIA Workshop: Session 1: Technology
+DTSTART;VALUE=DATE-TIME:20160826T090000
+DTEND;VALUE=DATE-TIME:20160826T103000
+UID:d79109d07fae4b0f19a4bb31e89ece22
+DESCRIPTION:Papers: \n\n* Title: Open and regionalised spectrum repositori
+ es for emerging countries – Author(s): A. Arcia-Moret\, A. Sathiaseelan\
+ , M. Zenaro\, F. Rondon\, E. Pietrosemoli\, D. Johnson\n\n* Title: Will 5G
+  See its Blind Side? Evolving 5G for Universal Internet Access – Author(
+ s): O. Onireti\, J. Qadir\, M. Imran\, A. Sathiaseelan\n\n* Title: Tangibl
+ e Sharing\, Invisible Mechanisms: The Design and Implementation of the Bay
+ anihaNets Access Sharing Network – Author(s): I. Montes\, M. Cruz\, A. R
+ emillano II\, M. Villanoy\, L. Beltran II\, R. Ocampo\, C. Festin
+LOCATION:Room: Esmeralda 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GAIA Workshop: Session 2: Economics and Deployment
+DTSTART;VALUE=DATE-TIME:20160826T110000
+DTEND;VALUE=DATE-TIME:20160826T123000
+UID:bb8b6816f3897d545596b5592a0bea29
+DESCRIPTION:Papers: \n\n* Title: A Techno-Economic Framework for Broadband
+  Deployment in Underserved Areas – Author(s): R. Durairajan\, P. Barford
+ \n\n* Title: RemIX: A Distributed Internet Exchange for Remote and Rural N
+ etworks – Author(s): W. Waites\, J. Sweet\, R. Baig\, P. Buneman\, M. Fa
+ yed\, G. Hughes\, M. Fourman\, R. Simmons\n\n* Title: Making Community Net
+ works economically sustainable\, the guifi.net experience – Author(s): R
+ . Baig\, L. Dalmau\, R. Roca\, L. Navarro\, F. Freitag\, A. Sathiaseelan
+LOCATION:Room: Esmeralda 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GAIA Workshop: Session 3: Invited Experience Reports
+DTSTART;VALUE=DATE-TIME:20160826T140000
+DTEND;VALUE=DATE-TIME:20160826T153000
+UID:2e20232337dd40ae407a9e9decce67d0
+DESCRIPTION:Papers: \n\n* Title: SIMMC - An Integrated Monitoring System f
+ or Brazilian Digital Inclusion Projects – Author(s): L. Bona\, D. Pasqua
+ lin\, C. Trois\, M. Suny&eacute\;\, M. Fabro\, E. de Almeida\, M. Castilho
+ \, D. Weingaertner\, F. Silva\, E. Maciel\, A. Bernardes\, E. Mateus\n\n* 
+ Title: Open Source Community Cellular Networks: Brazilian Amazon as Case S
+ tudy – Author(s): A. Klautau\, M. Dias\, J. Soares\, F. Teixeira\, L. Br
+ ito\, E. Junior\, P. Batista\, J. Leite\n\n* Title: Empirical evaluation o
+ f mobile network services in developing countries – Author(s): S. Rao\, 
+ K. Kumar\, J. Manner\, T. Aura
+LOCATION:Room: Esmeralda 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GAIA Workshop: Panel Session
+DTSTART;VALUE=DATE-TIME:20160826T160000
+DTEND;VALUE=DATE-TIME:20160826T170000
+UID:1600add19a64088a397c3747147f3ba1
+DESCRIPTION:
+LOCATION:Room: Esmeralda 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GAIA Workshop: Wrap-up
+DTSTART;VALUE=DATE-TIME:20160826T170000
+UID:2edbe2aad39a7775886b2750bf69ba9d
+DESCRIPTION:
+LOCATION:Room: Esmeralda 2
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//My calendar product//mxm.dk//
+BEGIN:VEVENT
+SUMMARY:SIGCOMM Industrial Demos: Industrial Demos - Presenters onsite dur
+ ing coffee breaks
+DTSTART;VALUE=DATE-TIME:20160825T090000
+DTEND;VALUE=DATE-TIME:20160825T173000
+UID:8fd38ac98ac4e96b63759db4fa820b90
+DESCRIPTION:Demos: \n\n* Title: ONOS centralized control over a P4 program
+ mable data plane – Author(s): C. Cascone (Open Networking Laboratory)\, 
+ A. Al-Shabibi (Open Networking Laboratory)\, C. Kim (Barefoot Networks)\n\
+ n* Title: Tracking Any Packet’s Path and Latency via INT – Author(s): 
+ C. Kim (Barefoot Networks)\, J. Lee (Barefoot Networks)\n\n* Title: Xilinx
+  P4 to NetFPGA SUME compilation flow\, demonstrated for PERC congestion co
+ ntrol algorithm experiments – Author(s): G. Brebner (Xilinx\, Inc.)\, R.
+  Halstead (Xilinx\, Inc.)\, C. Neely (Xilinx\, Inc.)\, S. Ibanez (Stanford
+  University)\, L. Jose (Stanford University)\, N. McKeown (Stanford Univer
+ sity)\, M. Alizadeh (MIT)\n\n* Title: High Performance Service Chaining fo
+ r Ethernet Transport Networks – Author(s): J. Vacaro (Hewlett Packard En
+ terprise)\, R. Eichelberger (Hewlett Packard Enterprise)\, S. Tandel (Hewl
+ ett Packard Enterprise)\, P. Bottorff (Hewlett Packard Enterprise)\, D. Fe
+ dyk (Hewlett Packard Enterprise)\, S. Banerjee (Hewlett Packard Enterprise
+ )\, R. Eichelberger (Hewlett Packard Enterprise)\n\n* Title: QoS measureme
+ nt with Tangram Measures – Author(s): B. Rafaeli (TGR / UFRJ)\, C. Junio
+ r (TGR)\, C. Gonçalves (TGR / UFRJ)\, D. Ximenes (TGR / UFRJ)\, G. Mendon
+ ça (TGR)\, G. Bruno (TGR)\, G. Sengès (TGR / UFRJ)\, G. Thurler (TGR / U
+ FRJ)\, G. Santos (TGR)\, K. Almeida (TGR)\, E. Silva (UFRJ)\n\n* Title: VN
+ F and µVNF chaining with in-band network telemetry for servers equipped w
+ ith P4 / C programmable SmartNICs – Author(s): D. George (Netronome Syst
+ ems\, Inc.)\, J. Tönsing (Netronome Systems\, Inc.)
+LOCATION:Room: Agata
+END:VEVENT
+END:VCALENDAR

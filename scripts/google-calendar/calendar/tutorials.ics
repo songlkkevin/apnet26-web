@@ -1,0 +1,145 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//My calendar product//mxm.dk//
+BEGIN:VEVENT
+SUMMARY:Tutorial: Internet Measurements: Part 1
+DTSTART;VALUE=DATE-TIME:20160822T090000
+DTEND;VALUE=DATE-TIME:20160822T103000
+UID:9ba8cd28c72d1fe9ba45f2fabdcc06e4
+DESCRIPTION:Presenter(s): Timur Friedman (UPMC Sorbonne Universit&eacute\;
+ s\, France)\, Anna-Kaisa Pietilainen\, Renata Teixeira (Inria\, France)
+LOCATION:Room: Esmeralda 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tutorial: SDN\, NFV and Their Role in 5G: Part 1
+DTSTART;VALUE=DATE-TIME:20160822T090000
+DTEND;VALUE=DATE-TIME:20160822T103000
+UID:e044e149b965916392483140a423d896
+DESCRIPTION:Presenter(s): Katia Obraczka (UC Santa Cruz\, USA)\, Christian
+  Rothenberg (UNICAMP\, Brazil)\, Ahmad Rostami (Ericsson Research\, Sweden
+ )
+LOCATION:Room: Esmeralda 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tutorial: Internet Measurements: Part 2
+DTSTART;VALUE=DATE-TIME:20160822T110000
+DTEND;VALUE=DATE-TIME:20160822T123000
+UID:44bddd271f091582ebc8c175e1f608ff
+DESCRIPTION:Presenter(s): Timur Friedman (UPMC Sorbonne Universit&eacute\;
+ s\, France)\, Anna-Kaisa Pietilainen\, Renata Teixeira (Inria\, France)
+LOCATION:Room: Esmeralda 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tutorial: SDN\, NFV and Their Role in 5G: Part 2 & Closing
+DTSTART;VALUE=DATE-TIME:20160822T110000
+DTEND;VALUE=DATE-TIME:20160822T123000
+UID:2e0cbcb2065534030b427747de46dd27
+DESCRIPTION:Presenter(s): Katia Obraczka (UC Santa Cruz\, USA)\, Christian
+  Rothenberg (UNICAMP\, Brazil)\, Ahmad Rostami (Ericsson Research\, Sweden
+ )
+LOCATION:Room: Esmeralda 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tutorial: Internet Measurements: Part 3
+DTSTART;VALUE=DATE-TIME:20160822T140000
+DTEND;VALUE=DATE-TIME:20160822T153000
+UID:839dc00383671f319d3710b1de851577
+DESCRIPTION:Presenter(s): Timur Friedman (UPMC Sorbonne Universit&eacute\;
+ s\, France)\, Anna-Kaisa Pietilainen\, Renata Teixeira (Inria\, France)
+LOCATION:Room: Esmeralda 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tutorial: Internet Measurements: Part 4 & Closing
+DTSTART;VALUE=DATE-TIME:20160822T160000
+DTEND;VALUE=DATE-TIME:20160822T173000
+UID:b128fb22d5d3f4736a6703c47de0d9f4
+DESCRIPTION:Presenter(s): Timur Friedman (UPMC Sorbonne Universit&eacute\;
+ s\, France)\, Anna-Kaisa Pietilainen\, Renata Teixeira (Inria\, France)
+LOCATION:Room: Esmeralda 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tutorial: Enabling Research in Future WiMobNet: Part 1
+DTSTART;VALUE=DATE-TIME:20160826T090000
+DTEND;VALUE=DATE-TIME:20160826T103000
+UID:6bbbd43a3283936c4f0b56c95ca12773
+DESCRIPTION:Presenter(s): Kobus Van der Merwe\, Robert Ricci\, Kirk Webb (
+ University of Utah\, USA)
+LOCATION:Room: Esmeralda 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tutorial: P4: Programming the Network Data Plane: Welcome and Intr
+ o
+DTSTART;VALUE=DATE-TIME:20160826T090000
+DTEND;VALUE=DATE-TIME:20160826T091500
+UID:9ee21f6e5234eb5396ec7f0720293c10
+DESCRIPTION:Presenter(s): Changhoon Kim\, Jeongkeun "JK" Lee (Barefoot Net
+ works\, USA)
+LOCATION:Room: Topazio
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tutorial: P4: Programming the Network Data Plane: Lecture\, part I
+DTSTART;VALUE=DATE-TIME:20160826T091500
+DTEND;VALUE=DATE-TIME:20160826T103000
+UID:fb8a6c576adc0ac1a32339ffa1186cdc
+DESCRIPTION:Presenter(s): Changhoon Kim\, Jeongkeun "JK" Lee (Barefoot Net
+ works\, USA)
+LOCATION:Room: Topazio
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tutorial: Enabling Research in Future WiMobNet: Part 2
+DTSTART;VALUE=DATE-TIME:20160826T110000
+DTEND;VALUE=DATE-TIME:20160826T123000
+UID:cd15e56129ef9edf5b74bf66b59ce0df
+DESCRIPTION:Presenter(s): Kobus Van der Merwe\, Robert Ricci\, Kirk Webb (
+ University of Utah\, USA)
+LOCATION:Room: Esmeralda 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tutorial: P4: Programming the Network Data Plane: Lecture and Demo
+ \, part II
+DTSTART;VALUE=DATE-TIME:20160826T110000
+DTEND;VALUE=DATE-TIME:20160826T123000
+UID:5b9a7504c6aa4a428fa7dbaabd1ee724
+DESCRIPTION:Presenter(s): Changhoon Kim\, Jeongkeun "JK" Lee (Barefoot Net
+ works\, USA)
+LOCATION:Room: Topazio
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tutorial: Enabling Research in Future WiMobNet: Part 3
+DTSTART;VALUE=DATE-TIME:20160826T140000
+DTEND;VALUE=DATE-TIME:20160826T153000
+UID:e8fe100e677e5f0bb5269a4286c3df03
+DESCRIPTION:Presenter(s): Kobus Van der Merwe\, Robert Ricci\, Kirk Webb (
+ University of Utah\, USA)
+LOCATION:Room: Esmeralda 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tutorial: P4: Programming the Network Data Plane: Hands-on Lab
+DTSTART;VALUE=DATE-TIME:20160826T140000
+DTEND;VALUE=DATE-TIME:20160826T153000
+UID:b50ddadc2c3849a49fc4f653edf0e37c
+DESCRIPTION:Presenter(s): Changhoon Kim\, Jeongkeun "JK" Lee (Barefoot Net
+ works\, USA)
+LOCATION:Room: Topazio
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tutorial: Enabling Research in Future WiMobNet: Part 4 & Closing
+DTSTART;VALUE=DATE-TIME:20160826T160000
+DTEND;VALUE=DATE-TIME:20160826T173000
+UID:d1bb3d5a33254a86f8b5d0d2545c884c
+DESCRIPTION:Presenter(s): Kobus Van der Merwe\, Robert Ricci\, Kirk Webb (
+ University of Utah\, USA)
+LOCATION:Room: Esmeralda 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tutorial: P4: Programming the Network Data Plane: Mini-workshop
+DTSTART;VALUE=DATE-TIME:20160826T160000
+DTEND;VALUE=DATE-TIME:20160826T173000
+UID:5c633c3fa61fa83ff07e91249cae94e6
+DESCRIPTION:Presenter(s): Changhoon Kim\, Jeongkeun "JK" Lee (Barefoot Net
+ works\, USA)\n\nTalks: \n\n* Title: Talks & Panel: Towards Correct-by-Cons
+ truction SDN – Speaker(s): Nate Foster\, Anirudh Sivaraman\, Robert Soul
+ e\, Marco Canini\, and Sean Choi
+LOCATION:Room: Topazio
+END:VEVENT
+END:VCALENDAR

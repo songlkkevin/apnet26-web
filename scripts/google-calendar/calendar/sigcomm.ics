@@ -1,0 +1,429 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//My calendar product//mxm.dk//
+BEGIN:VEVENT
+SUMMARY:SIGCOMM: <a href=\\"preview.php\\" style=\\"color: #ffffff !import
+ ant\; \\">Topic Preview 1</a>
+DTSTART;VALUE=DATE-TIME:20160822T173000
+DTEND;VALUE=DATE-TIME:20160822T184500
+UID:c4de78bce7a44fef121988ea672a2ef0
+DESCRIPTION:
+LOCATION:Room: Agata
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGCOMM: Welcome Reception
+DTSTART;VALUE=DATE-TIME:20160822T190000
+DTEND;VALUE=DATE-TIME:20160822T210000
+UID:89b4fe8160062c20d6fead7983c1d607
+LOCATION:Foyer
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGCOMM: N2Women Dinner
+DTSTART;VALUE=DATE-TIME:20160822T200000
+DTEND;VALUE=DATE-TIME:20160822T223000
+UID:4118fb448a82333b313eca872a5581bf
+LOCATION:Restaurante Canto do Mar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGCOMM: Award Dinner
+DTSTART;VALUE=DATE-TIME:20160822T200000
+DTEND;VALUE=DATE-TIME:20160822T230000
+UID:9b13ede64c2ada0b638d2e6d690db0c6
+LOCATION:Restaurante Canto do Mar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGCOMM: Opening
+DTSTART;VALUE=DATE-TIME:20160823T084500
+DTEND;VALUE=DATE-TIME:20160823T103000
+UID:4d830e5bd21324e04e8c09ef3044129f
+DESCRIPTION:Chair(s): Marinho Barcellos (UFRGS)\, Jon Crowcroft (Universit
+ y of Cambridge)\n\n* Keynote Title:\nKeynote: Networking Research\, Educat
+ ion\, Mentoring and Service: Ten Insights\n\nSpeaker:\nJim Kurose (Univers
+ ity of Massachusetts\, Amherst)\, 2016 ACM SIGCOMM Lifetime Achievement Aw
+ ard Recipient\n\nAbstract:\nTo be announced soon.\n\nSpeaker Bio:\nJim Kur
+ ose received a B.A. degree in physics from Wesleyan University and his Ph.
+ D. degree in computer science from Columbia University. He is currently Di
+ stinguished University Professor in the College of Information and Compute
+ r Sciences at the University of Massachusetts Amherst. He has been a Visit
+ ing Scientist at IBM Research\, INRIA\, Institut EURECOM \, the University
+  of Paris\, the Laboratory for Information\, Network and Communication Sci
+ ences\, and Technicolor Research Labs.<br/>\n<br/>\nHis research interests
+  include network protocols and architecture\, network measurement\, sensor
+  networks\, and multimedia communication. Dr. Kurose has served as Editor-
+ in- Chief of the IEEE Transactions on Communications and was the founding 
+ Editor-in- Chief of the IEEE/ACM Transactions on Networking. He has been T
+ echnical Program Co-Chair for the IEEE Infocom\, ACM SIGCOMM\, ACM SIGMETR
+ ICS\, and ACM Internet Measurement conferences. He has won several confere
+ nce best paper awards and received the IEEE Infocom Achievement Award and 
+ the ACM Sigcomm Test of Time Award.<br/>\n<br/>\nHe has received a number 
+ of awards for his teaching including outstanding teacher awards from the N
+ ational Technological University\, the UMass College of Natural Science an
+ d Mathematics\, and the Northeast Association of Graduate Schools\, and th
+ e IEEE Taylor Booth Education Medal. He has recently served on the Board o
+ f Directors of the Computing Research Association\, and on the scientific 
+ advisory boards of IMDEA Networks in Madrid and the Laboratory for Informa
+ tion\, Network and Communication Sciences (LINCS) in Paris. With Keith Ros
+ s\, he is the co-author of the textbook\, Computer Networking\, a top down
+  approach (7th edition)\, published by Addison-Wesley/Pearson. He is a Fel
+ low of the ACM and the IEEE.<br/>\n<br/>\nSince January 2015\, he is servi
+ ng as an Assistant Director of the US National Science Foundation\, where 
+ he leads the Directorate for the Computer and Information Science and Engi
+ neering (CISE) in its mission to fundamental research in computer and info
+ rmation science and engineering and transformative advances in cyberinfras
+ tructure. Dr. Kurose oversees the CISE budget of more than $900 million. H
+ e also serves as co-chair of the Networking and Information Technology Res
+ earch and Development (NITRD) Subcommittee of the National Science and Tec
+ hnology Council Committee on Technology\, helping coordinate the activitie
+ s of 17 government agencies.\n\n
+LOCATION:Room: Diamante
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGCOMM: Session 1 - SDN & NFV I
+DTSTART;VALUE=DATE-TIME:20160823T110000
+DTEND;VALUE=DATE-TIME:20160823T124000
+UID:8e51a2cb8e0b92639034cc1ac89f0fa5
+DESCRIPTION:Chair(s): Nate Foster (Cornell University)\n\nPapers: \n\n* Ti
+ tle: ClickNP: Highly Flexible and High Performance Network Processing with
+  Reconfigurable Hardware – Author(s): Bojie Li (USTC / Microsoft Researc
+ h)\, Kun Tan (Microsoft Research)\, Layong (Larry) Luo (Microsoft)\, Yanqi
+ ng Peng (SJTU / Microsoft Research)\, Renqian Luo (USTC / Microsoft Resear
+ ch)\, Ningyi Xu (Microsoft Research)\, Yongqiang Xiong (Microsoft Research
+ )\, Peng Cheng (Microsoft Research)\, Enhong Chen (USTC)\n\n* Title: Packe
+ t Transactions: High-Level Programming for Line-Rate Switches – Author(s
+ ): Anirudh Sivaraman (MIT CSAIL)\, Alvin Cheung (University of Washington\
+ , Seattle)\, Mihai Budiu (VMWare Research)\, Changhoon Kim (Barefoot Netwo
+ rks)\, Mohammad Alizadeh (MIT CSAIL)\, Hari Balakrishnan (MIT CSAIL)\, Geo
+ rge Varghese (Microsoft Research)\, Nick McKeown (Stanford University)\, S
+ teve Licking (Barefoot Networks)\n\n* Title: SNAP: Stateful Network-Wide A
+ bstractions for Packet Processing – Author(s): Mina Tahmasbi Arashloo (P
+ rinceton University)\, Yaron Koral (Princeton University)\, Michael Greenb
+ erg (Pomona College)\, Jennifer Rexford (Princeton University)\, David Wal
+ ker (Princeton University)\n\n* Title: Programmable Packet Scheduling at L
+ ine Rate – Author(s): Anirudh Sivaraman (MIT CSAIL)\, Suvinay Subramania
+ n (MIT CSAIL)\, Mohammad Alizadeh (MIT CSAIL)\, Sharad Chole (Cisco System
+ s)\, Shang-Tse Chuang (Cisco Systems)\, Anurag Agrawal (Barefoot Networks)
+ \, Hari Balakrishnan (MIT CSAIL)\, Tom Edsall (Cisco Systems)\, Sachin Kat
+ ti (Stanford University)\, Nick McKeown (Stanford University)
+LOCATION:Room: Diamante
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGCOMM: Session 2 - Wide Area Networks
+DTSTART;VALUE=DATE-TIME:20160823T140000
+DTEND;VALUE=DATE-TIME:20160823T151500
+UID:2927706a8495f99955a8a99b5bdb4cf8
+DESCRIPTION:Chair(s): Bruce Maggs (Duke University)\n\nPapers: \n\n* Title
+ : Evolve or Die: High-Availability Design Principles Drawn from Google's N
+ etwork Infrastructure – Author(s): Ramesh Govindan (Google / USC)\, Ina 
+ Minei (Google)\, Mahesh Kallahalla (Google)\, Bikash Koley (Google)\, Amin
+  Vahdat (Google)\n\n* Title: Optimizing Bulk Transfers with Software-Defin
+ ed Optical WAN – Author(s): Xin Jin (Princeton University)\, Yiran Li (T
+ singhua University)\, Da Wei (Tsinghua University)\, Siming Li (Stony Broo
+ k University)\, Jie Gao (Stony Brook University)\, Lei Xu (Sodero Networks
+ )\, Guangzhi Li (AT&T Labs)\, Wei Xu (Tsinghua University)\, Jennifer Rexf
+ ord (Princeton University)\n\n* Title: Dynamic Pricing and Traffic Enginee
+ ring for Timely Inter-Datacenter Transfers – Author(s): Virajith Jalapar
+ ti (Microsoft)\, Ivan Bliznets (St. Petersburg Academic University)\, Srik
+ anth Kandula (Microsoft)\, Brendan Lucier (Microsoft)\, Ishai Menache (Mic
+ rosoft)
+LOCATION:Room: Diamante
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGCOMM: <a href=\\"posterprogram.php\\" style=\\"color: #ffffff !
+ important\; \n\\">Posters</a> and <a href=\\"demoprogram.php\\" \nstyle=\\
+ "color: #ffffff !important\; \\">Demos</a> I (includes coffee break from 3
+ :35pm-4:15pm)
+DTSTART;VALUE=DATE-TIME:20160823T151500
+DTEND;VALUE=DATE-TIME:20160823T161500
+UID:2872678e476c820ad1e64f0bb8e859c4
+DESCRIPTION:
+LOCATION:Room: Topazio and Agata
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGCOMM: Session 3 - Monitoring and Diagnostics
+DTSTART;VALUE=DATE-TIME:20160823T161500
+DTEND;VALUE=DATE-TIME:20160823T173000
+UID:920eac6d1a4465f68db64cc1b1cdd5cc
+DESCRIPTION:Chair(s): Jeff Mogul (Google)\n\nPapers: \n\n* Title: One Sket
+ ch to Rule Them All: Rethinking Network Flow Monitoring with UnivMon – A
+ uthor(s): Zaoxing Liu (Johns Hopkins University)\, Antonis Manousis (Carne
+ gie Mellon University)\, Gregory Vorsanger (Johns Hopkins University)\, Vy
+ as Sekar (Carnegie Mellon University)\, Vladimir Braverman (Johns Hopkins 
+ University)\n\n* Title: Trumpet: Timely and Precise Triggers in Data Cente
+ rs – Author(s): Masoud Moshref (University of Southern California)\, Min
+ lan Yu (University of Southern California)\, Ramesh Govindan (University o
+ f Southern California)\, Amin Vahdat (Google)\n\n* Title: The Good\, the B
+ ad\, and the Differences: Better Network Diagnostics with Differential Pro
+ venance – Author(s): Ang Chen (University of Pennsylvania)\, Yang Wu (Un
+ iversity of Pennsylvania)\, Andreas Haeberlen (University of Pennsylvania)
+ \, Wenchao Zhou (Georgetown University)\, Boon Thau Loo (University of Pen
+ nsylvania)
+LOCATION:Room: Diamante
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGCOMM: Conference Banquet
+DTSTART;VALUE=DATE-TIME:20160823T190000
+DTEND;VALUE=DATE-TIME:20160823T233000
+UID:949ec81b8533d3b49eeccac72a593fac
+LOCATION:Slaviero Essential Florianópolis Ingleses
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGCOMM: Session 4 - Scheduling
+DTSTART;VALUE=DATE-TIME:20160824T083000
+DTEND;VALUE=DATE-TIME:20160824T101000
+UID:1a79751693984d8559b3951a147e32e3
+DESCRIPTION:Chair(s): Sergey Gorinsky (IMDEA Networks Institute)\n\nPapers
+ : \n\n* Title: 2DFQ: Two-Dimensional Fair Queueing for Multi-Tenant Cloud 
+ Services – Author(s): Jonathan Mace (Brown University)\, Peter Bodik (Mi
+ crosoft)\, Madanlal Musuvathi (Microsoft)\, Rodrigo Fonseca (Brown Univers
+ ity)\, Krishnan Varadarajan (Microsoft)\n\n* Title: CODA: Toward Automatic
+ ally Identifying and Scheduling Coflows in the Dark – Author(s): Hong Zh
+ ang (Hong Kong University of Science and Technology)\, Li Chen (Hong Kong 
+ University of Science and Technology)\, Bairen Yi (Hong Kong University of
+  Science and Technology)\, Kai Chen (Hong Kong University of Science and T
+ echnology)\, Mosharaf Chowdhury (University of Michigan)\, Yanhui Geng (Hu
+ awei Noah's Ark Lab)\n\n* Title: Scheduling Mix-flows in Commodity Datacen
+ ters with Karuna – Author(s): Li Chen (Hong Kong University of Science a
+ nd Technology)\, Kai Chen (Hong Kong University of Science and Technology)
+ \, Wei Bai (Hong Kong University of Science and Technology)\, Mohammad Ali
+ zadeh (MIT)\n\n* Title: NUMFabric: Fast and Flexible Bandwidth Allocation 
+ in Datacenters – Author(s): Kanthi Nagaraj (Stanford University)\, Dines
+ h Bharadia (Stanford University)\, Hongzi Mao (M.I.T)\, Sandeep Chinchali 
+ (Stanford University)\, Mohammad Alizadeh (M.I.T.)\, Sachin Katti (Stanfor
+ d University)
+LOCATION:Room: Diamante
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGCOMM: Session 5 - Datacenters I
+DTSTART;VALUE=DATE-TIME:20160824T104000
+DTEND;VALUE=DATE-TIME:20160824T122000
+UID:a18684e30861f29650fd4946bca7e64a
+DESCRIPTION:Chair(s): Alex Snoren (UC San Diego)\n\nPapers: \n\n* Title: G
+ lobally Synchronized Time via Datacenter Networks – Author(s): Ki Suh Le
+ e (Cornell University)\, Han Wang (Cornell University)\, Vishal Shrivastav
+  (Cornell University)\, Hakim Weatherspoon (Cornell University)\n\n* Title
+ : Robotron: Top-down Network Management at Facebook Scale – Author(s): Y
+ u-Wei Eric Sung (Facebook)\, Xiaozheng Tie (Facebook)\, Starsky H.Y. Wong 
+ (Facebook)\, Hongyi Zeng (Facebook)\n\n* Title: RDMA over Commodity Ethern
+ et at Scale – Author(s): Chuanxiong Guo (Microsoft Research)\, Haitao Wu
+  (Microsoft)\, Zhong Deng (Microsoft)\, Gaurav Soni (Microsoft)\, Jianxi Y
+ e (Microsoft)\, Jitu Padhye (Microsoft Research)\, Marina Lipshteyn (Micro
+ soft)\n\n* Title: ProjecToR: Agile Reconfigurable Data Center Interconnect
+  – Author(s): Monia Ghobadi (Microsoft Research)\, Ratul Mahajan (Micros
+ oft Research)\, Amar Phanishayee (Microsoft Research)\, Nikhil Devanur (Mi
+ crosoft Research)\, Janardhan Kulkarni (Microsoft Research)\, Gireeja Rana
+ de (Microsoft Research)\, Pierre-Alexandre Blanche (University of Arizona)
+ \, Houman Rastegarfar (University of Arizona)\, Madeleine Glick (Universit
+ y of Arizona)\, Daniel Kilper (University of Arizona)
+LOCATION:Room: Diamante
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGCOMM: <a href=\\"preview.php\\" style=\\"color: #ffffff !import
+ ant\; \\">Topic Preview 2</a>
+DTSTART;VALUE=DATE-TIME:20160824T124000
+DTEND;VALUE=DATE-TIME:20160824T133000
+UID:11d4928106acea9a18727c08ec039d2f
+DESCRIPTION:Talks: \n\n* Title: Topic Preview 2 – Speaker(s): Topic Prev
+ iew 2 will take place at Diamante room. The topics covered will be Verific
+ ation\, Datacenter Networking / TCP\, Policies\, and Neutrality.
+LOCATION:Room: Diamante
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGCOMM: Session 6 - Verification
+DTSTART;VALUE=DATE-TIME:20160824T133000
+DTEND;VALUE=DATE-TIME:20160824T151000
+UID:c566e3c482f374daa80887ddeb3b91b3
+DESCRIPTION:Chair(s): Ramesh Govindan (University of Southern California)\
+ n\nPapers: \n\n* Title: Fast Control Plane Analysis Using an Abstract Repr
+ esentation – Author(s): Aaron Gember-Jacobson (University of Wisconsin-M
+ adison)\, Raajay Viswanathan (University of Wisconsin-Madison)\, Aditya Ak
+ ella (University of Wisconsin-Madison)\, Ratul Mahajan (Microsoft Research
+ )\n\n* Title: Symnet: scalable symbolic execution for modern networks – 
+ Author(s): Radu Stoenescu (University Politehnica of Bucharest)\, Matei Po
+ povici (University Politehnica of Bucharest)\, Lorina Negreanu (University
+  Politehnica of Bucharest)\, Costin Raiciu (University Politehnica of Buch
+ arest)\n\n* Title: Don't Mind the Gap: Bridging Network-wide Objectives an
+ d Device-level Configurations – Author(s): Ryan Beckett (Princeton Unive
+ rsity)\, Ratul Mahajan (Microsoft)\, Todd Millstein (University of Califor
+ nia\, Los Angeles)\, Jitendra Padhye (Microsoft)\, David Walker (Princeton
+  University)\n\n* Title: Jumpstarting BGP Security with Path-End Validatio
+ n – Author(s): Avichai Cohen (Hebrew University)\, Yossi Gilad (Boston U
+ niversity and MIT)\, Amir Herzberg (Bar Ilan University)\, Michael Schapir
+ a (Hebrew University)
+LOCATION:Room: Diamante
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGCOMM: <a href=\\"posterprogram.php\\" style=\\"color: #ffffff !
+ important\; \\">Posters</a> and <a href=\\"demoprogram.php\\" style=\\"col
+ or: #ffffff !important\; \\">Demos</a> II (includes coffee break from 3:30
+ pm-4:10pm)
+DTSTART;VALUE=DATE-TIME:20160824T151000
+DTEND;VALUE=DATE-TIME:20160824T161000
+UID:ecf047cda12af80dd2e1be573424d01a
+DESCRIPTION:
+LOCATION:Room: Topazio and Agata
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGCOMM: Session 7 - Networked Applications
+DTSTART;VALUE=DATE-TIME:20160824T161000
+DTEND;VALUE=DATE-TIME:20160824T172500
+UID:e87507fad5a39f6114cc3815af7de645
+DESCRIPTION:Chair(s): Nick Feamster (Princeton University)\n\nPapers: \n\n
+ * Title: WebPerf: Evaluating What-If Scenarios for Cloud-hosted Web Applic
+ ations – Author(s): Yurong Jiang (University of Southern California)\, L
+ enin Ravindranath (Microsoft Research)\, Suman Nath (Microsoft Research)\,
+  Ramesh Govindan (University of Southern California)\n\n* Title: CS2P: Imp
+ roving Video Bitrate Selection and Adaptation with Data-Driven Throughput 
+ Prediction – Author(s): Yi Sun (ICT/CAS)\, Xiaoqi Yin (CMU)\, Junchen Ji
+ ang (CMU)\, Vyas Sekar (CMU)\, Fuyuan Lin (ICT/CAS)\, Nanshu Wang (ICT/CAS
+ )\, Tao Liu (iQIYI)\, Bruno Sinopoli (CMU)\n\n* Title: Via: Improving Inte
+ rnet Telephony Call Quality Using Predictive Relay Selection – Author(s)
+ : Junchen Jiang (Microsoft Research / CMU)\, Rajdeep Das (Microsoft Resear
+ ch)\, Ganesh Ananthanarayanan (Microsoft Research)\, Philip A. Chou (Micro
+ soft Research)\, Venkata Padmanabhan (Microsoft Research)\, Vyas Sekar (CM
+ U)\, Esbjorn Dominique (Microsoft)\, Marcin Goliszewski (Microsoft)\, Dali
+ bor Kukoleca (Microsoft)\, Renat Vafin (Microsoft)\, Hui Zhang (CMU)
+LOCATION:Room: Diamante
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGCOMM: Community Feedback
+DTSTART;VALUE=DATE-TIME:20160824T173000
+DTEND;VALUE=DATE-TIME:20160824T183000
+UID:f3f855f8203ced76bdc5848db537df31
+DESCRIPTION:
+LOCATION:Room: Diamante
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGCOMM: Student Dinner
+DTSTART;VALUE=DATE-TIME:20160824T193000
+DTEND;VALUE=DATE-TIME:20160824T220000
+UID:1979f6d3bce92b517f03c7a862ee02b4
+LOCATION:Ataliba Churrascarias Florianópolis
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGCOMM: Session 8 - Wireless
+DTSTART;VALUE=DATE-TIME:20160825T083000
+DTEND;VALUE=DATE-TIME:20160825T103500
+UID:a93eff6a391f01324150d1b2a3e65b24
+DESCRIPTION:Chair(s): Bruce Maggs (Duke University)\n\nPapers: \n\n* Title
+ : Inter-Technology Backscatter: Towards Internet Connectivity for Implante
+ d Devices – Author(s): Vikram Iyer (University of Washington)\, Vamsi Ta
+ lla (University of Washington)\, Bryce Kellogg (University of Washington)\
+ , Shyamnath Gollakota (University of Washington)\, Joshua Smith (Universit
+ y of Washington)\n\n* Title: Enabling Practical Backscatter Communication 
+ for On-body Sensors – Author(s): Pengyu Zhang (University of Massachuset
+ ts Amherst)\, Mohammad Rostami (University of Massachusetts Amherst)\, Pan
+  Hu (University of Massachusetts Amherst)\, Deepak Ganesan (University of 
+ Massachusetts Amherst)\n\n* Title: Braidio: An Integrated Active-Passive R
+ adio for Mobile Devices with Asymmetric Energy Budgets – Author(s): Pan 
+ Hu (University of Massachusetts Amherst)\, Pengyu Zhang (University of Mas
+ sachusetts Amherst)\, Mohammad Rostami (University of Massachusetts Amhers
+ t)\, Deepak Ganesan (University of Massachusetts Amherst)\n\n* Title: Real
+ -time Distributed MIMO Systems – Author(s): Ezzeldin Hamed (Massachusett
+ s Institute of Technology)\, Hariharan Rahul (Massachusetts Institute of T
+ echnology)\, Mohammed A. Abdelghany (Massachusetts Institute of Technology
+ )\, Dina Katabi (Massachusetts Institute of Technology)\n\n* Title: Elimin
+ ating Channel Feedback in Next-Generation Cellular Networks – Author(s):
+  Deepak Vasisht (MIT)\, Swarun Kumar (CMU)\, Hariharan Rahul (MIT)\, Dina 
+ Katabi (MIT)
+LOCATION:Room: Diamante
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGCOMM: Session 9 - Datacenters II
+DTSTART;VALUE=DATE-TIME:20160825T110500
+DTEND;VALUE=DATE-TIME:20160825T122000
+UID:06a734c705447e52744db23f8fc9f02d
+DESCRIPTION:Chair(s): Sergey Gorinsky (IMDEA Networks Institute)\n\nPapers
+ : \n\n* Title: Virtualized Congestion Control – Author(s): Bryce Cronkit
+ e-Ratcliff (VMware / Stanford)\, Aran Bergman (Technion)\, Shay Vargaftik 
+ (Technion)\, Madhusudhan Ravi (VMware)\, Nick McKeown (Stanford)\, Ittai A
+ braham (VMware)\, Isaac Keslassy (VMware / Stanford / Technion)\n\n* Title
+ : AC/DC TCP: Virtual Congestion Control Enforcement for Datacenter Network
+ s – Author(s): Keqiang He (University of Wisconsin-Madison)\, Eric Rozne
+ r (IBM Research)\, Kanak Agarwal (IBM)\, Yu (Jason) Gu (IBM)\, Wes Felter 
+ (IBM Research)\, John Carter (IBM)\, Aditya Akella (University of Wisconsi
+ n-Madison)\n\n* Title: Taking the Blame Game out of Data Centers Operation
+ s with NetPoirot – Author(s): Behnaz Arzani (University of Pennsylvania)
+ \, Selim Ciraci (Microsoft)\, Boon Thau Loo (University of Pennsylvania)\,
+  Assaf Schuster (Technion - Israel Institute of Technology)\, Geoff Outhre
+ d (Microsoft)
+LOCATION:Room: Diamante
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGCOMM: Session 10 - Censorship and Choice
+DTSTART;VALUE=DATE-TIME:20160825T133000
+DTEND;VALUE=DATE-TIME:20160825T144500
+UID:873364798b9543f1a6442a1227cba8b7
+DESCRIPTION:Chair(s): Nick Feamster (Princeton University)\n\nPapers: \n\n
+ * Title: An Internet-Wide Analysis of Traffic Policing – Author(s): Tobi
+ as Flach (University of Southern California / Google)\, Pavlos Papageorge 
+ (Google)\, Andreas Terzis (Google)\, Luis Pedrosa (University of Southern 
+ California)\, Yuchung Cheng (Google)\, Tayeb Karim (Google)\, Ethan Katz-B
+ assett (University of Southern California)\, Ramesh Govindan (University o
+ f Southern California / Google)\n\n* Title: Neutral Net Neutrality – Aut
+ hor(s): Yiannis Yiakoumis (Stanford University)\, Sachin Katti (Stanford U
+ niversity)\, Nick McKeown (Stanford University)\n\n* Title: The Deforestat
+ ion of L2 – Author(s): James McCauley (UC Berkeley / ICSI)\, Mingjie Zha
+ o (UESTC / ICSI)\, Ethan J. Jackson (UC Berkeley)\, Barath Raghavan (ICSI)
+ \, Sylvia Ratnasamy (UC Berkeley / ICSI)\, Scott Shenker (UC Berkeley / IC
+ SI)
+LOCATION:Room: Diamante
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGCOMM: <a href=\\"maintrackposterprogram.php\\" style=\\"color: 
+ #ffffff !important\; \n\\">Posters</a> and <a href=\\"industrialdemoprogra
+ m.php\\" \nstyle=\\"color: #ffffff !important\; \\">Demos</a> III (include
+ s coffee break from 3:05pm-3:45pm)
+DTSTART;VALUE=DATE-TIME:20160825T144500
+DTEND;VALUE=DATE-TIME:20160825T154500
+UID:8ac0719fd275df62bc2bdfdd0d7fac98
+DESCRIPTION:
+LOCATION:Room: Topazio and Agata
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGCOMM: Session 11 - SDN & NFV II
+DTSTART;VALUE=DATE-TIME:20160825T154500
+DTEND;VALUE=DATE-TIME:20160825T170000
+UID:b79092235a8ade8322ce78850ba8ded2
+DESCRIPTION:Chair(s): Aditya Akella (University of Wisconsin Madison)\n\nP
+ apers: \n\n* Title: OpenBox: A Software-Defined Framework for Developing\,
+  Deploying\, and Managing Network Functions – Author(s): Anat Bremler-Ba
+ rr (The Interdisciplinary Center\, Herzliya)\, Yotam Harchol (The Hebrew U
+ niversity of Jerusalem)\, David Hay (The Hebrew University of Jerusalem)\n
+ \n* Title: PISCES: A Programmable\, Protocol-Independent Software Switch 
+ – Author(s): Muhammad Shahbaz (Princeton University)\, Sean Choi (Stanfo
+ rd University)\, Ben Pfaff (VMware)\, Changhoon Kim (Barefoot Networks)\, 
+ Nick Feamster (Princeton University)\, Nick McKeown (Stanford University)\
+ , Jennifer Rexford (Princeton University)\n\n* Title: Dataplane Specializa
+ tion for High-performance OpenFlow Software Switching – Author(s): Lász
+ ló Molnár (Ericsson Research\, Hungary)\, Gergely Pongrácz (Ericsson Re
+ search\, Hungary)\, Gábor Enyedi (Ericsson Research\, Hungary)\, Zoltán 
+ Kis (Ericsson Research\, Hungary)\, Levente Csikor (Budapest University of
+  Technology and Economics)\, Ferenc Juhász (Budapest University of Techno
+ logy and Economics)\, Attila Körösi (Budapest University of Technology a
+ nd Economics)\, Gábor Rétvári (Budapest University of Technology and Ec
+ onomics)
+LOCATION:Room: Diamante
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGCOMM: Best of CCR
+DTSTART;VALUE=DATE-TIME:20160825T170000
+DTEND;VALUE=DATE-TIME:20160825T175000
+UID:120e1f85cf4357a8c008bf96909d9f16
+DESCRIPTION:Chair(s): Srinivasan Keshav (University of Waterloo)\n\nPapers
+ : \n\n* Title: CrowdSurf: Empowering Transparency in the Web – Author(s)
+ : H. Metwalley (Politecnico di Torino)\, S. Traverso (Politecnico di Torin
+ o)\, M. Mellia (Politecnico di Torino)\, S. Miskovic (Symantec Corp.)\, M.
+  Baldi (Politecnico di Torino)\n\n* Title: Values and Networks: Steps Towa
+ rd Exploring their Relationships – Author(s): Carsten Orwat (Karlsruhe I
+ nstitute of Technology)\, Roland Bless (Karlsruhe Institute of Technology)
+LOCATION:Room: Diamante
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGCOMM: Closing
+DTSTART;VALUE=DATE-TIME:20160825T175000
+DTEND;VALUE=DATE-TIME:20160825T182000
+UID:3964a0d8e4869bd02c2d031b882cd9bc
+DESCRIPTION:
+LOCATION:Room: Diamante
+END:VEVENT
+END:VCALENDAR
