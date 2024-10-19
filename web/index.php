@@ -1,7 +1,7 @@
 <?php
     $page_title="APNET 2025";
     
-    $og_tags_page = array ("og:description" => "<meta property=\"og:description\" content=\"The 9th Asia-Pacific Workshop on Networking (APNET'25) will take place in 2025. ".
+    $og_tags_page = array ("og:description" => "<meta property=\"og:description\" content=\"The 9th Asia-Pacific Workshop on Networking (APNET'25) will take place August 7-8, 2025, at Shanghai, China. ".
                                                "APNet aims to bring together the very best researchers in computer networking and systems across the Asia-Pacific region and around the globe to a live forum discussing innovative ideas at their early stages. The mission of APNet is that promising but not-yet-mature ideas can receive timely feedback from the community and experienced researchers, leading them into publications at major conferences such as SIGCOMM, NSDI, SOSP, OSDI, MobiCom, and CoNEXT.".
                                                "We invite submissions of short papers (up to 6 pages, excluding references) on a wide range of networking research topics.\" />");
     include("include/header.php");
@@ -9,7 +9,7 @@
 
 <img src="images/sydney-dalle-2.png" alt="watercolor-painting by DALL·E" width="100%">
 
-<p>The 9<sup>th</sup> Asia-Pacific Workshop on Networking (APNET'25) will take place in 2025.</p>
+<p>The 9<sup>th</sup> Asia-Pacific Workshop on Networking (APNET'25) will take place August 7-8, 2025, at Shanghai, China.</p>
 
 <p>APNet aims to bring together the very best researchers in computer networking and systems across the Asia-Pacific region and around the globe to a live forum discussing innovative ideas at their early stages. The mission of APNet is that promising but not-yet-mature ideas can receive timely feedback from the community and experienced researchers, leading them into publications at major conferences such as SIGCOMM, NSDI, SOSP, OSDI, MobiCom, and CoNEXT.</p>
 <!-- <p>We invite submissions of short papers <font color="red">(up to 6 pages, excluding references)</font> on a wide range of networking research topics.</p> -->
