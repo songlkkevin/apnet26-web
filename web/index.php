@@ -7,7 +7,7 @@
     include("include/header.php");
 ?>
 
-<img src="images/sydney-dalle-2.png" alt="watercolor-painting by DALL·E" width="100%">
+<img src="images/background.png" alt="painting" width="100%">
 
 <p>The 9<sup>th</sup> Asia-Pacific Workshop on Networking (APNET'25) will take place August 7-8, 2025, at Shanghai, China.</p>
 

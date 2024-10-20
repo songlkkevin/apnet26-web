@@ -121,7 +121,7 @@
 
   <div class="header" data-role="header" data-theme="a" data-position="inline">
     <div>
-    <a href="index.php"><img src="images/apnet-logo.jpg" alt="APNET 2025, Sydney, Australia"></a>
+    <a href="index.php"><img src="images/logo2025.jpg" alt="APNET 2025, Shanghai, China"></a>
     </div>
     <figcaption><b>Co-located with ACM SIGCOMM 2024</b></figcaption>
     <a href="#" onclick="$.mobile.silentScroll($.mobile.activePage.find('.leftnav').position().top)" class="ui-btn-right" data-corners="true" data-icon="grid">MENU</a>
