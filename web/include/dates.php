@@ -2,5 +2,5 @@
   <?php add_dateitem("Abstract registration", "TBA"); ?>
   <?php add_dateitem("Paper submission", "TBA"); ?>
   <?php add_dateitem("Notification of decision", "TBA"); ?>
-  <?php add_dateitem("Workshop dates", "TBA"); ?>
+  <?php add_dateitem("Workshop dates", "August 7-8, 2025"); ?>
 </ul>
