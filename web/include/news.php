@@ -86,6 +86,7 @@
   add_dateitem("Nov 20, 2023", "Organizing Committee is online.");
   add_dateitem("Nov 20, 2023", "Program Committee is online.");
   add_dateitem("Nov 16, 2023", "Call For Papers is online.");*/
+  add_dateitem("Nov 5, 2024", "Program Committee is online.");
   add_dateitem("Oct 19, 2024", "APNET 2025 website is live.");
 ?>
 

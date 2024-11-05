@@ -7,11 +7,57 @@
 <ul data-role="listview" data-inset="true" data-theme="a" data-content-theme="a" class="tbl">
   <li data-role="list-divider">PC Co-Chairs</li>
   <?php
-    add_listitem("Theophilus Benson", "Carnegie Mellon University, USA", "https://www.andrew.cmu.edu/user/theophib/");
-    add_listitem("Ying Zhang", "Meta, USA", "https://scholar.google.com/citations?user=bN8tDyAAAAAJ&hl=en");
+    add_listitem("Marco Canini", "KAUST, KSA", "https://mcanini.github.io/");
+    add_listitem("Dan Li", "Tsinghua University, China", "https://nasp.cs.tsinghua.edu.cn/lidan.html");
   ?>
   <li data-role="list-divider">PC Members</li>
   <?php
+    add_listitem("Fawad Ahmad", "RIT", "https://www.rit.edu/directory/fwavcs-fawad-ahmad");
+    add_listitem("Gianni Antichi", "Politecnico di Milano, Italy", "https://gianniantichi.github.io/");
+    add_listitem("Zafar Ayyub Qazi", "LUMS", "https://web.lums.edu.pk/~zafar/");
+    add_listitem("Wei Bai", "NVIDIA, USA", "https://baiwei0427.github.io/");
+    add_listitem("Tom Barbette", "UCLouvain, Belgium", "https://perso.uclouvain.be/tom.barbette/");
+    add_listitem("Ryan Beckett", "Microsoft Research, USA", "https://www.microsoft.com/en-us/research/people/rybecket/");
+    add_listitem("Balakrishnan Chandrasekaran", "VU Amsterdam, Netherlands", "https://balakrishnanc.github.io/");
+    add_listitem("Li Chen", "Zhongguancun Laboratory, China", "https://drchen.li/");
+    add_listitem("Kenjiro Cho", "IIJ Research Lab, Japan", "https://www.iij-ii.co.jp/en/members/kjc.html");
+    add_listitem("Alessandro Cornacchia", "KAUST, KSA", "https://scholar.google.com/citations?user=xxEo3k4AAAAJ&hl=en");
+    add_listitem("Paolo Costa", "Microsoft Research, USA", "https://www.microsoft.com/en-us/research/people/pcosta/");
+    add_listitem("Kaihui Gao", "Zhongguancun Laboratory, China", "https://gaokaihui.com/");
+    add_listitem("Jiaqi Gao", "Alibaba Group, China", "https://jqgao.me/");
+    add_listitem("Dongsu Han", "KAIST, South Korea", "http://ina.kaist.ac.kr/~dongsuh/");
+    add_listitem("Chen-Yu Ho", "ByteDance, China", "https://www.chenyuho.com/");
+    add_listitem("Zhuo Jiang", "ByteDance, China", "https://scholar.google.com/citations?user=qOX0mXMAAAAJ&hl=en");
+    add_listitem("Daehyeok Kim", "University of Texas, USA", "https://daehyeok.kim/");
+    add_listitem("Tom Koch", "Google, USA", "https://www.columbia.edu/~tak2154/");
+    add_listitem("Bojie Li", "Logenic AI, USA", "https://01.me/whoami/");
+    add_listitem("Kate Lin", "National Chiao Tung University, Taiwan", "https://people.cs.nctu.edu.tw/~katelin/");
+    add_listitem("Ming Liu", "University of Wisconsin-Madison, USA", "https://pages.cs.wisc.edu/~mgliu/");
+    add_listitem("Alan Liu", "UMD-College Park, USA", "https://zaoxing.github.io/");
+    add_listitem("Morley Mao", "University of Michigan, USA", "https://web.eecs.umich.edu/~zmao/");
+    add_listitem("Congcong Miao", "Tencent, China", "https://congcongmiao.github.io/");
+    add_listitem("Srinivas Narayana", "Rutgers, USA", "https://people.cs.rutgers.edu/~sn624/");
+    add_listitem("Adrian Perrig", "ETH Zurich, Switzerland", "https://inf.ethz.ch/people/person-detail.perrig.html");
+    add_listitem("Muhammad Shabaz", "University of Michigan, USA", "https://gitlab.com/mshahbaz/mshahbaz.gitlab.io/-/wikis/home");
+    add_listitem("Haoyu Song", "Futurewei, USA", "https://www.linkedin.com/in/haoyu-song-d-sc-65687624/");
+    add_listitem("Robert Soule", "Yale, USA", "https://www.cs.yale.edu/homes/soule/");
+    add_listitem("Nik Sultana", "IIT, India", "https://www.iit.edu/directory/people/nik-sultana");
+    add_listitem("Chen Tian", "Nanjing University, China", "https://cs.nju.edu.cn/tianchen/");
+    add_listitem("Laurent Vanbever", "ETH Zurich, Switzerland", "https://nsg.ee.ethz.ch/people/laurent-vanbever/");
+    add_listitem("Yuke Wang", "Rice, USA", "https://profiles.rice.edu/faculty/yuke-wang");
+    add_listitem("Shuai Wang", "Zhongguancun Laboratory, China", "https://wangshuaizs.github.io/");
+    add_listitem("Xingda Wei", "SJTU, China", "https://ipads.se.sjtu.edu.cn/pub/members/xingda_wei");
+    add_listitem("Walter Willinger", "NIKSUN, USA", "https://acems.org.au/our-people/walter-willinger");
+    add_listitem("Qiao Xiang", "Xiamen University, China", "https://qiaoxiang.me/");
+    add_listitem("Yunming Xiao", "University of Michigan, USA", "https://yunmingxiao.github.io/");
+    add_listitem("Hong Xu", "CUHK, Hong Kong SAR", "https://henryhxu.github.io/");
+    add_listitem("Liangcheng Yu", "Microsoft Research, USA", "https://www.microsoft.com/en-us/research/people/liangchengyu/");
+    add_listitem("Ennan Zhai", "Alibaba Group, China", "https://ennanzhai.github.io/");
+    add_listitem("Junxue Zhang", "HKUST, Hong Kong SAR", "https://snowzjx.me/");
+    add_listitem("Zhi-Li Zhang", "University of Minnesota, USA", "https://www-users.cs.umn.edu/~zhang089/");
+    add_listitem("Zhizhen Zhong", "MIT, USA", "https://people.csail.mit.edu/zhizhenzhong/");
+    add_listitem("Danyang Zhuo", "Duke University, USA", "https://danyangzhuo.com/");    
+    /*
     add_listitem("Gianni Antichi", "Politecnico di Milano, Italy", "https://gianniantichi.github.io/");
     add_listitem("Panda Aurojit", "NYU, USA", "https://cs.nyu.edu/~apanda/");
     add_listitem("Wei Bai", "Microsoft Research, USA", "https://baiwei0427.github.io/");
@@ -50,8 +96,6 @@
     add_listitem("Zhi-Li Zhang", "University of Minnesota, USA", "https://www-users.cs.umn.edu/~zhang089/");
     add_listitem("Danyang Zhuo", "Duke University, USA", "https://danyangzhuo.com/");
     
-    
-    /*
     add_listitem("Aditya Akella", "University of Wisconsin Madison, USA", "http://pages.cs.wisc.edu/~akella/");
     add_listitem("Mohammad Alizadeh", "MIT, USA", "https://people.csail.mit.edu/alizadeh/");
     add_listitem("Katerina Argyraki", "EPFL, Switzerland", "http://people.epfl.ch/katerina.argyraki");
