@@ -48,13 +48,13 @@
   
   <li class="notlast <?php if ($mypage=="accept.php") echo('navselected') ?>" data-icon="false">
       <a href="accept.php">Accepted Papers List</a>
-    </li>
+    </li>-->
 
   <li class="notlast <?php if ($mypage=="cfp.php") echo('navselected') ?>" data-icon="false">
       <a href="cfp.php">Call for Papers</a>
     </li>
   
-    <li class="notlast <?php if ($mypage=="cfposter.php") echo('navselected') ?>" data-icon="false">
+    <!--<li class="notlast <?php if ($mypage=="cfposter.php") echo('navselected') ?>" data-icon="false">
       <a href="cfposter.php">Call for Posters</a>
     </li>
 
