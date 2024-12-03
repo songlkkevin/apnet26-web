@@ -15,6 +15,8 @@
 <!-- <p>We invite submissions of short papers <font color="red">(up to 6 pages, excluding references)</font> on a wide range of networking research topics.</p> -->
 
 <!-- <p align="center"><br/><a href="statement-ec.php">Statement by the SIGCOMM Executive Committee</a> and</br><a href="message.php">Message from the General Chairs</a> on the relocation to Florian&oacute;polis</p> -->
+<p><b>Important Notice:</b> APNET 2025 will transition to the ACM Open Access publishing model starting January 1, 2026; authors must meet Open Access requirements detailed on the <a href="https://www.acm.org/publications/openaccess">ACM website</a>. For more questions, please visit the <a href="https://conferences.sigcomm.org/events/apnet2025/qaAcmOpen.php">ACM Open Access Q&A page</a>.</p>
+
 
 <h2>News</h2>
 

@@ -52,6 +52,9 @@
 
 <p>The APNet Technical Program Committee will evaluate submissions based on their novelty, significance, and technical merit, rather than completeness. Innovative and well-reasoned ideas supported by preliminary evaluations are sufficient for APNet. We encourage authors to further develop their APNet papers with robust implementations and experiments, aiming for publication in the aforementioned premier conferences.</p>
 
+<h2>Important Note to Authors about ACM Open Access Publishing Model</h2>
+<p>We are pleased to announce that APNET 2025 will participate in the ACM Open initiative, transitioning to a 100% Open Access publishing model starting January 1, 2026. This change aims to enhance the accessibility and impact of research published in the ACM Digital Library. Authors submitting papers to APNET must either be affiliated with an ACM Open institution, pay the applicable Article Processing Charge (APC), or qualify for an automatic or discretionary waiver. Detailed information regarding the Open Access model and associated fees can be found on the <a href="https://www.acm.org/publications/openaccess">ACM website</a>. We encourage authors to review this information carefully to ensure a smooth submission process. For any inquiries, please reach out to <a href="mailto:acmopen@hq.acm.org">acmopen@hq.acm.org</a>.</p>
+
 <h2>Submission Instructions</h2>
 				<!--<p><b><a href="https://apnet24.hotcrp.com">https://apnet24.hotcrp.com</a> is open for registration and submission.</b></p>-->
 				<!-- <p><b><a href="https://apnet24.hotcrp.com">https://apnet24.hotcrp.com</a> is open now.</b></p> -->

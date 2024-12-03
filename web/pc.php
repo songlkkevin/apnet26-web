@@ -14,6 +14,7 @@
   <?php
     add_listitem("Fawad Ahmad", "RIT, USA", "https://www.rit.edu/directory/fwavcs-fawad-ahmad");
     add_listitem("Gianni Antichi", "Politecnico di Milano, Italy", "https://gianniantichi.github.io/");
+    add_listitem("Calvin Ardi", "ISI, USA", "https://www.isi.edu/directory/calvin/");
     add_listitem("Zafar Ayyub Qazi", "LUMS, Pakistan", "https://web.lums.edu.pk/~zafar/");
     add_listitem("Wei Bai", "NVIDIA, USA", "https://baiwei0427.github.io/");
     add_listitem("Tom Barbette", "UCLouvain, Belgium", "https://perso.uclouvain.be/tom.barbette/");
