@@ -74,9 +74,9 @@
       <a href="pc.php">Program Committee</a>
     </li>
   
-  <!--<li class="notlast <?php if ($mypage=="organization.php") echo('navselected') ?>" data-icon="false">
+  <li class="notlast <?php if ($mypage=="organization.php") echo('navselected') ?>" data-icon="false">
       <a href="organization.php">Organization Committee</a>
-    </li>-->
+    </li>
   
 
   
