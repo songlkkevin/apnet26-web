@@ -24,11 +24,12 @@
 
 <h1>Call for Papers</h1>
 
-<p>The 9<sup>th</sup> Asia-Pacific Workshop on Networking (APNet’25) will be held in Shanghai, China on August 7-8, 2025. Building on the success of its predecessors, APNet’25 will continue to bring together the very best researchers in computer networking and systems across the Asia-Pacific region and around the globe to a live forum discussing innovative ideas at their early stages. The mission of APNet is that promising but not-yet-mature ideas can receive timely feedback from the community and experienced researchers, leading them into publications at major conferences such as SIGCOMM, NSDI, SOSP, OSDI, EuroSys, MobiCom, and CoNEXT.</p>
+<br>
+<p style="text-align: justify; text-indent: 2em;">The 9<sup>th</sup> Asia-Pacific Workshop on Networking (APNet’25) will be held in Shanghai, China on August 7-8, 2025. Building on the success of its predecessors, APNet’25 will continue to bring together the very best researchers in computer networking and systems across the Asia-Pacific region and around the globe to a live forum discussing innovative ideas at their early stages. The mission of APNet is that promising but not-yet-mature ideas can receive timely feedback from the community and experienced researchers, leading them into publications at major conferences such as SIGCOMM, NSDI, SOSP, OSDI, EuroSys, MobiCom, and CoNEXT.</p>
 
 <br>
 
-<p>We invite submissions of short papers <font color="red">(up to 6 pages, excluding references)</font> on a wide range of networking research, including, but not limited to:</p>
+<p style="text-align: justify; text-indent: 2em;">We invite submissions of short papers <font color="red">(up to 6 pages, excluding references)</font> on a wide range of networking research, including, but not limited to:</p>
 				<ul class="custom-list">
   <li style="font-style: italic;">Network architectures and algorithms</li>
   <li style="font-style: italic;">Cloud and wide-area networking systems &amp; infrastructure</li>
@@ -50,17 +51,18 @@
 
 <br>
 
-<p>The APNet Technical Program Committee will evaluate submissions based on their novelty, significance, and technical merit, rather than completeness. Innovative and well-reasoned ideas supported by preliminary evaluations are sufficient for APNet. We encourage authors to further develop their APNet papers with robust implementations and experiments, aiming for publication in the aforementioned premier conferences.</p>
+<p style="text-align: justify; text-indent: 2em;">The APNet Technical Program Committee will evaluate submissions based on their novelty, significance, and technical merit, rather than completeness. Innovative and well-reasoned ideas supported by preliminary evaluations are sufficient for APNet. We encourage authors to further develop their APNet papers with robust implementations and experiments, aiming for publication in the aforementioned premier conferences.</p>
 
 <h2>Important Note to Authors about ACM Open Access Publishing Model</h2>
-<p>We are pleased to announce that APNET 2025 will participate in the ACM Open initiative, transitioning to a 100% Open Access publishing model starting January 1, 2026. This change aims to enhance the accessibility and impact of research published in the ACM Digital Library. Authors submitting papers to APNET must either be affiliated with an ACM Open institution, pay the applicable Article Processing Charge (APC), or qualify for an automatic or discretionary waiver. Detailed information regarding the Open Access model and associated fees can be found on the <a href="https://www.acm.org/publications/openaccess">ACM website</a>. We encourage authors to review this information carefully to ensure a smooth submission process. For any inquiries, please reach out to <a href="mailto:acmopen@hq.acm.org">acmopen@hq.acm.org</a>.</p>
+<br>
+<p style="text-align: justify; text-indent: 2em;">We are pleased to announce that APNET 2025 will participate in the ACM Open initiative, transitioning to a 100% Open Access publishing model starting January 1, 2026. This change aims to enhance the accessibility and impact of research published in the ACM Digital Library. Authors submitting papers to APNET must either be affiliated with an ACM Open institution, pay the applicable Article Processing Charge (APC), or qualify for an automatic or discretionary waiver. Detailed information regarding the Open Access model and associated fees can be found on the <a href="https://www.acm.org/publications/openaccess">ACM website</a>. We encourage authors to review this information carefully to ensure a smooth submission process. For any inquiries, please reach out to <a href="mailto:acmopen@hq.acm.org">acmopen@hq.acm.org</a>.</p>
 
 <h2>Submission Instructions</h2>
 				<!--<p><b><a href="https://apnet24.hotcrp.com">https://apnet24.hotcrp.com</a> is open for registration and submission.</b></p>-->
 				<!-- <p><b><a href="https://apnet24.hotcrp.com">https://apnet24.hotcrp.com</a> is open now.</b></p> -->
 
-
-<p>Submissions must be no longer than 6 pages in length including all content except references, formatted in standard ACM two-column conference style with 10-pt font size. Authors should consult the <a href="https://www.acm.org/publications/proceedings-template">ACM website</a> for the up to date template. Reviewing will be double-blind: no author or affiliation information should appear in the submission. The authors should additionally follow the best practice in order not to disclose their identities implicitly. Papers may present preliminary results but must include novel ideas and differ significantly from previously published work. In line with standard scholarly practices, authors should not have substantially similar work under review elsewhere. However, an extended version of the APNet submission, with a complete implementation and additional experiments, can be submitted simultaneously to another venue. Accepted papers will appear in the proceedings of the workshop, which will be published in the ACM Digital Library.</p> 
+                <br>
+<p style="text-align: justify; text-indent: 2em;">Submissions must be no longer than 6 pages in length including all content except references, formatted in standard ACM two-column conference style with 10-pt font size. Authors should consult the <a href="https://www.acm.org/publications/proceedings-template">ACM website</a> for the up to date template. Reviewing will be double-blind: no author or affiliation information should appear in the submission. The authors should additionally follow the best practice in order not to disclose their identities implicitly. Papers may present preliminary results but must include novel ideas and differ significantly from previously published work. In line with standard scholarly practices, authors should not have substantially similar work under review elsewhere. However, an extended version of the APNet submission, with a complete implementation and additional experiments, can be submitted simultaneously to another venue. Accepted papers will appear in the proceedings of the workshop, which will be published in the ACM Digital Library.</p> 
 
 <br>
 
