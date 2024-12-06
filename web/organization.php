@@ -36,7 +36,6 @@
     add_listitem("Jinbin Hu", "Hong Kong University of Science & Technology", "https://huhuzizi.github.io/jinbinhu.github.io/index.html");
     add_listitem("Sen Liu", "Fudan University", "https://scholar.google.com/citations?user=cG_8PfoAAAAJ&hl=zh-CN");
     add_listitem("Dian Shen", "Southeast University", "https://scholar.google.com/citations?user=KXhY9YIAAAAJ&hl=en");
-    add_listitem("Lu Tang", "Xiamen University", "https://grace-tl.github.io/index.html");
 ?>
 
 <li data-role="list-divider">Publicity Chairs</li>
@@ -77,11 +76,35 @@
     add_listitem("Wanxin Shi", "Fudan University", "https://dl.acm.org/profile/99659439396");
 ?>
 
+<li data-role="list-divider">Diversity Chairs</li>
+<?php
+    add_listitem("Lu Tang", "Xiamen University", "https://grace-tl.github.io/index.html");
+    add_listitem("Feiyuan Zhang", "Hong Kong University of Science & Technology", "https://www.linkedin.com/in/feiyuan-zhang-8aa329175/");
+?>
+
 <li data-role="list-divider">Web Chairs</li>
 <?php
     add_listitem("Hao Wang", "Hong Kong University of Science & Technology", "https://whwh1996.github.io/");
     add_listitem("Hao Wang", "Stevens Institute of Technology", "https://intellisys.haow.ca/haowang/");
 ?>
+    
+</ul>
+
+
+<h2>Steering Committee</h2>
+<ul data-role="listview" data-inset="true" data-theme="a" data-content-theme="a" class="tbl">
+  <li data-role="list-divider"></li>
+  <?php
+     add_listitem("Kai Chen, Co-Chair", "HKUST", "http://www.cse.ust.hk/~kaichen/");
+     add_listitem("Dongsu Han", "KAIST", "https://ina.kaist.ac.kr/~dongsuh/");
+     add_listitem("Dan Li", "Tsinghua University", "https://www.aminer.cn/profile/dan-li/5406a0b0dabfae92b421974d");
+     add_listitem("Jitu Padhye", "Microsoft", "http://research.microsoft.com/en-us/um/people/padhye/");
+     add_listitem("KyoungSoo Park", "KAIST", "http://www.ndsl.kaist.edu/~kyoungsoo/");
+     add_listitem("K. K. Ramakrishnan", "UC Riverside", "https://kk.cs.ucr.edu/");
+     add_listitem("Jinshu Su", "NUDT", "https://dblp.org/pid/15/2098.html");
+     add_listitem("Kun Tan, Co-Chair", "Huawei", "https://scholar.google.com.hk/citations?user=pizBYKkAAAAJ&hl=en");
+     add_listitem("Minlan Yu", "Harvard University", "http://www.cs.yale.edu/homes/yu-minlan/");
+  ?>
     
 </ul>
 
