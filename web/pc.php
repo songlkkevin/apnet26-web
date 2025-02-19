@@ -33,7 +33,7 @@
     add_listitem("Daehyeok Kim", "University of Texas at Austin", "https://daehyeok.kim/");
     add_listitem("Tom Koch", "Google", "https://www.columbia.edu/~tak2154/");
     add_listitem("Bojie Li", "Logenic AI", "https://01.me/whoami/");
-    add_listitem("Kate Lin", "National Chiao Tung University", "https://people.cs.nctu.edu.tw/~katelin/");
+    add_listitem("Kate Ching-Ju Lin", "National Yang Ming Chiao Tung University", "https://people.cs.nctu.edu.tw/~katelin/");
     add_listitem("Alan Liu", "UMD-College Park", "https://zaoxing.github.io/");
     add_listitem("Ming Liu", "University of Wisconsin-Madison", "https://pages.cs.wisc.edu/~mgliu/");
     add_listitem("Morley Mao", "University of Michigan", "https://web.eecs.umich.edu/~zmao/");
@@ -42,7 +42,7 @@
     add_listitem("Adrian Perrig", "ETH Zurich", "https://inf.ethz.ch/people/person-detail.perrig.html");
     add_listitem("Muhammad Shabaz", "University of Michigan", "https://gitlab.com/mshahbaz/mshahbaz.gitlab.io/-/wikis/home");
     add_listitem("Haoyu Song", "Futurewei", "https://www.linkedin.com/in/haoyu-song-d-sc-65687624/");
-    add_listitem("Robert Soule", "Yale", "https://www.cs.yale.edu/homes/soule/");
+    add_listitem("Robert Soulé", "Yale", "https://www.cs.yale.edu/homes/soule/");
     add_listitem("Nik Sultana", "IIT", "https://www.iit.edu/directory/people/nik-sultana");
     add_listitem("Chen Tian", "Nanjing University", "https://cs.nju.edu.cn/tianchen/");
     add_listitem("Laurent Vanbever", "ETH Zurich", "https://nsg.ee.ethz.ch/people/laurent-vanbever/");
