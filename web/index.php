@@ -34,7 +34,7 @@
 
 <?php include("include/dates.php"); ?>
 
-<!-- <h2>Sponsors</h2> -->
+<h2>Sponsors</h2>
 
 
 
@@ -65,7 +65,7 @@
             display: flex;
             justify-content: center;
             align-items: center;
-            gap: 80px; /* 增加图片间的间距 */
+            gap: 20px; /* 增加图片间的间距 */
             /* flex-wrap: wrap; */
         }
         .custom-row img {
@@ -76,20 +76,28 @@
             max-height: 60px; /* 保持第一行图片宽度 */
             width: auto;
         }
+        .custom-row img.first-img {
+            max-height: 60px;
+            width: auto;
+        }
         .custom-row img.second-img {
-            max-height: 160px;
+            max-height: 60px;
             width: auto;
         }
         .custom-row img.third-img {
-            max-height: 120px;
+            max-height: 60px;
             width: auto;
         }
         .custom-row img.four-img {
-            max-height: 100px;
+            max-height: 60px;
             width: auto;
         }
         .custom-row img.five-img {
-            max-height: 150px;
+            max-height: 60px;
+            width: auto;
+        }
+        .custom-row img.six-img {
+            max-height: 60px;
             width: auto;
         }
         @media screen and (max-width: 768px) {
@@ -100,38 +108,45 @@
                 max-height: 30px;
                 width: auto; 
             }
+            .custom-row img.first-img {
+                max-height: 30px;
+                width: auto;
+            }
             .custom-row img.second-img {
-                max-height: 70px;
+                max-height: 30px;
                 width: auto;
             }
             .custom-row img.third-img {
-                max-height: 50px;
+                max-height: 30px;
                 width: auto;
             }
             .custom-row img.four-img {
-                max-height: 50px;
+                max-height: 30px;
                 width: auto;
             }
             .custom-row img.five-img {
-                max-height: 60px;
+                max-height: 30px;
+                width: auto;
+            }
+            .custom-row img.six-img {
+                max-height: 30px;
                 width: auto;
             }
         }
     </style>
 
-<!--<div class="custom-container">
-        <div class="custom-row first-row">
-            <a href="//www.cse.hkust.edu.hk/"><img src="images/sponsors/hkustcse.png" alt="HKUST CSE"/></a>
+<div class="custom-container">
+        <div class="custom-row">
+            <a href="//www.sigcomm.org/"><img class="first-img" src="images/sig.png" alt="ACM SIGCOMM"/></a>
+            <a href="//www.sigmobile.org/"><img class="second-img" src="images/sigmobile.jpeg" alt="ACM SIGMOBILE"/></a>
+            <a href="//hkust.edu.hk/"><img class="third-img" src="images/hkust.png" alt="HKUST"/></a>
         </div>
         <div class="custom-row">
-            <a href="//www.huawei.com/"><img class="second-img" src="images/sponsors/huawei_logo.png" alt="HUAWEI"/></a>
-            <a href="//www.acm.org/"><img class="third-img" src="images/sponsors/acm.jpeg" alt="In-cooperation with ACM"/></a>
+            <a href="//www.fudan.edu.cn/"><img class="four-img" src="images/fdu2.png" alt="FUDAN UNIVERSITY"/></a>
+            <a href="//www.huawei.com/"><img class="five-img" src="images/huawei.png" alt="HUAWEI"/></a>
+            <a href="//www.alibabacloud.com/"><img class="six-img" src="images/alicloud.png" alt="ALIBABA CLOUD"/></a>
         </div>
-        <div class="custom-row">
-            <a href="//www.sigmobile.org/"><img class="four-img" src="images/sponsors/sigmobile.gif" alt="ACM SIGMOBILE"/></a>
-            <a href="//www.sigcomm.org/"><img class="five-img" src="images/sponsors/sigcomm.png" alt="ACM SIGCOMM"/></a>
-        </div>
-    </div>-->
+    </div>
 
 <!-- <div class="sponsor">
     <div class="row">
