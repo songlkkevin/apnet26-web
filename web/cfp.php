@@ -75,7 +75,10 @@
     </p>
     <ul>
         <li><a href="https://www.china-briefing.com/news/china-visa-free-travel-policies-complete-guide/" target="_blank">China’s Visa-Free Policies: Latest Updates</a></li>
-        <li><a href="https://www.visaforchina.cn/CBR2_EN/generalinformation/faq/275556.shtml" target="_blank">Visa-free entry in to Mainland China: Frequently Asked Questions</a></li>
+        <!-- <li><a href="https://www.visaforchina.cn/CBR2_EN/generalinformation/faq/275556.shtml" target="_blank">Visa-free entry in to Mainland China: Frequently Asked Questions</a></li> -->
+        <li><a href="https://www.visaforchina.cn/" target="_blank">Chinese Visa Application Service Center</a></li>
+        </a></li>
+        
     </ul>
     <p>
 

@@ -54,11 +54,11 @@
       <a href="cfp.php">Call for Papers</a>
     </li>
   
-    <!--<li class="notlast <?php if ($mypage=="cfposter.php") echo('navselected') ?>" data-icon="false">
+    <li class="notlast <?php if ($mypage=="cfposter.php") echo('navselected') ?>" data-icon="false">
       <a href="cfposter.php">Call for Posters</a>
     </li>
 
-    <li class="notlast <?php if ($mypage=="cfpatron.php") echo('navselected') ?>" data-icon="false">
+    <!--<li class="notlast <?php if ($mypage=="cfpatron.php") echo('navselected') ?>" data-icon="false">
       <a href="cfpatron.php">Call for Patrons</a>
     </li>
 
