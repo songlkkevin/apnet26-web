@@ -53,6 +53,7 @@
 
 <p style="text-align: justify; text-indent: 2em;">The APNet Technical Program Committee will evaluate submissions based on their novelty, significance, and technical merit, rather than completeness. Innovative and well-reasoned ideas supported by preliminary evaluations are sufficient for APNet. We encourage authors to further develop their APNet papers with robust implementations and experiments, aiming for publication in the aforementioned premier conferences.</p>
 
+<br>
 <h2>APC Burden Reduction (ABR) Program</h2>
 <br>
     <p style="text-align: justify; text-indent: 2em;">Following recent changes in ACM's publication policies for the International Conference Proceedings Series (ICPS), authors affiliated with institutions that are not part of the ACM Open program (<a href="https://libraries.acm.org/acmopen/open-participants" target="_blank">libraries.acm.org/acmopen/open-participants</a>) and do not qualify for a waiver must pay an article processing charge (APC) to publish their ICPS article in the ACM Digital Library.</p>
@@ -69,6 +70,7 @@
     <h3>Application Process</h3>
     <p style="text-indent: 2em;">Eligible authors must provide verification of all three conditions and submit the required documentation via email to <a href="mailto:senliu@fudan.edu.cn">senliu@fudan.edu.cn</a>.</p>
 
+<br>
 <h2>Information of China’s Visa-Free Policies</h2>
 <br>
     <p style="text-indent: 2em;">We are pleased to announce that many countries are eligible for visa-free entry to Shanghai, making it easier for you to attend the APNet 2025 conference. For the latest information on China’s visa-free travel policies, please refer to the following links:
@@ -82,10 +84,12 @@
     </ul>
     <p>
 
+<br>
 <h2>Important Note to Authors about ACM Open Access Publishing Model</h2>
 <br>
 <p style="text-align: justify; text-indent: 2em;">We are pleased to announce that APNET 2025 will participate in the ACM Open initiative, transitioning to a 100% Open Access publishing model starting January 1, 2026. This change aims to enhance the accessibility and impact of research published in the ACM Digital Library. Authors submitting papers to APNET must either be affiliated with an ACM Open institution, pay the applicable Article Processing Charge (APC), or qualify for an automatic or discretionary waiver. Detailed information regarding the Open Access model and associated fees can be found on the <a href="https://www.acm.org/publications/openaccess">ACM website</a>. We encourage authors to review this information carefully to ensure a smooth submission process. For any inquiries, please reach out to <a href="mailto:acmopen@hq.acm.org">acmopen@hq.acm.org</a>.</p>
 
+    <br>
 <h2>Submission Instructions</h2>
 				<!--<p><b><a href="https://apnet24.hotcrp.com">https://apnet24.hotcrp.com</a> is open for registration and submission.</b></p>-->
 				<!-- <p><b><a href="https://apnet24.hotcrp.com">https://apnet24.hotcrp.com</a> is open now.</b></p> -->
@@ -97,7 +101,7 @@
 
 <p style="text-indent: 2em;">Submissions can be made online at <a href="https://apnet25.hotcrp.com">https://apnet25.hotcrp.com/</a>.</p>
 
-
+<br>
 <h2 >Important dates</h2>
 <?php include("include/dates.php"); ?>
 <!--<ul data-role="listview" data-inset="true" data-theme="a" data-content-theme="a" class="datetbl">
@@ -109,8 +113,9 @@
 
 <!--<a href="files/cfp.pdf" rel="external" data-role="button" class="dl-button button">Download this call as a PDF</a>-->
 
-<!-- <h2>Camera-Ready Instructions</h2>
-	
+<br>
+<h2>Camera-Ready Instructions</h2>
+	<br>
 				<p>Please note any change in title or authorship must be <b>APPROVED BY the PC CHAIRS</b>. This is to ensure that our publication accurately reflects any updates.</p>
 				
 				<p>The page limit for the final paper is 6 pages, excluding references. For the final paper, please use the <a href="http://www.acm.org/publications/proceedings-template">official ACM Article template</a>, and make sure to use 9 pt font. Please do NOT use copies of these templates that you might find elsewhere since we cannot be sure that those are compliant.</p>
@@ -119,7 +124,7 @@
 	
 				<p>The authors must insert the correct rights management text and bibliographic strip into the final paper. The ACM will use its automated system to email this information to the authors. Please set your email spam settings to allow messages from "rightsreview@acm.org". <b>For papers that are conditionally accepted with shepherding, the copyright forms will be available after the shepherding outcome</b>.</p>
 				
-				<p>If you have any questions about the camera-ready process, feel free to contact APNET 2025 publication chair <a href="https://huhuzizi.github.io/jinbinhu.github.io/index.html">Jinbin Hu</a>.</p> -->
+				<p>If you have any questions about the camera-ready process, feel free to contact APNET 2025 publication chair <a href="https://huhuzizi.github.io/jinbinhu.github.io/index.html">Jinbin Hu</a>.</p> 
 				
 
 <?php include ("include/footer.php"); ?>

@@ -144,7 +144,7 @@
         <div class="custom-row">
             <a href="//www.fudan.edu.cn/"><img class="four-img" src="images/fdu2.png" alt="FUDAN UNIVERSITY"/></a>
             <!-- <a href="//www.huawei.com/"><img class="five-img" src="images/huawei.png" alt="HUAWEI"/></a> -->
-            <!-- <a href="//www.alibabacloud.com/"><img class="six-img" src="images/alicloud.png" alt="ALIBABA CLOUD"/></a> -->
+            <a href="//www.alibabacloud.com/"><img class="six-img" src="images/alicloud.png" alt="ALIBABA CLOUD"/></a>
         </div>
     </div>
 

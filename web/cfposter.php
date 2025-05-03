@@ -9,18 +9,18 @@
 <br>
 <p style="text-align: justify; text-indent: 2em;">The <b>APNet poster session</b> offers an opportunity for presenting late-breaking preliminary works, ongoing research projects, especially topics at their infant age. We invite submissions relevant to the area of computer networking and systems from both academic and industry, which would address the topics of mentioned in the main conference call for papers.</p>
 			
-			<h2>Why should you submit a Poster?</h2><br>
+<br><h2>Why should you submit a Poster?</h2><br>
 			<p style="text-align: justify; text-indent: 2em;">Presenting a poster is a great opportunity, especially for new topics targeting major conferences such as SIGCOMM, NSDI, SOSP, OSDI, MobiCom, and CoNEXT, etc. Poster presentations allow researchers to present and to receive direct feedback from a knowledgeable crowd about significant work in progress and bleeding-edge work, which is best communicated in an interactive or graphical fashion.</p>
       <br>
 			<p style="text-align: justify; text-indent: 2em;"><b>Note that accepted posters will be included in the conference proceedings. We may invite some of the rejected paper submissions with high quality to resubmit as a poster.</b></p>
 			
-			<h2>What to submit</h2><br>
+			<br><h2>What to submit</h2><br>
 			<p style="text-align: justify; text-indent: 2em;">You can submit a <b>two-page extended abstract</b> in PDF format that describes your work. Reviewers will judge based on the potential of your idea. Prepare your abstract using <a href="https://www.acm.org/publications/proceedings-template">ACM SIG Alternate conference style</a>. The posters submitted to APNET 2025 must be original and cannot be concurrently submitted to other workshops or posters during the poster/demo review period.</p>
 			
-			<h2>Where to submit</h2><br>
+        <br><h2>Where to submit</h2><br>
 			<p style="text-align: justify; text-indent: 2em;">Please submit your abstract at <a href="https://apnet25posters.hotcrp.com/">poster submission site (TBA)</a>. Submissions are single blind, so please include authors and affiliations.</p>
 
-      <h2>Poster Presentation Information</h2><br>
+        <br><h2>Poster Presentation Information</h2><br>
 			<p style="text-align: justify; text-indent: 2em;">A poster is A0 paper size in portrait mode (841 x 1189mm), to which you can affix visually appealing material that describes your research topic/direction. You should prepare the best material (visually appealing and succinct) that effectively communicates your targeted problem, why it is important, what is the state-of-the-art, what is wrong/missing, your insight, initial design, preliminary results (if any), and why it is novel. Presenting a birds' eye view on your topic/direction is encouraged.</p>
       <br>
       <p style="text-align: justify; text-indent: 2em;"><b>At least one author of each accepted poster must register for the conference and present the poster.</b></p>
