@@ -57,7 +57,7 @@
 <h2>APC Burden Reduction (ABR) Program</h2>
 <br>
     <p style="text-align: justify; text-indent: 2em;">Following recent changes in ACM's publication policies for the International Conference Proceedings Series (ICPS), authors affiliated with institutions that are not part of the ACM Open program (<a href="https://libraries.acm.org/acmopen/open-participants" target="_blank">libraries.acm.org/acmopen/open-participants</a>) and do not qualify for a waiver must pay an article processing charge (APC) to publish their ICPS article in the ACM Digital Library.</p>
-    <p style="text-indent: 2em;">To help mitigate this financial burden, <b>APNet’25 is introducing the APC Burden Reduction (ABR) Program</b>, which provides <b>a free full conference registration</b> as partial compensation for the APC cost.</p>
+    <p style="text-align: justify; text-indent: 2em;">To help mitigate this financial burden, <b>APNet’25 is introducing the APC Burden Reduction (ABR) Program</b>, which provides registration discount to compensate for the APC cost. Please be advised that the ABR Program benefits are mutually exclusive with travel grant, and cannot be combined with other funding mechanisms from APNet’25. </p>
 
 <h3>Eligibility Criteria</h3>
     <p style="text-indent: 2em;">Authors may apply for the ABR Program if they meet all of the following conditions:</p>
@@ -65,10 +65,11 @@
         <li>The paper has been officially accepted as a <b>regular paper</b> at APNet’25.</li>
         <li>The corresponding author’s institution is <b>not</b> listed in the <a href="https://libraries.acm.org/acmopen/open-participants">ACM Open Participant List</a>.</li>
         <li>A formal APC waiver request has been <b>submitted to ACM and rejected</b>.</li>
+        <li>The paper’s APC invoice from ACM.</li>
     </ul>
 
     <h3>Application Process</h3>
-    <p style="text-indent: 2em;">Eligible authors must provide verification of all three conditions and submit the required documentation via email to <a href="mailto:senliu@fudan.edu.cn">senliu@fudan.edu.cn</a>.</p>
+    <p style="text-align: justify; text-indent: 2em;">Eligible authors must provide verification of all four conditions and submit the required documentation via email to <a href="mailto:senliu@fudan.edu.cn">senliu@fudan.edu.cn</a>. Upon successful processing of the ABR Program application, a single-use discount code will be issued to authors via email. This unique identifier must be applied during conference registration and cannot be transferred to other researchers.</p>
 
 <br>
 <h2>Information of China’s Visa-Free Policies</h2>

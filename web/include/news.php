@@ -75,16 +75,22 @@
   add_dateitem("Jul 31, 2024", "Banquet Information is online.");
   add_dateitem("Jun 15, 2024", "Local Information is online.");
   add_dateitem("Jun 14, 2024", "Program is online.");
-  add_dateitem("Jun 1, 2024", "SIGCOMM/NSDI Talks is online.");
+  add_dateitem("Jun 1, 2024", "Academic Insight Talks is online.");
   add_dateitem("Jun 1, 2024", "Keynote Talks is online.");
   add_dateitem("May 10, 2024", "Registration is online.");
-  add_dateitem("May 5, 2024", "Accepted Papers List is online.");
   add_dateitem("May 4, 2024", "Visa Information is online.");
   add_dateitem("May 4, 2024", "Industry Spotlight Talks is online.");
   add_dateitem("Mar 17, 2024", "Call For Posters is online.");
   add_dateitem("Mar 1, 2024", "Call For Patrons is online.");
   add_dateitem("Nov 20, 2023", "Organizing Committee is online.");
   add_dateitem("Nov 20, 2023", "Program Committee is online.");*/
+  add_dateitem("May 28, 2025", "Travel Grants Information is online.");
+  add_dateitem("May 20, 2025", "Accepted Papers List is online.");
+  add_dateitem("May 10, 2025", "Update the APC Burden Reduction Policy.");
+  add_dateitem("May 10, 2025", "Academic Insight Talks is online.");
+  add_dateitem("May 10, 2025", "Keynote Talks is online.");
+  add_dateitem("May 8, 2025", "Industry Spotlight Talks is online.");
+  add_dateitem("May 7, 2025", "The submission deadline of Posters has been postponed by one week.");
   add_dateitem("Apr 8, 2025", "Call For Posters is online.");
   add_dateitem("Dec 4, 2024", "Organizing Committee is online.");
   add_dateitem("Nov 26, 2024", "Call For Papers is online.");

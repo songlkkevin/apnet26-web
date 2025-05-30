@@ -32,7 +32,7 @@
 
     <li class="notlast <?php if ($mypage=="banquet.php") echo('navselected') ?>" data-icon="false">
       <a href="banquet.php">Banquet Information</a>
-    </li>
+    </li>-->
 
     <li class="notlast <?php if ($mypage=="keynote.php") echo('navselected') ?>" data-icon="false">
       <a href="keynote.php">Keynote Talks</a>
@@ -43,13 +43,16 @@
     </li>
 
     <li class="notlast <?php if ($mypage=="sigcommnsdi.php") echo('navselected') ?>" data-icon="false">
-      <a href="sigcommnsdi.php">SIGCOMM/NSDI Talks</a>
+      <a href="sigcommnsdi.php">Academic Insight Talks</a>
     </li>
   
   <li class="notlast <?php if ($mypage=="accept.php") echo('navselected') ?>" data-icon="false">
       <a href="accept.php">Accepted Papers List</a>
-    </li>-->
+    </li>
 
+  <li class="notlast <?php if ($mypage=="grant.php") echo('navselected') ?>" data-icon="false">
+      <a href="grant.php">Travel Grants Information</a>
+    </li>
   <li class="notlast <?php if ($mypage=="cfp.php") echo('navselected') ?>" data-icon="false">
       <a href="cfp.php">Call for Papers</a>
     </li>

@@ -18,7 +18,7 @@
 			<p style="text-align: justify; text-indent: 2em;">You can submit a <b>two-page extended abstract</b> in PDF format that describes your work. Reviewers will judge based on the potential of your idea. Prepare your abstract using <a href="https://www.acm.org/publications/proceedings-template">ACM SIG Alternate conference style</a>. The posters submitted to APNET 2025 must be original and cannot be concurrently submitted to other workshops or posters during the poster/demo review period.</p>
 			
         <br><h2>Where to submit</h2><br>
-			<p style="text-align: justify; text-indent: 2em;">Please submit your abstract at <a href="https://apnet25posters.hotcrp.com/">poster submission site (TBA)</a>. Submissions are single blind, so please include authors and affiliations.</p>
+			<p style="text-align: justify; text-indent: 2em;">Please submit your abstract at <a href="https://apnet25posters.hotcrp.com/">poster submission site</a>. Submissions are single blind, so please include authors and affiliations.</p>
 
         <br><h2>Poster Presentation Information</h2><br>
 			<p style="text-align: justify; text-indent: 2em;">A poster is A0 paper size in portrait mode (841 x 1189mm), to which you can affix visually appealing material that describes your research topic/direction. You should prepare the best material (visually appealing and succinct) that effectively communicates your targeted problem, why it is important, what is the state-of-the-art, what is wrong/missing, your insight, initial design, preliminary results (if any), and why it is novel. Presenting a birds' eye view on your topic/direction is encouraged.</p>
@@ -28,8 +28,8 @@
 			
 			<h2>Important Dates</h2>
             <ul data-role="listview" data-inset="true" data-theme="a" data-content-theme="a" class="datetbl">
-    <?php add_dateitem("May 9, 2025 (AoE)", "Submission Deadline"); ?>
-    <?php add_dateitem("May 16, 2025 (AoE)", "Acceptance Notification"); ?>
+    <?php add_dateitem("May 16, 2025 (AoE)", "Submission Deadline"); ?>
+    <?php add_dateitem("May 23, 2025 (AoE)", "Acceptance Notification"); ?>
 </ul>
 
 <h2>Poster Chairs</h2>
