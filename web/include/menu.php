@@ -22,11 +22,11 @@
       <a href="index.php">Home</a>
     </li>
 
-  <!--<li class="notlast <?php if ($mypage=="registration.php") echo('navselected') ?>" data-icon="false">
+  <li class="notlast <?php if ($mypage=="registration.php") echo('navselected') ?>" data-icon="false">
       <a href="registration.php">Registration</a>
     </li>
 
-    <li class="notlast <?php if ($mypage=="apnetprogram.php") echo('navselected') ?>" data-icon="false">
+    <!--<li class="notlast <?php if ($mypage=="apnetprogram.php") echo('navselected') ?>" data-icon="false">
       <a href="apnetprogram.php">Program</a>
     </li>
 

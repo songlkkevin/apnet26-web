@@ -58,13 +58,28 @@
     <p>Expressways: Unlocking the Full Potential of AI With Next-Gen Networking</p>
   </div>
 </div>
-			<p><b>Abstract:</b> TBA. </p>
+			<p style="text-align: justify;"><b>Abstract:</b> TBA. </p>
 			
-			<p><b>Speaker Bio:</b> Gil Bloch is a Senior Principal Architect at NVIDIA, where he leads a global team responsible for the software and system architecture of large-scale AI systems. His work focuses on building high-performance, scalable infrastructure for distributed AI training and inference, with an emphasis on co-design across compute, network, and software layers. He specializes in fast interconnects, RDMA, in-network computing, and communication optimization for AI workloads.
+			<p style="text-align: justify;"><b>Speaker Bio:</b> Gil Bloch is a Senior Principal Architect at NVIDIA, where he leads a global team responsible for the software and system architecture of large-scale AI systems. His work focuses on building high-performance, scalable infrastructure for distributed AI training and inference, with an emphasis on co-design across compute, network, and software layers. He specializes in fast interconnects, RDMA, in-network computing, and communication optimization for AI workloads.
       Gil has extensive experience across both hardware and software domains, including the design of network adapter and switch ASICs, RDMA offload engines, and open-source networking software for HPC and AI systems. He is the author or co-author of multiple patents in computer networking and interconnect architecture.
       In addition to his industry work, Gil teaches courses on Fast Networks and RDMA programming at Hebrew University, Ben-Gurion University, and the Technion.
 </p>
 
+<div class="container">
+  <div class="image-container">
+    <img src="images/fanyang.png">
+  </div>
+  <div class="text-container">
+    <h2><a href="https://fanyangcs.github.io/" class="ui-link">Fan Yang</a ></h2>
+    <p>Senior Principal Research Manager at MSR-Asia</p>
+    <h2>Talk Title:</h2>
+    <p>TBA</p>
+  </div>
+</div>
+			<p style="text-align: justify;"><b>Abstract:</b> TBA. </p>
+			
+			<p style="text-align: justify;"><b>Speaker Bio:</b> Fan Yang is a Senior Principal Research Manager of Systems Research group at MSR-Asia. His research passion is on Computer Systems. Recently he has been exploring the fundamental principles behind various AI systems. His exploration on Deep Learning Cluster, Deep learning compiler, and Vector storage leads to several open-source projects, including OpenPAI, TileLang, nnScaler, and VBase. Some of the techniques therein have been used by Microsoft products like Azure, M365, and Bing. And the corresponding research results have appeared in top system conferences like OSDI/SOSP.
+</p>
 
 <div class="container">
   <div class="image-container">
@@ -77,9 +92,9 @@
     <p>Luoshen: A Large Scale High Performance Cloud Network for Public Cloud</p>
   </div>
 </div>
-			<p><b>Abstract:</b> Public cloud has gone through a rapid growth for past decades. Tenant network scales from several thousand virtual machines per VPC to 1.5 million in nowadays. Along with the scale, the performance for a single load balancer instance boosts from tens of thousands simultaneous connections to hundreds of millions. Furthermore, the ever changing workloads require a rapid and elastic network function deployments. To overcome these challenges, Alibaba Cloud spends 10 years crafting its cloud network system. In this session, I will present how Alilbaba Cloud designs and builds a large scale high performance cloud network called Luoshen to meet the requirements. We will discuss the overall architecture of Luoshen, which is a SDN-optimized, hardware-accelareted network. Then, we will dive into the massive compute nodes where we design a hardware-offload virtual switch architecture to ensure flexibility and scale. To solve the performance problem, I will talk about our high performance multi-tenant gateways built with programmable switches. Regarding to elasticity, I will discuss our cost-effective network functions virtualization platform which manages all sorts of network functions on demand. </p>
+			<p style="text-align: justify;"><b>Abstract:</b> Public cloud has gone through a rapid growth for past decades. Tenant network scales from several thousand virtual machines per VPC to 1.5 million in nowadays. Along with the scale, the performance for a single load balancer instance boosts from tens of thousands simultaneous connections to hundreds of millions. Furthermore, the ever changing workloads require a rapid and elastic network function deployments. To overcome these challenges, Alibaba Cloud spends 10 years crafting its cloud network system. In this session, I will present how Alilbaba Cloud designs and builds a large scale high performance cloud network called Luoshen to meet the requirements. We will discuss the overall architecture of Luoshen, which is a SDN-optimized, hardware-accelareted network. Then, we will dive into the massive compute nodes where we design a hardware-offload virtual switch architecture to ensure flexibility and scale. To solve the performance problem, I will talk about our high performance multi-tenant gateways built with programmable switches. Regarding to elasticity, I will discuss our cost-effective network functions virtualization platform which manages all sorts of network functions on demand. </p>
 			
-			<p><b>Speaker Bio:</b> Shunmin Zhu is head of cloud network division at Alibaba Cloud. He leads the team to design and develop a large scale high performance cloud networking system called Luoshen. Based on Luoshen, he incubates a wide range of network products spanning from cloud data center to wide area networking, serving the global users of Alibaba Cloud. His research focuses on programmable high performance networking, AI networking and network telemetry. He received China Computer Fedaration(aka CCF) Science and Technology Achievement Award in 2021 and 2023.
+			<p style="text-align: justify;"><b>Speaker Bio:</b> Shunmin Zhu is head of cloud network division at Alibaba Cloud. He leads the team to design and develop a large scale high performance cloud networking system called Luoshen. Based on Luoshen, he incubates a wide range of network products spanning from cloud data center to wide area networking, serving the global users of Alibaba Cloud. His research focuses on programmable high performance networking, AI networking and network telemetry. He received China Computer Fedaration(aka CCF) Science and Technology Achievement Award in 2021 and 2023.
 </p>
 
 <?php include ("include/footer.php"); ?>

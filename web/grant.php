@@ -38,8 +38,8 @@
     <h2>Important dates</h2>
     <br>
     <ul class="custom-list">
-        <li><strong>Deadline for application:</strong> <font color="#FF0000">Friday, June 14</font>, 2025</li>
-        <li><strong>Notification of acceptance:</strong> <font color="#FF0000">Tuesday, June 18</font>, 2025</li>
+        <li><strong>Deadline for application:</strong> <del>Saturday, June 14</del> <font color="#FF0000">Wednesday, June 18</font>, 2025</li>
+        <li><strong>Notification of acceptance:</strong> <del>Wednesday, June 18</del>  <font color="#FF0000">Thursday, June 19</font>, 2025</li>
     </ul>
 
     <br>

@@ -84,6 +84,7 @@
   add_dateitem("Mar 1, 2024", "Call For Patrons is online.");
   add_dateitem("Nov 20, 2023", "Organizing Committee is online.");
   add_dateitem("Nov 20, 2023", "Program Committee is online.");*/
+  add_dateitem("Jun 11, 2025", "Registration is online.");
   add_dateitem("May 28, 2025", "Travel Grants Information is online.");
   add_dateitem("May 20, 2025", "Accepted Papers List is online.");
   add_dateitem("May 10, 2025", "Update the APC Burden Reduction Policy.");
