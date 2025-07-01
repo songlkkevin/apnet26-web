@@ -3,9 +3,15 @@
     include("include/header.php");
 ?>
 
-<h2>Recommended Hotels</h2>
+<h2>Venue/Accommodation </h2>
+<p>The main conference venue is <strong>Crowne Plaza Shanghai Fudan Hotel</strong> in Shanghai, China.</p>
 
-<p>The main conference venue is University of New South Wales (UNSW). However, there are many options for accommodation available within walking distance, via hotel shuttle, or using public transportation.</p>
+<p>Book before <strong>July 19, 2025</strong> to get the conference discount rate of <strong>700 CNY/night</strong> at Crowne Plaza:<br>
+<a href="https://my.31huiyi.com/hotelpc/en/65130000-1d87-32d8-0cbc-08dd8fbd01b6/newHotel?roleType=Attendee" target="_blank">https://my.31huiyi.com/booking-portal</a></p>
+
+<p>Alternative accommodations within walking distance:<br>
+<a href="https://www.booking.com/district/cn/shanghai/wujiaochang.html" target="_blank">https://www.booking.com/wujiaochang-options</a></p>
+<!--<p>The main conference venue is University of New South Wales (UNSW). However, there are many options for accommodation available within walking distance, via hotel shuttle, or using public transportation.</p>
 
 <p>APNET 2025 is co-located with SIGCOMM 2024. Therefore, we recommend the same hotels as listed on the SIGCOMM 2024 website.</p>
 
@@ -19,6 +25,6 @@
         <li><a href="https://taronga.org.au/sydney-zoo" style="font-size: 20px; color: orange;" target="_blank">Taronga Zoo Sydney</a></li>
     </ul>
 
-
+-->
 
 <?php include ("include/footer.php"); ?>

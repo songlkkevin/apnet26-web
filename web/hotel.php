@@ -5,7 +5,15 @@
 
 <h1>Accommodation</h1>
 
-<p>The main conference venue is <a href="http://www.oceaniaparkhotel.com.br/centro-convencoes/">Oceania Convention Center</a>. There are plenty of options for accommodation available in easy walking distance from the venue. Below is a list of nearby hotels with special offers for conference attendees. <b>The deadline for booking a hotel room at discounted rates was extended to July 20th!</b></p>
+<p>The main conference venue is <strong>Crowne Plaza Shanghai Fudan Hotel</strong> in Shanghai, China.</p>
+
+<p>Book before <strong>July 19, 2025</strong> to get the conference discount rate of <strong>700 CNY/night</strong> at Crowne Plaza:<br>
+<a href="https://my.31huiyi.com/hotelpc/en/65130000-1d87-32d8-0cbc-08dd8fbd01b6/newHotel?roleType=Attendee" target="_blank">https://my.31huiyi.com/booking-portal</a></p>
+
+<p>Alternative accommodations within walking distance:<br>
+<a href="https://www.booking.com/district/cn/shanghai/wujiaochang.html" target="_blank">https://www.booking.com/wujiaochang-options</a></p>
+
+<!--<p>The main conference venue is <a href="http://www.oceaniaparkhotel.com.br/centro-convencoes/">Oceania Convention Center</a>. There are plenty of options for accommodation available in easy walking distance from the venue. Below is a list of nearby hotels with special offers for conference attendees. <b>The deadline for booking a hotel room at discounted rates was extended to July 20th!</b></p>
 
 <p>All values below are in Brazilian Reais (sign: R$, ISO-code: BRL). As of May 17th, one dollar (USD) buys around R$ 3.50. Check <a href="http://www.xe.com/currency/brl-brazilian-real" rel="external">XE.com</a> for an estimate of BRL to the currency of your choice.</p>
 
@@ -199,6 +207,6 @@
   
   Click on the map for a larger view.
   
-</div>
+</div>-->
 
 <?php include ("include/footer.php"); ?>

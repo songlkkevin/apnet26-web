@@ -65,6 +65,23 @@
       In addition to his industry work, Gil teaches courses on Fast Networks and RDMA programming at Hebrew University, Ben-Gurion University, and the Technion.
 </p>
 
+
+<div class="container">
+  <div class="image-container">
+    <img src="images/binyang.png">
+  </div>
+  <div class="text-container">
+    <h2><a href="https://www.linkedin.com/in/bingyangliu/?originalSubdomain=cn" class="ui-link">Binyang Liu</a ></h2>
+    <p>Director of Network Technology Lab, Huawei Central Research Institute</p>
+    <h2>Talk Title:</h2>
+    <p>TBA</p>
+  </div>
+</div>
+			<p style="text-align: justify;"><b>Abstract:</b> TBA. </p>
+			
+			<p style="text-align: justify;"><b>Speaker Bio:</b> Bingyang Liu is the director of Network Technology Lab, Huawei. His research interests lie in data center networks and wide-area networks. Before joining Huawei, he was a postdoctoral researcher at Institute for Network Sciences and Cyberspace, Tsinghua University. He received the Ph.D. degree from Department of Computer Science, Tsinghua University.
+</p>
+
 <div class="container">
   <div class="image-container">
     <img src="images/fanyang.png">

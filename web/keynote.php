@@ -48,32 +48,44 @@
 </style>
 
 
-<p>TBA</p>
-<!--<div class="container">
+<div class="container">
   <div class="image-container">
-    <img src="images/alizadeh.jpeg">
+    <img src="images/matt.jpeg">
   </div>
   <div class="text-container">
-    <h2><a href="https://people.csail.mit.edu/alizadeh/" class="ui-link">Mohammad Alizadeh</a ></h2>
-    <p>Associate Professor, MIT</p>
+    <h2><a href="https://caesar.cs.illinois.edu/" class="ui-link">Matthew Caesar</a ></h2>
+    <p>Professor, UIUC</p>
     <h2>Talk Title:</h2>
-    <p>Building Better Network Simulators with Machine Learning</p>
+    <p>From Prediction to Proof: Rethinking AI for Systems and Networks</p>
   </div>
 </div>
-			<p><b>Abstract:</b> Simulators are essential tools in a network designer's arsenal and are integral to emerging AI-based systems, as many learning strategies rely on simulators to explore a design space. However, simulation technology has not changed much in decades. Packet-level simulators like ns-3 face significant scalability limitations, while trace-driven simulators/emulators often suffer from poor fidelity.
-
-In this talk, I will present our ongoing work to enhance network simulation using machine learning. The overarching theme of these efforts is to leverage abundant network data to learn a network's dynamics without modeling each low-level component in detail. I will describe two projects that exemplify this approach.
-
-First, I will introduce CausalSim, a causal inference approach for accurate trace-driven simulation. Traditional simulators replay observed traces, such as network throughput measurements, to test interventions like new protocols. This method is often flawed because the interventions could have altered the original traces. CausalSim uses a novel causal inference algorithm to learn the relationship between interventions and trace observations, modifying the trace during simulation to reflect the effect of the interventions. I will show how CausalSim's ``unbiased'' simulations can lead to entirely different conclusions than prior simulators.
-
-Next, I will discuss m3, a new scale-free, fast, and accurate model for estimating datacenter network performance. m3 learns an approximation of performance statistics (e.g., flow completion time distributions) produced by a packet-level simulator like ns-3. Given a network scenario (i.e., a topology, workload, and network parameters such as congestion control protocols), m3 predicts the performance statistics 1000x faster than ns-3 with less than 10% error. I will present m3's key ideas, including a technique to use a simple flow-level simulator to extract compact features describing a network scenario.
-
-I will conclude with open problems and research challenges in network modeling and simulation with machine learning. </p>
+			<p style="text-align: justify;"><b>Abstract:</b> Artificial Intelligence has delivered remarkable successes across domains, yet its foundational goals diverge from critical needs of the systems and networking community: correctness, rigor, and explainability. In this talk, I argue that while AI has reshaped what we think is possible, it is not yet aligned with the demands of complex systems. Instead, I propose a new trajectory -- one that re-centers automated reasoning as a foundation for the next generation of AI-enhanced systems infrastructure. By reimagining formal reasoning as a creative, scalable, and machine-assisted process, we can unlock a new class of tools and techniques that offer the rigor of proofs with the adaptability of learning. This talk outlines a vision for this shift, highlights early breakthroughs, and explores how it can complement and extend the capabilities of today’s AI.</p>
 			
-			<p><b>Speaker Bio:</b> Mohammad Alizadeh is an Associate Professor of Computer Science at the Massachusetts Institute of Technology. His research interests are in computer networks, systems, and applied machine learning. His current research focuses on machine learning for systems, and network protocols and algorithms for a broad range of applications, including datacenter networking, cloud computing, Internet video delivery, and blockchain systems. Mohammad's research on datacenter networks has led to protocols implemented in modern operating systems and deployed by large network operators. Mohammad earned his MS and Ph.D. in Electrical Engineering from Stanford University. He is a recipient of several awards, including the ACM Grace Murray Hopper Award, Microsoft Research Faculty Fellowship, VMware Systems Research Award, SIGCOMM Rising Star Award, NSF CAREER Award, Alfred P. Sloan Research Fellowship, SIGCOMM Test of Time Award, and multiple best paper awards.
-</p>-->
+			<p style="text-align: justify;"><b>Speaker Bio:</b> Matthew is a Professor in the Department of Computer Science at the University of Illinois at Urbana-Champaign. He received his Ph.D. at UC Berkeley in 2007. He currently serves as Chair of ACM SIGCOMM, co-founder and organizing committee member of the Networking Channel, and co-Principal Investigator of the $25M TSCP-DC project at UIUC's IARCS center in Singapore. Prior to his Ph.D, he spent several years as an engineer in the telecom sector (Nokia, Diamond Lane, HP). He has worked in the area of networked systems for over two decades, publishing over 50 technical papers, which appear in highly selective academic conferences and have resulted in multiple best paper awards. Matthew has led numerous research initiatives in this space, including a DARPA MRC initiative on next-generation security for cloud networking. He received the NSF CAREER award (2011), DARPA CSSG membership (2011), is a CAS Fellow (2013), an IEEE Fellow (2023) and received Test of Time Awards from SIGSIM-PADS for his landmark work on distributed time synchronization, and USENIX NSDI for his foundational contributions to software-defined networking. Matthew has a long history of successful technology transfer. His startup company Veriflow produced the first practical network verification system and was sold to VMware in 2019. At AT&T he co-developed the Routing Control Platform, a route management technology which was deployed on their North American IP backbone. At Microsoft, he co-developed Virtual Ring Routing, which was incorporated as part of the mesh connectivity layer in Microsoft Windows. Matthew has also served as an expert witness in multiple high-profile trials in support of networking technology users, and teaches students across the world through his MOOC as well as multiple initiatives in support of education in East Asia.
+</p>
 
 
+<div class="container">
+  <div class="image-container">
+    <img src="images/dongsu.jpg">
+  </div>
+  <div class="text-container">
+    <h2><a href="https://ina.kaist.ac.kr/team/dongsuh" class="ui-link">Dongsu Han</a ></h2>
+    <p>Professor, KAIST</p>
+    <h2>Talk Title:</h2>
+    <p>Democratizing Deep Learning Training: Towards Training LLMs using Consumer-grade GPUs</p>
+  </div>
+</div>
+			<p style="text-align: justify;"><b>Abstract:</b> Current large language models (LLMs) demand high-performance computing infrastructure with expensive datacenter-grade GPUs, making them prohibitively expensive and inaccessible for most researchers and organizations. This talk presents practical approaches to democratizing AI by enabling large-scale model training and inference using commodity consumer-grade GPUs.
+
+The key challenges in leveraging consumer-grade GPUs are two-fold: breaking through the limitations of restricted GPU memory and overcoming the severely constrained bandwidth for communication across distributed GPUs. I will demonstrate that leveraging consumer-grade GPUs doesn't have to involve significant performance degradation: one can not only reduce costs but also achieve performance gains. I will present three systems that exemplify this principle: ES-MoE (ICML 2024), which enables training of large models like LLMs on limited GPU memory environments with just a few GPUs; StellaTrain (SIGCOMM 2024), which achieves effective data-parallel distributed training by pooling consumer-grade GPUs even under bandwidth-constrained networks; and our latest 2025 research on leveraging consumer-grade GPUs for inference.
+
+This inference work demonstrates how distributed low-cost GPUs in edge clouds can reduce per-token costs by 50% while decreasing Time to Last Token (TTLT) by approximately 10%, making LLM inference services accessible at half the traditional cost with improved performance.</p>
+			
+			<p style="text-align: justify;"><b>Speaker Bio:</b> Dongsu Han is a Professor at the School of Electrical Engineering and Graduate School of AI at KAIST. He received his Ph.D. in Computer Science from Carnegie Mellon University in 2012. His research focuses on democratizing AI systems and addressing challenges in modern Internet applications running on cloud infrastructure at scale. His current work encompasses AI systems for accessible large-scale model training and AI-enhanced video delivery.
+
+Throughout his career, he has published extensively in premier venues including ACM SIGCOMM, USENIX OSDI, USENIX NSDI, ACM CCS, ACM MobiSys, and EuroSys. His contributions have been recognized with the USENIX NSDI Best Paper Award and USENIX NSDI Community Award. He currently serves as an Associate Editor for IEEE/ACM Transactions on Networking and previously served as Program Co-Chair for ACM CoNEXT 2020. His recent systems work on ES-MoE (ICML 2024) and StellaTrain (SIGCOMM 2024) represents significant advances in making AI training accessible using commodity hardware, while his ongoing research continues to push the boundaries of cost-effective AI inference at the edge.
+</p>
 
 
 

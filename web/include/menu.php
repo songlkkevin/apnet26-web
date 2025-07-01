@@ -26,11 +26,11 @@
       <a href="registration.php">Registration</a>
     </li>
 
-    <!--<li class="notlast <?php if ($mypage=="apnetprogram.php") echo('navselected') ?>" data-icon="false">
+    <li class="notlast <?php if ($mypage=="apnetprogram.php") echo('navselected') ?>" data-icon="false">
       <a href="apnetprogram.php">Program</a>
     </li>
 
-    <li class="notlast <?php if ($mypage=="banquet.php") echo('navselected') ?>" data-icon="false">
+    <!--<li class="notlast <?php if ($mypage=="banquet.php") echo('navselected') ?>" data-icon="false">
       <a href="banquet.php">Banquet Information</a>
     </li>-->
 
@@ -67,11 +67,11 @@
 
   <li class="notlast <?php if ($mypage=="visa.php") echo('navselected') ?>" data-icon="false">
       <a href="visa.php">Visa Information</a>
-    </li>
+    </li>-->
 
     <li class="notlast <?php if ($mypage=="apnethotel.php") echo('navselected') ?>" data-icon="false">
       <a href="apnethotel.php">Local Information</a>
-    </li>-->
+    </li>
 
   <li class="notlast <?php if ($mypage=="pc.php") echo('navselected') ?>" data-icon="false">
       <a href="pc.php">Program Committee</a>

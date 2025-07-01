@@ -71,6 +71,9 @@
     <h3>Application Process</h3>
     <p style="text-align: justify; text-indent: 2em;">Eligible authors must provide verification of all four conditions and submit the required documentation via email to <a href="mailto:senliu@fudan.edu.cn">senliu@fudan.edu.cn</a>. The application deadline is June 28, 2025 (AoE). Late submissions will not be accepted. Upon successful processing of the ABR Program application, a single-use discount code will be issued to authors via email. This unique identifier must be applied during conference registration and cannot be transferred to other researchers.</p>
 
+    <h3>Important Note</h3>
+    <p style="text-align: justify; text-indent: 2em;">The ABR Program discount is exclusively applicable to full registration fees and cannot be used for other types of registrations (e.g., student registration, etc.).</p>
+
 <br>
 <h2>Information of China’s Visa-Free Policies</h2>
 <br>

@@ -64,7 +64,7 @@
 <div>
 <b>H-NRF: A High-performance and Evolutive NRF Framework for Large-scale Mobile Core Network</b>
 <br>
-<i style="font-size: smaller;">Zhuoran Ma (Hunan University; CNIC CAS); Yanbiao Li (CNIC CAS; UCAS, China); Xin Wang (SUNY Stony Brook); xian yu, Xinyi Zhang, Shiyi Liu (CNIC CAS; UCAS China); Kun Xie (Hunan university); Gaogang Xie (CNIC CAS; UCAS, China)</i>
+<i style="font-size: smaller;">Zhuoran Ma (Hunan University; CNIC CAS); Yanbiao Li (CNIC CAS; UCAS, China); Xin Wang (SUNY Stony Brook); Xian Yu, Xinyi Zhang, Shiyi Liu (CNIC CAS; UCAS China); Kun Xie (Hunan university); Gaogang Xie (CNIC CAS; UCAS, China)</i>
 <br><br>
 </div>
 
@@ -127,7 +127,7 @@
 <div>
 <b>Cache-Aware I/O Rate Control for RDMA</b>
 <br>
-<i style="font-size: smaller;">Qijing Li, Xinyang Huang, Bowen Liu, Pengbo LI, Junxue Zhang, Kai Chen (Hong Kong University of Science and Technology)</i>
+<i style="font-size: smaller;">Qijing Li, Xinyang Huang, Bowen Liu, Pengbo Li, Junxue Zhang, Kai Chen (Hong Kong University of Science and Technology)</i>
 <br><br>
 </div>
 
@@ -169,7 +169,7 @@
 <div>
 <b>Rethinking Dynamic Networks and Heterogeneous Computing in Automatic Parallelization</b>
 <br>
-<i style="font-size: smaller;">Ruilong WU, Xinjiao LI, Yisu Wang, Xinyu Chen, Dirk Kutscher (The Hong Kong University of Science and Technology (Guangzhou))</i>
+<i style="font-size: smaller;">Ruilong Wu, Xinjiao Li, Yisu Wang, Xinyu Chen, Dirk Kutscher (The Hong Kong University of Science and Technology (Guangzhou))</i>
 <br><br>
 </div>
 
