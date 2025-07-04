@@ -33,6 +33,9 @@
 
 <p style="text-align: justify;">Each accepted paper must be accompanied by at least one full registration regardless of the status of the registering author, and an author must present the paper at the conference. Otherwise, the paper will be removed from the proceedings and ACM digital library. Please note that poster registration is separate; registering for a regular paper does not include poster registration, which must be done individually.</p>
 
+<h2>Important Deadline for Accepted Papers</h2>
+<p style="text-align: justify;"> Each accepted paper must complete full registration by July 10th, Anywhere on Earth, to ensure inclusion in the conference proceedings and ACM Digital Library.</p>
+
 <h2>Cancellation Policy</h2>
 
 <p style="text-align: justify;">All the payments are non-cancellable, non-refundable, and non-transferable after July 23. Refunds processed before this date will incur a US$100 administrative fee. For more information, please contact finance chair <a href="mailto:yangrw@pcl.ac.cn">RongWei Yang</a>.</p>
