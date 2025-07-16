@@ -349,18 +349,19 @@ th, td {
     <tr>
         <td width="120px"></td>
         <td>TBA<br>
-        <i>Dr. Binyang Liu (Director of Network Technology Lab, Huawei Central Research Institute)</i></td>
+        <i>Dr. Fan Yang (Senior Principal Research Manager at MSR-Asia)</i></td>
     </tr>
     <tr>
         <td width="120px"></td>
         <td>TBA<br>
-        <i>Dr. Fan Yang (Senior Principal Research Manager at MSR-Asia)</i></td>
+        <i>Dr. Binyang Liu (Director of Network Technology Lab, Huawei Central Research Institute)</i></td>
     </tr>
     <tr>
         <td width="120px"></td>
         <td>Luoshen: A Large Scale High Performance Cloud Network for Public Cloud<br>
         <i>Dr. Shunmin Zhu (Head of Cloud Network Division at Alibaba Cloud)</i></td>
     </tr>
+    
 
     <tr>
         <td width="120px"><b>5:45 - 6:25 pm</b></td>

@@ -84,6 +84,7 @@
   add_dateitem("Mar 1, 2024", "Call For Patrons is online.");
   add_dateitem("Nov 20, 2023", "Organizing Committee is online.");
   add_dateitem("Nov 20, 2023", "Program Committee is online.");*/
+  add_dateitem("Jul 10, 2025", "Visa Information is online.");
   add_dateitem("Jul 1, 2025", "Local Information is online.");
   add_dateitem("Jun 26, 2025", "Program is online.");
   add_dateitem("Jun 11, 2025", "Registration is online.");

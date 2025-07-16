@@ -97,10 +97,12 @@ We developed SPRIGHT, to exploit event-driven shared memory processing to improv
     <h2><a href="https://henryhxu.github.io/" class="ui-link">Hong Xu</a ></h2>
     <p>Associate Professor, The Chinese University of Hong Kong</p>
     <h2>Talk Title:</h2>
-    <p>What does sparsity mean for machine learning systems?</p>
+    <p>Mycroft: Tracing Dependencies in Collective Communication Towards Reliable LLM Training</p>
   </div>
 </div>
-			<p style="text-align: justify;"><b>Abstract:</b> TBA
+			<p style="text-align: justify;"><b>Abstract:</b> Reliability plays an important role in LLM training to ensure high efficiency. However, many real-world reliability issues remain difficult to resolve, resulting in resource wastage and downgraded model performance. We argue that many of these issues lie in collective communications, which involve complex dependencies in distributed training. Unfortunately, collective communication libraries today are operated as a black box, hiding critical evidence towards efficient root cause analysis.
+
+In this talk, we highlight the importance of tracing collective communication states and leveraging internal control and data dependencies to address reliability problems in LLM training. We build Mycroft, a lightweight distributed tracing and root cause analysis system to solve previously hidden reliability issues in collective communication. Mycroft has been battle-tested with deployment in ByteDance’s large training clusters: it successfully detects collective communication-related anomalies with a 100% detection rate within 15 seconds in 90% of cases, and achieves root-cause identification within 20 seconds in 60% of the cases.
 
  </p>
 			

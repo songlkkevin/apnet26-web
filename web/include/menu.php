@@ -53,6 +53,9 @@
   <li class="notlast <?php if ($mypage=="grant.php") echo('navselected') ?>" data-icon="false">
       <a href="grant.php">Travel Grants Information</a>
     </li>
+    <li class="notlast <?php if ($mypage=="visa.php") echo('navselected') ?>" data-icon="false">
+      <a href="visa.php">Visa Information</a>
+    </li>
   <li class="notlast <?php if ($mypage=="cfp.php") echo('navselected') ?>" data-icon="false">
       <a href="cfp.php">Call for Papers</a>
     </li>

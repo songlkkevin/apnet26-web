@@ -88,6 +88,17 @@
     </ul>
     <p>
 
+    
+<br>
+<h2>Visa Information</h2>
+<br>
+<p>If you need an invitation letter or other documents, you may contact the Local Chairs (Yang Chen, chenyang@fudan.edu.cn). Please include "APNet25 Visa Application" in your email subject and specify in your email body these fields:</p>
+              <ul>
+                <li>Full name in passport</li>
+                <li>Title</li>
+                <li>Employer or affiliation</li>
+              </ul>
+
 <br>
 <h2>Important Note to Authors about ACM Open Access Publishing Model</h2>
 <br>

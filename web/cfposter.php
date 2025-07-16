@@ -21,7 +21,7 @@
 			<p style="text-align: justify; text-indent: 2em;">Please submit your abstract at <a href="https://apnet25posters.hotcrp.com/">poster submission site</a>. Submissions are single blind, so please include authors and affiliations.</p>
 
         <br><h2>Poster Presentation Information</h2><br>
-			<p style="text-align: justify; text-indent: 2em;">A poster is A0 paper size in portrait mode (841 x 1189mm), to which you can affix visually appealing material that describes your research topic/direction. You should prepare the best material (visually appealing and succinct) that effectively communicates your targeted problem, why it is important, what is the state-of-the-art, what is wrong/missing, your insight, initial design, preliminary results (if any), and why it is novel. Presenting a birds' eye view on your topic/direction is encouraged.</p>
+			<p style="text-align: justify; text-indent: 2em;">A poster is <font color="red">A0 paper size</font> in portrait mode (841 x 1189mm), to which you can affix visually appealing material that describes your research topic/direction. You should prepare the best material (visually appealing and succinct) that effectively communicates your targeted problem, why it is important, what is the state-of-the-art, what is wrong/missing, your insight, initial design, preliminary results (if any), and why it is novel. Presenting a birds' eye view on your topic/direction is encouraged.</p>
       <br>
       <p style="text-align: justify; text-indent: 2em;"><b>At least one author of each accepted poster must register for the conference and present the poster.</b></p>
 			
