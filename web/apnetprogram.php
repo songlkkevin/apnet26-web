@@ -73,7 +73,7 @@ th, td {
     </tr>
     <tr>
         <td width="120px"><b>9:35 - 10:30 am</b></td>
-        <td><b>Session: Reinventing RDMA</b><br>Session Chair: TBA</td>
+        <td><b>Session: Reinventing RDMA</b><br>Session Chair: Chen Tian</td>
     </tr>
     <tr>
         <td width="120px"></td>
@@ -101,7 +101,7 @@ th, td {
     </tr>
     <tr>
         <td width="120px"><b>11:00 - 11:55 am</b></td>
-        <td><b>Session: Load, Balance, Repeat</b><br>Session Chair: TBA</td>
+        <td><b>Session: Load, Balance, Repeat</b><br>Session Chair: Henry Xu</td>
     </tr>
     <tr>
         <td width="120px"></td>
@@ -129,7 +129,7 @@ th, td {
     </tr>
     <tr>
         <td width="120px"><b>1:15 - 2:10 pm</b></td>
-        <td><b>Session: Smarter Control, Better Flow</b><br>Session Chair: TBA</td>
+        <td><b>Session: Smarter Control, Better Flow</b><br>Session Chair: Alessandro Cornacchia</td>
     </tr>
     <tr>
         <td width="120px"></td>
@@ -153,7 +153,7 @@ th, td {
     </tr>
     <tr>
         <td width="120px"><b>2:10 - 3:05 pm</b></td>
-        <td><b>Session: Networks in the Wild</b><br>Session Chair: TBA</td>
+        <td><b>Session: Networks in the Wild</b><br>Session Chair: Shuai Wang</td>
     </tr>
     <tr>
         <td width="120px"></td>
@@ -217,7 +217,7 @@ th, td {
     </tr>
     <tr>
         <td width="120px"><b>9:20 - 10:00 am</b></td>
-        <td><b>Session: Simulators for the AI Age</b><br>Session Chair: TBA</td>
+        <td><b>Session: Simulators for the AI Age</b><br>Session Chair: Kaihui Gao</td>
     </tr>
     <tr>
         <td width="120px"></td>
@@ -236,7 +236,7 @@ th, td {
     </tr>
     <tr>
         <td width="120px"><b>10:00 - 10:40 am</b></td>
-        <td><b>Session: Redefining the Network Stack</b><br>Session Chair: TBA</td>
+        <td><b>Session: Redefining the Network Stack</b><br>Session Chair: Yunming Xiao</td>
     </tr>
     <tr>
         <td width="120px"></td>
@@ -259,7 +259,7 @@ th, td {
     </tr>
     <tr>
         <td width="120px"><b>11:10 am - 12:05 pm</b></td>
-        <td><b>Session: Efficient AI at the Edge and Core</b><br>Session Chair: TBA</td>
+        <td><b>Session: Efficient AI at the Edge and Core</b><br>Session Chair: Li Chen</td>
     </tr>
     <tr>
         <td width="120px"></td>
@@ -287,7 +287,7 @@ th, td {
     </tr>
     <tr>
         <td width="120px"><b>1:25 - 2:20 pm</b></td>
-        <td><b>Session: Programmability and Performance</b><br>Session Chair: TBA</td>
+        <td><b>Session: Programmability and Performance</b><br>Session Chair: Jiaqi Gao</td>
     </tr>
     <tr>
         <td width="120px"></td>
@@ -311,7 +311,7 @@ th, td {
     </tr>
     <tr>
         <td width="120px"><b>2:20 - 3:15 pm</b></td>
-        <td><b>Session: Resilient Systems, Secure Designs</b><br>Session Chair: TBA</td>
+        <td><b>Session: Resilient Systems, Secure Designs</b><br>Session Chair: Qiao Xiang</td>
     </tr>
     <tr>
         <td width="120px"></td>
