@@ -12,7 +12,7 @@
 <!-- <p>Relevant rules will be announced soon.</p> -->
 
 <p>Early-bird registration deadline is June 30, Anywhere on Earth.</p>
-<p>Registration deadline is July 23, Anywhere on Earth. </p>
+<p><del>Registration deadline is July 23, Anywhere on Earth.</del> </p>
 
 <p>&nbsp;</p>
 
