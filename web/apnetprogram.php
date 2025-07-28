@@ -181,7 +181,7 @@ th, td {
     </tr>
     <tr>
         <td width="120px"><b>4:00 - 6:00 pm</b></td>
-        <td><b>Academic Insight Talks</b><br>Session Chair: TBA</td>
+        <td><b>Academic Insight Talks</b><br>Session Chair: Kai Chen</td>
     </tr>
     <tr>
         <td width="120px"></td>
@@ -339,7 +339,7 @@ th, td {
     </tr>
     <tr>
         <td width="120px"><b>3:45 - 5:45 pm</b></td>
-        <td><b>Industry Spotlight Talks</b><br>Session Chair: TBA</td>
+        <td><b>Industry Spotlight Talks</b><br>Session Chair: Kun Tan</td>
     </tr>
     <tr>
         <td width="120px"></td>

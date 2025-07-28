@@ -73,10 +73,11 @@
     <h2><a href="https://fanyangcs.github.io/" class="ui-link">Fan Yang</a ></h2>
     <p>Senior Principal Research Manager at MSR-Asia</p>
     <h2>Talk Title:</h2>
-    <p>TBA</p>
+    <p>Compute Scaling for AI</p>
   </div>
 </div>
-			<p style="text-align: justify;"><b>Abstract:</b> TBA. </p>
+			<p style="text-align: justify;"><b>Abstract:</b> Large language models (LLMs) rely on compute scaling to achieve continued improvements in intelligence, as captured by the scaling laws. However, this trajectory faces fundamental challenges in chip design and semiconductor manufacturing. At Microsoft Research Asia, we are collaborating with our partners to explore a path forward through software-hardware co-design. The codesign simplifies both model and hardware architectures to enable further scaling. At the same time, we are developing a new system stack to address the emerging system-level challenges introduced by these simplified designs, aiming to sustain the momentum of AI advancement.
+      Disclaimer: The opinions in this talk are personal, they do not reflect the official position of my employer. </p>
 			
 			<p style="text-align: justify;"><b>Speaker Bio:</b> Fan Yang is a Senior Principal Research Manager of Systems Research group at MSR-Asia. His research passion is on Computer Systems. Recently he has been exploring the fundamental principles behind various AI systems. His exploration on Deep Learning Cluster, Deep learning compiler, and Vector storage leads to several open-source projects, including OpenPAI, TileLang, nnScaler, and VBase. Some of the techniques therein have been used by Microsoft products like Azure, M365, and Bing. And the corresponding research results have appeared in top system conferences like OSDI/SOSP.
 </p>
