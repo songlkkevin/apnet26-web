@@ -126,11 +126,11 @@
                 width: auto;
             }
             .custom-row img.five-img {
-                max-height: 30px;
+                max-height: 20px;
                 width: auto;
             }
             .custom-row img.six-img {
-                max-height: 30px;
+                max-height: 35px;
                 width: auto;
             }
         }
@@ -144,7 +144,7 @@
         </div>
         <div class="custom-row">
             <a href="//www.fudan.edu.cn/"><img class="four-img" src="images/fdu2.png" alt="FUDAN UNIVERSITY"/></a>
-            <a href="//www.huawei.com/"><img class="five-img" src="images/huawei.png" alt="HUAWEI"/></a>
+            <a href="//www.huawei.com/"><img class="five-img" src="images/sponsors/HW_POS_PANTONE_Horizontal-300ppi.jpg" alt="HUAWEI"/></a>
             <a href="//www.alibabacloud.com/"><img class="six-img" src="images/alicloud.png" alt="ALIBABA CLOUD"/></a>
         </div>
     </div>
