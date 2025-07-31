@@ -203,6 +203,22 @@ th, td {
         <td>On the Design of High Performance Routing Protocols in AI Clusters<br>
         <i>Prof. Shizhen Zhao (Associate Professor, Shanghai Jiao Tong University)</i></td>
     </tr>
+    <tr>
+        <td width="120px"><b>6:00 - 6:15 pm</b></td>
+        <td><b>Break</b></td>
+    </tr>
+    <tr>
+        <td width="120px">6:15 pm</td>
+        <td>Depart from Crowne Plaza Hotel to Peace Hotel by bus.<br>
+    </tr>
+    <tr>
+        <td width="120px">7:00 - 21:30 pm</td>
+        <td>Banquet at Peace Hotel.<br>
+    </tr>
+    <tr>
+        <td width="120px">21:30 pm</td>
+        <td>Return by bus from Peace Hotel to Crowne Plaza Hotel.<br>
+    </tr>
 </table>
 
 <h2>August 8, 2025 (Day 2)</h2>
