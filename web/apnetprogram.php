@@ -360,7 +360,7 @@ th, td {
     </tr>
     <tr>
         <td width="120px"></td>
-        <td>TBA<br>
+        <td>Compute Scaling for AI<br>
         <i>Dr. Fan Yang (Senior Principal Research Manager at MSR-Asia)</i></td>
     </tr>
     <tr>
