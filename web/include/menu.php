@@ -64,11 +64,11 @@
       <a href="cfposter.php">Call for Posters</a>
     </li>
 
-    <!--<li class="notlast <?php if ($mypage=="cfpatron.php") echo('navselected') ?>" data-icon="false">
-      <a href="cfpatron.php">Call for Patrons</a>
+    <li class="notlast <?php if ($mypage=="cfpatron.php") echo('navselected') ?>" data-icon="false">
+      <a href="cfpatron.php">Sponsorship Benefits</a>
     </li>
 
-  <li class="notlast <?php if ($mypage=="visa.php") echo('navselected') ?>" data-icon="false">
+  <!--<li class="notlast <?php if ($mypage=="visa.php") echo('navselected') ?>" data-icon="false">
       <a href="visa.php">Visa Information</a>
     </li>-->
 
