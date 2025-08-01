@@ -208,16 +208,12 @@ th, td {
         <td><b>Break</b></td>
     </tr>
     <tr>
-        <td width="120px">6:15 pm</td>
-        <td>Depart from Crowne Plaza Hotel to Peace Hotel by bus.<br>
+        <td width="120px"><b>6:15 - 9:30 pm</b></td>
+        <td><b>APNet’25 Banquet</b></td>
     </tr>
     <tr>
-        <td width="120px">7:00 - 21:30 pm</td>
-        <td>Banquet at Peace Hotel.<br>
-    </tr>
-    <tr>
-        <td width="120px">21:30 pm</td>
-        <td>Return by bus from Peace Hotel to Crowne Plaza Hotel.<br>
+        <td width="120px"></td>
+        <td>At 6:15 pm, depart from Crowne Plaza Hotel to Peace Hotel by shuttle bus; enjoy the banquet at Peace Hotel from 7:00 to 9:30 pm; and return to Crowne Plaza Hotel by shuttle bus at 9:30 pm.<br>
     </tr>
 </table>
 
