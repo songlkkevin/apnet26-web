@@ -90,10 +90,10 @@
     <h2><a href="https://www.linkedin.com/in/bingyangliu/?originalSubdomain=cn" class="ui-link">Binyang Liu</a ></h2>
     <p>Director of Network Technology Lab, Huawei Central Research Institute</p>
     <h2>Talk Title:</h2>
-    <p>TBA</p>
+    <p>Technical Challenges for AI Cluster Network</p>
   </div>
 </div>
-			<p style="text-align: justify;"><b>Abstract:</b> TBA. </p>
+			<p style="text-align: justify;"><b>Abstract:</b> The development of AGI/ASI rises tremendous requirement of computing power and AI clusters. Network efficiency dominates the performance of AI clusters, because the Total Effective Computing Power of Cluster = Single-chip Computing Power &times; Cluster Scale &times; Computational Efficiency. Moreover, if network becomes larger and more hierarchical, the cost, power consumption, reliability, and performance of the cluster will be worse. So network is the key way to improve cluster performance, but it also faces multiple contradictions and huge technical challenges. This representation will talk about six key technical challenges for AI cluster network, including high-bandwidth, high-capacity switching, large-scale fabric, high-throughput transport, deep integration of network and computing, and long-distance computing connection. </p>
 			
 			<p style="text-align: justify;"><b>Speaker Bio:</b> Bingyang Liu is the director of Network Technology Lab, Huawei. His research interests lie in data center networks and wide-area networks. Before joining Huawei, he was a postdoctoral researcher at Institute for Network Sciences and Cyberspace, Tsinghua University. He received the Ph.D. degree from Department of Computer Science, Tsinghua University.
 </p>

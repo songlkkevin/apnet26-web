@@ -365,7 +365,7 @@ th, td {
     </tr>
     <tr>
         <td width="120px"></td>
-        <td>TBA<br>
+        <td>Technical Challenges for AI Cluster Network<br>
         <i>Dr. Binyang Liu (Director of Network Technology Lab, Huawei Central Research Institute)</i></td>
     </tr>
     <tr>
