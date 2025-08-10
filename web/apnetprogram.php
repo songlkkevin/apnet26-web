@@ -32,6 +32,8 @@ th, td {
 <!-- <tr>
   <td width="120px">3:05 - 3:40 pm</td>
   <td>AI Networking at Meta <a href="https://hkustconnect-my.sharepoint.com/:v:/g/personal/hwangdv_connect_ust_hk/EcdbK-w2oEVCqBLQpUlKUOMBpFAGJ0vqNBD3NSOHKGxR0w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Hou2zv">[video]</a><br><i><small>James Hongyi Zeng (Meta)</small></i></td>
+  <td width="120px">3:05 - 3:40 pm</td>
+  <td>AI Networking at Meta <a href="">[video]</a><br><i><small>James Hongyi Zeng (Meta)</small></i></td>
 </tr> -->
 
 <h1>Technical Program</h1>
@@ -200,8 +202,7 @@ th, td {
     </tr>
     <tr>
         <td width="120px"></td>
-        <td>On the Design of High Performance Routing Protocols in AI Clusters<br>
-        <i>Prof. Shizhen Zhao (Associate Professor, Shanghai Jiao Tong University)</i></td>
+        <td>On the Design of High Performance Routing Protocols in AI Clusters <a target="_blank" href="slides/Academy/shizhenzhao.pdf">[Slides]</a><br><i><small>Prof. Shizhen Zhao (Associate Professor, Shanghai Jiao Tong University)</small></i></td>
     </tr>
     <tr>
         <td width="120px"><b>6:00 - 6:15 pm</b></td>
@@ -360,8 +361,7 @@ th, td {
     </tr>
     <tr>
         <td width="120px"></td>
-        <td>Compute Scaling for AI<br>
-        <i>Dr. Fan Yang (Senior Principal Research Manager at MSR-Asia)</i></td>
+        <td>Compute Scaling for AI <a target="_blank" href="slides/Industry/ComputeScalingAPNet25.pdf">[Slides]</a><br><i><small>Dr. Fan Yang (Senior Principal Research Manager at MSR-Asia)</small></i></td>
     </tr>
     <tr>
         <td width="120px"></td>
