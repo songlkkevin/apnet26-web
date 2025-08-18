@@ -71,7 +71,7 @@ th, td {
     </tr>
     <tr>
         <td width="120px"><b>8:45 - 9:35 am</b></td>
-        <td><b>Keynote 1: From Prediction to Proof: Rethinking AI for Systems and Networks</b><br>Prof. Matthew Caesar (UIUC, ACM SIGCOMM Chair)</td>
+        <td><b>Keynote 1: From Prediction to Proof: Rethinking AI for Systems and Networks <a target="_blank" href="slides/Keynote/prediction-to-proof-caesar-apnet25.pdf">[Slides]</a>  <a target="_blank" href="https://hkustconnect-my.sharepoint.com/:v:/g/personal/xhuangci_connect_ust_hk/EQdulNdlfBJGv4xaMeBy6psBp2dxNn6gOi04kvNHIHNgHA?e=V2f43o">[Video]</a></b><br>Prof. Matthew Caesar (UIUC, ACM SIGCOMM Chair)</td>
     </tr>
     <tr>
         <td width="120px"><b>9:35 - 10:30 am</b></td>
@@ -79,22 +79,22 @@ th, td {
     </tr>
     <tr>
         <td width="120px"></td>
-        <td>Exposing RDMA NIC Resources for Software-Defined Scheduling<br>
+        <td>Exposing RDMA NIC Resources for Software-Defined Scheduling  <a target="_blank" href="">[Video]</a><br>
         <i>Yibo Huang (University of Michigan); Yiming Qiu (University of Michigan / UC Berkeley); Yunming Xiao, Archit Bhatnagar (University of Michigan); Sylvia Ratnasamy (UC Berkeley); Ang Chen (University of Michigan)</i></td>
     </tr>
     <tr>
         <td width="120px"></td>
-        <td>Cache-Aware I/O Rate Control for RDMA<br>
+        <td>Cache-Aware I/O Rate Control for RDMA <a target="_blank" href="slides/Session1/1-2.pdf">[Slides]</a>  <a target="_blank" href="https://hkustconnect-my.sharepoint.com/:v:/g/personal/xhuangci_connect_ust_hk/ESkn2Kiq4EZNuOxjE4ENDmoBPHscWDNh-lzLEQilh80JfQ?e=NMXhY5">[Video]</a><br>
         <i>Qijing Li, Xinyang Huang, Bowen Liu, Pengbo Li, Junxue Zhang, Kai Chen (Hong Kong University of Science and Technology)</i></td>
     </tr>
     <tr>
         <td width="120px"></td>
-        <td>Orderly Management of Packets in RDMA by Eunomia<br>
+        <td>Orderly Management of Packets in RDMA by Eunomia  <a target="_blank" href="https://hkustconnect-my.sharepoint.com/:v:/g/personal/xhuangci_connect_ust_hk/EbAPDBKhU2hHrLjvn4_FT14BQa6oPf4DT1wEoB3qBpJPMw?e=CUzo1u">[Video]</a><br>
         <i>Sana Mahmood, Jinqi Lu, Soudeh Ghorbani (Johns Hopkins University)</i></td>
     </tr>
     <tr>
         <td width="120px"></td>
-        <td>UCM: Fast and Maintainable User-space RDMA Connection Setup<br>
+        <td>UCM: Fast and Maintainable User-space RDMA Connection Setup   <a target="_blank" href="slides/Session1/1-4.pdf">[Slides]</a>  <a target="_blank" href="https://hkustconnect-my.sharepoint.com/:v:/g/personal/xhuangci_connect_ust_hk/ETopQsUZRINOrJ9BXS4Sg0wBR4vJbSJtwG34-4gdWib-yg?e=2BzLX9">[Video]</a><br>
         <i>Huijun Shen (Hunan University); Jian Yang, Zelong Yue (ByteDance Inc.); Xingyu Guo, Xijin Yin (Hunan University); Lang An, Yulin Chen, Jie Ding, Hongyu Wu, Yong Zhang, Jianxi Ye (ByteDance Inc.); Guo Chen (Hunan University)</i></td>
     </tr>
     <tr>
@@ -107,22 +107,22 @@ th, td {
     </tr>
     <tr>
         <td width="120px"></td>
-        <td>Maat: A Fair Layer-4 Load Balancer With Per-Connection Consistency<br>
+        <td>Maat: A Fair Layer-4 Load Balancer With Per-Connection Consistency <a target="_blank" href="slides/Session2/2-1.pptx">[Slides]</a>  <a target="_blank" href="">[Video]</a><br>
         <i>Ju Huang, Lu Tang (Xiamen University)</i></td>
     </tr>
     <tr>
         <td width="120px"></td>
-        <td>Remote TCP Connection Offload with XO<br>
+        <td>Remote TCP Connection Offload with XO  <a target="_blank" href="">[Video]</a><br>
         <i>Shuo Li, Steven Chien, Tianyi Gao, Michio Honda (University of Edinburgh)</i></td>
     </tr>
     <tr>
         <td width="120px"></td>
-        <td>SRC: A Scalable Reliable Connection for RDMA with Decoupled QPs and Connections<br>
+        <td>SRC: A Scalable Reliable Connection for RDMA with Decoupled QPs and Connections <a target="_blank" href="slides/Session2/2-3.pdf">[Slides]</a>  <a target="_blank" href="">[Video]</a><br>
         <i>Yiren Zhao, Ran Shu, Yongqiang Xiong (Microsoft Research)</i></td>
     </tr>
     <tr>
         <td width="120px"></td>
-        <td>Enabling Packet Spraying over Commodity RNICs with In-Network Support<br>
+        <td>Enabling Packet Spraying over Commodity RNICs with In-Network Support  <a target="_blank" href="">[Video]</a><br>
         <i>Xiangzhou Liu, Wenxue Li, Kai Chen (Hong Kong University of Science and Technology)</i></td>
     </tr>
     <tr>
@@ -135,22 +135,22 @@ th, td {
     </tr>
     <tr>
         <td width="120px"></td>
-        <td>Congestion Control for AI Workloads with Message-Level Signaling<br>
+        <td>Congestion Control for AI Workloads with Message-Level Signaling  <a target="_blank" href="">[Video]</a><br>
         <i>Yuxuan Li, Zhenghang Ren, Wenxue Li, Xiangzhou Liu, Kai Chen (Hong Kong University of Science and Technology)</i></td>
     </tr>
     <tr>
         <td width="120px"></td>
-        <td>Collaborative Multi-Flow Congestion Control via Deep Reinforcement Learning<br>
+        <td>Collaborative Multi-Flow Congestion Control via Deep Reinforcement Learning  <a target="_blank" href="">[Video]</a><br>
         <i>Qiangqiang Wei, Jiangping Han, Kaiping Xue, Jinhao Liu (University of Science and Technology of China); Naiqiang qiao, Hao Chen (HUAWEI TECHNOLOGIES CO., LTD.)</i></td>
     </tr>
     <tr>
         <td width="120px"></td>
-        <td>ORC: Online Reinforcement Learning for Congestion Control with Fast Convergence<br>
+        <td>ORC: Online Reinforcement Learning for Congestion Control with Fast Convergence <a target="_blank" href="slides/Session3/3-3.pdf">[Slides]</a>  <a target="_blank" href="">[Video]</a><br>
         <i>Yijun Li, Jiawei Huang, Chuliang Wu (Central South university); Xiaojun Zhu, Jianxin Wang (Central South University)</i></td>
     </tr>
     <tr>
         <td width="120px"></td>
-        <td>Hybrid Congestion Control with Variable Monitoring Time Period<br>
+        <td>Hybrid Congestion Control with Variable Monitoring Time Period <a target="_blank" href="slides/Session3/3-4.pdf">[Slides]</a>  <a target="_blank" href="">[Video]</a><br>
         <i>Xiaohong Qiu, Haifeng Liu (Jiangxi University of Science and Technology); Shuangmei Liu (Nanchang Hangkong University); Zhen Li, Xiaojun Zhu (Jiangxi University of Science and Technology)</i></td>
     </tr>
     <tr>
@@ -159,22 +159,22 @@ th, td {
     </tr>
     <tr>
         <td width="120px"></td>
-        <td>Assessing the Impact of ISP de-peering: A case study of Cogent's Disconnection from Russian Networks in Routing Perspective<br>
+        <td>Assessing the Impact of ISP de-peering: A case study of Cogent's Disconnection from Russian Networks in Routing Perspective  <a target="_blank" href="slides/Session4/4-1.pdf">[Slides]</a>  <a target="_blank" href="">[Video]</a><br>
         <i>Liming Liu (Tsinghua University, Zhongguancun Laboratory); Yuanyuan Zhang, Kun Guo, Meijia Hou (Zhongguancun Laboratory); Mingwei Xu (Tsinghua University, Zhongguancun Laboratory); Jiahao Cao (Tsinghua University); Xin Gao, Jiang Li, Yonghong Fu (Zhongguancun Laboratory)</i></td>
     </tr>
     <tr>
         <td width="120px"></td>
-        <td>Topology-Adaptive LEO Satellite Network Telemetry via Graph Isomorphism and Topology Partitioning<br>
+        <td>Topology-Adaptive LEO Satellite Network Telemetry via Graph Isomorphism and Topology Partitioning   <a target="_blank" href="slides/Session4/4-2.pptx">[Slides]</a>  <a target="_blank" href="">[Video]</a><br>
         <i>Yan Zhang (Purple Mountain Laboratories); Tian Pan (Beijing University of Posts and Telecommunications); Yan Zheng (Purple Mountain Laboratories); Guohao Ruan, Haonan Li (Beijing University of Posts and Telecommunications); Yi Liu (SICE, Beijing University of Posts and Telecommunications); Jiang Liu, Tao Huang (Beijing University of Posts and Telecommunications)</i></td>
     </tr>
     <tr>
         <td width="120px"></td>
-        <td>CTSVN: A Solution for Computation Task Scheduling in Vehicle Networking<br>
+        <td>CTSVN: A Solution for Computation Task Scheduling in Vehicle Networking  <a target="_blank" href="">[Video]</a><br>
         <i>Zheng Fang, Kun Xie, Xiaohong Huang, Pei Zhang, Dandan Li (BUPT)</i></td>
     </tr>
     <tr>
         <td width="120px"></td>
-        <td>Understanding the Long Tail Latency of TCP in Large-Scale Cloud Networks<br>
+        <td>Understanding the Long Tail Latency of TCP in Large-Scale Cloud Networks  <a target="_blank" href="slides/Session4/4-4.pdf">[Slides]</a>  <a target="_blank" href="">[Video]</a><br>
         <i>Zihao Fan (Shanghai Jiao Tong University and Alibaba Cloud); Enge Song (Alibaba Cloud); Bo Jiang (Shanghai Jiao Tong University); Yang Song, Yuke Hong, Bowen Yang, Yilong Lv, Yinian Zhou, Junnan Cai, Chao Wang, Yi Wang, Yehao Feng, Dian Fan, Ye Yang, Shize Zhang, Xiaoqing Sun, Jianyuan Lu (Alibaba Cloud); Xing Li (Zhejiang University and Alibaba Cloud); Jun Liang (Alibaba Cloud); Biao Lyu (Zhejiang University and Alibaba Cloud); Zhigang Zong (Alibaba Cloud); Shunmin Zhu (Hangzhou Feitian Cloud and Alibaba Cloud)</i></td>
     </tr>
     <tr>
@@ -187,22 +187,22 @@ th, td {
     </tr>
     <tr>
         <td width="120px"></td>
-        <td>Making Serverless Computing Efficient and Scalable<br>
+        <td>Making Serverless Computing Efficient and Scalable  <a target="_blank" href="">[Video]</a><br>
         <i>Prof. K. K. Ramakrishnan (Distinguished Professor, University of California, Riverside)</i></td>
     </tr>
     <tr>
         <td width="120px"></td>
-        <td>Congestion Management in/beyond Datacenter Networks: Pyrrha as a case<br>
+        <td>Congestion Management in/beyond Datacenter Networks: Pyrrha as a case   <a target="_blank" href="slides/Academy/chentian.pptx">[Slides]</a>  <a target="_blank" href="">[Video]</a><br>
         <i>Prof. Chen Tian (Professor, Nanjing University)</i></td>
     </tr>
     <tr>
         <td width="120px"></td>
-        <td>What does sparsity mean for machine learning systems?<br>
+        <td>What does sparsity mean for machine learning systems?  <a target="_blank" href="">[Video]</a><br>
         <i>Prof. Hong Xu (Associate Professor, The Chinese University of Hong Kong)</i></td>
     </tr>
     <tr>
         <td width="120px"></td>
-        <td>On the Design of High Performance Routing Protocols in AI Clusters <a target="_blank" href="slides/Academy/shizhenzhao.pdf">[Slides]</a><br><i><small>Prof. Shizhen Zhao (Associate Professor, Shanghai Jiao Tong University)</small></i></td>
+        <td>On the Design of High Performance Routing Protocols in AI Clusters <a target="_blank" href="slides/Academy/shizhenzhao.pdf">[Slides]</a>  <a target="_blank" href="">[Video]</a><br><i><small>Prof. Shizhen Zhao (Associate Professor, Shanghai Jiao Tong University)</small></i></td>
     </tr>
     <tr>
         <td width="120px"><b>6:00 - 6:15 pm</b></td>
@@ -234,12 +234,12 @@ th, td {
     </tr>
     <tr>
         <td width="120px"></td>
-        <td>Miniature: Fast AI Supercomputer Networks Simulation on FPGAs<br>
+        <td>Miniature: Fast AI Supercomputer Networks Simulation on FPGAs <a target="_blank" href="slides/Session5/5-1.pdf">[Slides]</a><br>
         <i>Yicheng Qian (Northeastern University/Microsoft Research); Ran Shu, Rui Ma, Yang Wang (Microsoft Research); Derek Chiou (UT Austin/Microsoft); Nadeen Gebara, Luca Piccolboni (Microsoft); Miriam Leeser (Northeastern University); Yongqiang Xiong (Microsoft Research)</i></td>
     </tr>
     <tr>
         <td width="120px"></td>
-        <td>Nüwa: Efficient Generative Control Plane for AI Network Simulation<br>
+        <td>Nüwa: Efficient Generative Control Plane for AI Network Simulation <a target="_blank" href="slides/Session5/5-2.pdf">[Slides]</a><br>
         <i>Wenkai Li (Xi'an Jiaotong University); Ran Shu (Microsoft Research); Peng Zhang (Xi'an Jiaotong University); Yongqiang Xiong (Microsoft Research)</i></td>
     </tr>
     <tr>
@@ -253,12 +253,12 @@ th, td {
     </tr>
     <tr>
         <td width="120px"></td>
-        <td>OmniDMA: Scalable RDMA Transport over WAN<br>
+        <td>OmniDMA: Scalable RDMA Transport over WAN <a target="_blank" href="slides/Session6/6-1.pdf">[Slides]</a><br>
         <i>Kai Lv (Institute of Computing Technology, Chinese Academy of Sciences; University of Chinese Academy of Sciences; Huawei); Jinyang Li (Huawei); Pengyi Zhang (Institute of Computing Technology, Chinese Academy of Sciences; University of Chinese Academy of Sciences); Heng Pan (Computer Network Information Center, Chinese Academy of Sciences); Luyang Li (Institute of Computing Technology, Chinese Academy of Sciences; University of Chinese Academy of Sciences); Shuihai Hu (Huawei); Zhenyu Li (Institute of Computing Technology, Chinese Academy of Sciences; University of Chinese Academy of Sciences.); Gaogang Xie (Computer Network Information Center, Chinese Academy of Sciences; University of Chinese Academy of Sciences); Jingbin Zhou, Kun Tan (Huawei)</i></td>
     </tr>
     <tr>
         <td width="120px"></td>
-        <td>Designing Transport-Level Encryption for Datacenter Networks<br>
+        <td>Designing Transport-Level Encryption for Datacenter Networks   <a target="_blank" href="slides/Session6/6-2.pdf">[Slides]</a><br>
         <i>Tianyi Gao, Xinshu Ma, Suhas Narreddy, Eugenio Luo, Steven Chien, Michio Honda (University of Edinburgh)</i></td>
     </tr>
     <tr>
@@ -276,12 +276,12 @@ th, td {
     </tr>
     <tr>
         <td width="120px"></td>
-        <td>Mnemosyne: Lightweight and Fast Error Recovery for LLM Training in a Just-In-Time Manner<br>
+        <td>Mnemosyne: Lightweight and Fast Error Recovery for LLM Training in a Just-In-Time Manner  <a target="_blank" href="slides/Session7/7-1.pdf">[Slides]</a><br>
         <i>Jinyi Xia, Menghao Zhang, Jiaxun Huang, Yuezheng Liu (Beihang University); Xiaohe Hu (Infrawaves); Xudong Liu, Chunming Hu (Beihang University)</i></td>
     </tr>
     <tr>
         <td width="120px"></td>
-        <td>Rethinking Dynamic Networks and Heterogeneous Computing in Automatic Parallelization<br>
+        <td>Rethinking Dynamic Networks and Heterogeneous Computing in Automatic Parallelization  <a target="_blank" href="slides/Session7/7-2.pptx">[Slides]</a><br>
         <i>Ruilong Wu, Xinjiao Li, Yisu Wang, Xinyu Chen, Dirk Kutscher (The Hong Kong University of Science and Technology (Guangzhou))</i></td>
     </tr>
     <tr>
@@ -309,7 +309,7 @@ th, td {
     </tr>
     <tr>
         <td width="120px"></td>
-        <td>Cost-Efficient and Reliable SFC Orchestration in Mobile Edge Computing<br>
+        <td>Cost-Efficient and Reliable SFC Orchestration in Mobile Edge Computing <a target="_blank" href="slides/Session8/8-2.pptx">[Slides]</a><br>
         <i>Yuanfei Xiao, Zhenli He, Qixin Peng (Yunnan University)</i></td>
     </tr>
     <tr>
@@ -319,7 +319,7 @@ th, td {
     </tr>
     <tr>
         <td width="120px"></td>
-        <td>Unmasking Vulnerabilities of HyperLogLog: Security via Parameter Extraction<br>
+        <td>Unmasking Vulnerabilities of HyperLogLog: Security via Parameter Extraction <a target="_blank" href="slides/Session8/8-4.pptx">[Slides]</a><br>
         <i>Shishi Zhang, Ning Wang, Lu Tang (Xiamen University)</i></td>
     </tr>
     <tr>
@@ -343,7 +343,7 @@ th, td {
     </tr>
     <tr>
         <td width="120px"></td>
-        <td>Cloud Overbooking Optimization: Reducing Temporal Volatility through Spatial Workload Aggregation<br>
+        <td>Cloud Overbooking Optimization: Reducing Temporal Volatility through Spatial Workload Aggregation  <a target="_blank" href="slides/Session9/9-4.pptx">[Slides]</a><br>
         <i>Baoqing Wang, Long Li, Jing Yang, Jiawei Liu, Gongming Zhao, Hongli Xu (University of Science and Technology of China)</i></td>
     </tr>
     <tr>
@@ -365,8 +365,7 @@ th, td {
     </tr>
     <tr>
         <td width="120px"></td>
-        <td>Technical Challenges for AI Cluster Network<br>
-        <i>Dr. Binyang Liu (Director of Network Technology Lab, Huawei Central Research Institute)</i></td>
+        <td>Technical Challenges for AI Cluster Network <a target="_blank" href="slides/Industry/KeyChallengeAINet.pdf">[Slides]</a><br><i><small>Dr. Binyang Liu (Director of Network Technology Lab, Huawei Central Research Institute)</small></i></td>
     </tr>
     <tr>
         <td width="120px"></td>
