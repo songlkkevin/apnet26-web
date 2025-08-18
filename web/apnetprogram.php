@@ -197,7 +197,7 @@ th, td {
     </tr>
     <tr>
         <td width="120px"></td>
-        <td>What does sparsity mean for machine learning systems?  <a target="_blank" href="">[Video]</a><br>
+        <td>What does sparsity mean for machine learning systems? <br>
         <i>Prof. Hong Xu (Associate Professor, The Chinese University of Hong Kong)</i></td>
     </tr>
     <tr>
