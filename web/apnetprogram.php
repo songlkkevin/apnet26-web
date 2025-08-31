@@ -79,7 +79,7 @@ th, td {
     </tr>
     <tr>
         <td width="120px"></td>
-        <td>Exposing RDMA NIC Resources for Software-Defined Scheduling  <a target="_blank" href="">[Video]</a><br>
+        <td>Exposing RDMA NIC Resources for Software-Defined Scheduling  <a target="_blank" href="slides/Session1/1-1.pdf">[Slides]</a>  <a target="_blank" href="https://hkustconnect-my.sharepoint.com/:v:/g/personal/xhuangci_connect_ust_hk/ETRm8ruuqntLmRTzNVVAiLMBzBpu37C6xtfJ56Pmh6-MHA?e=1sQEgA">[Video]</a><br>
         <i>Yibo Huang (University of Michigan); Yiming Qiu (University of Michigan / UC Berkeley); Yunming Xiao, Archit Bhatnagar (University of Michigan); Sylvia Ratnasamy (UC Berkeley); Ang Chen (University of Michigan)</i></td>
     </tr>
     <tr>
@@ -122,7 +122,7 @@ th, td {
     </tr>
     <tr>
         <td width="120px"></td>
-        <td>Enabling Packet Spraying over Commodity RNICs with In-Network Support  <a target="_blank" href="https://hkustconnect-my.sharepoint.com/:v:/g/personal/xhuangci_connect_ust_hk/EY68oehTXchGh_MHHxNj-5YBtGIUvHSw1g-jSj0sG3_E5A?e=chVB0C">[Video]</a><br>
+        <td>Enabling Packet Spraying over Commodity RNICs with In-Network Support   <a target="_blank" href="slides/Session2/2-3.pdf">[Slides]</a> <a target="_blank" href="https://hkustconnect-my.sharepoint.com/:v:/g/personal/xhuangci_connect_ust_hk/EY68oehTXchGh_MHHxNj-5YBtGIUvHSw1g-jSj0sG3_E5A?e=chVB0C">[Video]</a><br>
         <i>Xiangzhou Liu, Wenxue Li, Kai Chen (Hong Kong University of Science and Technology)</i></td>
     </tr>
     <tr>
@@ -135,12 +135,12 @@ th, td {
     </tr>
     <tr>
         <td width="120px"></td>
-        <td>Congestion Control for AI Workloads with Message-Level Signaling  <a target="_blank" href="https://hkustconnect-my.sharepoint.com/:v:/g/personal/xhuangci_connect_ust_hk/EVvi7PHDmBhNl7xYhFjqJUkB28c-xzdD78Y0FnIKUicZyQ?e=hlc4BR">[Video]</a><br>
+        <td>Congestion Control for AI Workloads with Message-Level Signaling  <a target="_blank" href="slides/Session3/3-1.pdf">[Slides]</a>   <a target="_blank" href="https://hkustconnect-my.sharepoint.com/:v:/g/personal/xhuangci_connect_ust_hk/EVvi7PHDmBhNl7xYhFjqJUkB28c-xzdD78Y0FnIKUicZyQ?e=hlc4BR">[Video]</a><br>
         <i>Yuxuan Li, Zhenghang Ren, Wenxue Li, Xiangzhou Liu, Kai Chen (Hong Kong University of Science and Technology)</i></td>
     </tr>
     <tr>
         <td width="120px"></td>
-        <td>Collaborative Multi-Flow Congestion Control via Deep Reinforcement Learning  <a target="_blank" href="">[Video]</a><br>
+        <td>Collaborative Multi-Flow Congestion Control via Deep Reinforcement Learning  <a target="_blank" href="https://hkustconnect-my.sharepoint.com/:v:/g/personal/xhuangci_connect_ust_hk/Edmn_ycyDzJOqD2UpXvUTRwBDXkxmqRSZE5a_rVVsDURYA?e=xvpHcE">[Video]</a><br>
         <i>Qiangqiang Wei, Jiangping Han, Kaiping Xue, Jinhao Liu (University of Science and Technology of China); Naiqiang qiao, Hao Chen (HUAWEI TECHNOLOGIES CO., LTD.)</i></td>
     </tr>
     <tr>
@@ -244,7 +244,7 @@ th, td {
     </tr>
     <tr>
         <td width="120px"></td>
-        <td>SplitNN: Single-Machine Network Emulation at Scale with Minute-Level Construction of 10K-Node Virtual Networks<br> <a target="_blank" href="https://hkustconnect-my.sharepoint.com/:v:/g/personal/xhuangci_connect_ust_hk/EZEfSqpAdTpBmKMK9dNXddEB3b3ntISR-gbRoEipLsB7Ow?e=MjlUvF">[Video]</a>
+        <td>SplitNN: Single-Machine Network Emulation at Scale with Minute-Level Construction of 10K-Node Virtual Networks<br> <a target="_blank" href="slides/Session5/5-3.pptx">[Slides]</a> <a target="_blank" href="https://hkustconnect-my.sharepoint.com/:v:/g/personal/xhuangci_connect_ust_hk/EZEfSqpAdTpBmKMK9dNXddEB3b3ntISR-gbRoEipLsB7Ow?e=MjlUvF">[Video]</a>
         <i>Kaifei Peng, Yanbiao Li, Wenbin Li, Xian Yu, Gaogang Xie (Computer Network Information Center, Chinese Academy of Sciences; University of Chinese Academy of Sciences)</i></td>
     </tr>
     <tr>
@@ -263,7 +263,7 @@ th, td {
     </tr>
     <tr>
         <td width="120px"></td>
-        <td>Enhancing Network Traffic Prediction by Integrating Graph Transformer with a Temporal Model <a target="_blank" href="">[Video]</a><br>
+        <td>Enhancing Network Traffic Prediction by Integrating Graph Transformer with a Temporal Model <a target="_blank" href="https://hkustconnect-my.sharepoint.com/:v:/g/personal/xhuangci_connect_ust_hk/EcFOiY4hGjFPqKOatmAWDnIBYk45wJMXkqEnV2rmPa9PEA?e=8lmOiu">[Video]</a><br>
         <i>Xiucheng Sun, Runqun Xiong, Dian Shen (Southeast University); Junzhou Luo (Southeast University, Nanjing, P.R. China)</i></td>
     </tr>
     <tr>
@@ -276,7 +276,7 @@ th, td {
     </tr>
     <tr>
         <td width="120px"></td>
-        <td>Mnemosyne: Lightweight and Fast Error Recovery for LLM Training in a Just-In-Time Manner  <a target="_blank" href="slides/Session7/7-1.pdf">[Slides]</a> <a target="_blank" href="">[Video]</a><br>
+        <td>Mnemosyne: Lightweight and Fast Error Recovery for LLM Training in a Just-In-Time Manner  <a target="_blank" href="slides/Session7/7-1.pdf">[Slides]</a> <a target="_blank" href="https://hkustconnect-my.sharepoint.com/:v:/g/personal/xhuangci_connect_ust_hk/EQKxsCIEg6RHl-9MRnCzrIgBaKcR-pe7asUCB6f_nS_Mqw?e=C6ddwp">[Video]</a><br>
         <i>Jinyi Xia, Menghao Zhang, Jiaxun Huang, Yuezheng Liu (Beihang University); Xiaohe Hu (Infrawaves); Xudong Liu, Chunming Hu (Beihang University)</i></td>
     </tr>
     <tr>
@@ -314,7 +314,7 @@ th, td {
     </tr>
     <tr>
         <td width="120px"></td>
-        <td>Toward Scalable Learning-Based Optical Restoration <a target="_blank" href="https://hkustconnect-my.sharepoint.com/:v:/g/personal/xhuangci_connect_ust_hk/EQ3EzHfUdCRMvVClZ5aflxYBlmM-z_bHNMupVdfk9ug94w?e=NMJff5">[Video]</a><br>
+        <td>Toward Scalable Learning-Based Optical Restoration <a target="_blank" href="slides/Session8/8-3.pptx">[Slides]</a> <a target="_blank" href="https://hkustconnect-my.sharepoint.com/:v:/g/personal/xhuangci_connect_ust_hk/EQ3EzHfUdCRMvVClZ5aflxYBlmM-z_bHNMupVdfk9ug94w?e=NMJff5">[Video]</a><br>
         <i>Siyong Huang (Xiamen University); Qingyu Song (The Chinese University of Hong Kong); Kexin Yu (Xiamen University); Zhaoning Wang (China Unicom); Zhizhen Zhong (Massachusetts Institute of Technology); Qiao Xiang, Jiwu Shu (Xiamen University)</i></td>
     </tr>
     <tr>
