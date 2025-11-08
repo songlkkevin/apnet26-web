@@ -14,17 +14,17 @@
 /* 
    Color palette for SIGCOMM'16:
 
-    Logo yellow : #FECB2F
-    Logo orange : #FD9827
-    Logo green :  #3A8EED
-    Logo violet : #1C1B77
+    Dark green  : #3D6354
+    Sage green : #5B8772
+    Mint green : #87B5A2
+    Deep green : #2D4A3E
     */
 
-    .color-primary-0 { color: #3A8EED } /* Main Primary color */
-    .color-primary-1 { color: #76ACE6 }
-    .color-primary-2 { color: #3A8EED }
-    .color-primary-3 { color: #316EBD }
-    .color-primary-4 { color: #002700 }
+    .color-primary-0 { color: #3D6354 } /* Main Primary color */
+    .color-primary-1 { color: #87B5A2 } /* Light sage for hover/highlights */
+    .color-primary-2 { color: #5B8772 } /* Medium sage for gradients */
+    .color-primary-3 { color: #3D6354 } /* Dark sage for main elements */
+    .color-primary-4 { color: #2D4A3E } /* Deep green for emphasis */
 
     .rgba-primary-0 { color: rgba( 26, 96, 26,1) }  /* Main Primary color */
     .rgba-primary-1 { color: rgba( 78,150, 78,1) }
@@ -296,26 +296,26 @@ html .ui-panel-page-container-a {
 html .ui-bar-a a,
 html .ui-body-a a,
 html body .ui-group-theme-a a {
-    color: #3A8EED /*{a-link-color}*/;
+    color: #3D6354 /*{a-link-color}*/;
     /*font-weight: bold; */
 }
 .ui-page-theme-a a:visited,
 html .ui-bar-a a:visited,
 html .ui-body-a a:visited,
 html body .ui-group-theme-a a:visited {
-    color: #3A8EED /*{a-link-visited}*/;
+    color: #3D6354 /*{a-link-visited}*/;
 }
 .ui-page-theme-a a:hover,
 html .ui-bar-a a:hover,
 html .ui-body-a a:hover,
 html body .ui-group-theme-a a:hover {
-    color: #3A8EED /*{a-link-hover}*/;
+    color: #5B8772 /*{a-link-hover}*/;
 }
 .ui-page-theme-a a:active,
 html .ui-bar-a a:active,
 html .ui-body-a a:active,
 html body .ui-group-theme-a a:active {
-    color: #3A8EED /*{a-link-active}*/;
+    color: #2C4A3E /*{a-link-active}*/;
 }
 /* Button up */
 .ui-page-theme-a .ui-btn,
@@ -481,7 +481,8 @@ button[disabled],
 /* Content container. */
 .ui-content {
     padding: 1em 0px 1em 0px;
-    /*max-width: 1200px; @wh*/
+    /* Limit the maximum page width so very wide screens don't spread columns too far apart */
+    max-width: 1200px;
     margin-left: auto;
     margin-right: auto;  
 }
@@ -544,14 +545,14 @@ button[disabled],
 
 .leftnav .ui-listview .navselected a {
     color: #ffffff !important;
-    background-color: #3A8EED;
-    background-image: -webkit-gradient(linear, left top, left bottom, from( #76ACE6 /*{c-bup-background-start}*/), to( #316EBD /*{c-bup-background-end}*/)); /* Saf4+, Chrome */
-    background-image: -webkit-linear-gradient( #76ACE6 /*{c-bup-background-start}*/, #316EBD /*{c-bup-background-end}*/); /* Chrome 10+, Saf5.1+ */
-    background-image:    -moz-linear-gradient( #76ACE6 /*{c-bup-background-start}*/, #316EBD /*{c-bup-background-end}*/); /* FF3.6 */
-    background-image:     -ms-linear-gradient( #76ACE6 /*{c-bup-background-start}*/, #316EBD /*{c-bup-background-end}*/); /* IE10 */
-    background-image:      -o-linear-gradient( #76ACE6 /*{c-bup-background-start}*/, #316EBD /*{c-bup-background-end}*/); /* Opera 11.10+ */
-    background-image:         linear-gradient( #76ACE6 /*{c-bup-background-start}*/, #316EBD /*{c-bup-background-end}*/);
-    border-color: #3A8EED;
+    background-color: #3D6354;
+    background-image: -webkit-gradient(linear, left top, left bottom, from( #87B5A2 /*{c-bup-background-start}*/), to( #3D6354 /*{c-bup-background-end}*/)); /* Saf4+, Chrome */
+    background-image: -webkit-linear-gradient( #87B5A2 /*{c-bup-background-start}*/, #3D6354 /*{c-bup-background-end}*/); /* Chrome 10+, Saf5.1+ */
+    background-image:    -moz-linear-gradient( #87B5A2 /*{c-bup-background-start}*/, #3D6354 /*{c-bup-background-end}*/); /* FF3.6 */
+    background-image:     -ms-linear-gradient( #87B5A2 /*{c-bup-background-start}*/, #3D6354 /*{c-bup-background-end}*/); /* IE10 */
+    background-image:      -o-linear-gradient( #87B5A2 /*{c-bup-background-start}*/, #3D6354 /*{c-bup-background-end}*/); /* Opera 11.10+ */
+    background-image:         linear-gradient( #87B5A2 /*{c-bup-background-start}*/, #3D6354 /*{c-bup-background-end}*/);
+    border-color: #3D6354;
 }
 
 /* begin @wh*/
@@ -621,21 +622,21 @@ button[disabled],
 .content-primary h1 {
     font-size: 2.4em;
     margin-top: 0.5em;
-    color: #3A8EED;
+    color: #3D6354;
     font-weight: 500;
 }
 
 .content-primary h2 {
     font-size: 1.8em;
     margin-top: 1em;
-    color: #3A8EED;
+    color: #3D6354;
     font-weight: 500;
 }
 
 .content-primary h3, h4 {
     font-size: 1.4em;
     margin-top: 1em;
-    color: #3A8EED;
+    color: #3D6354;
     font-weight: 500;
 }
 
@@ -670,10 +671,10 @@ button[disabled],
 .content-primary .ui-li-divider {
     margin:      0px;
     line-height: 1.2em;
-    background-color: #76ACE6 /*!important*/;
-    border-top-color: #3A8EED;
-    border-left-color: #3A8EED;
-    border-right-color: #3A8EED;
+    background-color: #87B5A2 /*!important*/;
+    border-top-color: #3D6354;
+    border-left-color: #3D6354;
+    border-right-color: #3D6354;
     color: #ffffff;
     font-size: 1em;
     font-weight: 500;
@@ -709,8 +710,8 @@ button[disabled],
 
 .content-primary .program .prog-header {
     color: #ffffff !important;
-    background-color: #3A8EED !important;
-    border-color: #3A8EED !important;
+    background-color: #3D6354 !important;
+    border-color: #3D6354 !important;
 }
 
 .content-primary .program .prog-header h3 {
@@ -744,7 +745,7 @@ button[disabled],
 .content-primary .program .button-paper {
     padding: 4px 10px 4px 10px;
     border-radius: 5px;
-    background-color: #76ACE6;
+    background-color: #87B5A2;
     text-align: center;
     width: auto;
     margin: 0 0 6px 6px;
@@ -804,7 +805,7 @@ button[disabled],
 
 .content-primary .program .ui-bar-a {
     padding: 0em 1.0em;
-    background-color: #76ACE6;
+    background-color: #87B5A2;
     border-color: #bbb;
 }
 
@@ -845,7 +846,7 @@ button[disabled],
 
 .content-primary .hotel-header {
     font-size: 1em;
-    color: #3A8EED;
+    color: #3D6354;
     font-weight: 500;
 }
 
@@ -919,6 +920,15 @@ video {
     width: 95%; 
     max-width: 640px; 
     height: auto; 
+}
+
+/* Utility class to horizontally center images and keep them responsive */
+.center-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    height: auto;
 }
 
 .socialbuttons {
