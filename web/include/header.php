@@ -17,15 +17,15 @@
     
     if(isset($page_title)) {
         if (!empty($page_title))
-            $page_title .= " - APNET 2025";
+            $page_title .= " - APNET 2026";
         else
-            $page_title .= "APNET 2025";
+            $page_title .= "APNET 2026";
     } else {
         $filename = $_SERVER['SCRIPT_FILENAME'];
         $filename = preg_replace("/^.*\//","",$filename);
         $filename = preg_replace("/.php$/","",$filename);
         
-        $page_title = $filename . " - APNET 2025";
+        $page_title = $filename . " - APNET 2026";
     }
     
     /* prepare page url */
@@ -121,7 +121,7 @@
 
   <div class="header" data-role="header" data-theme="a" data-position="inline">
     <div>
-    <a href="index.php"><img src="images/logo2025.jpg" alt="APNET 2025, Shanghai, China"></a>
+    <a href="index.php"><img src="images/logo2026.png" alt="APNET 2025, Shanghai, China"></a>
     </div>
     <!--<figcaption><b>Co-located with ACM SIGCOMM 2024</b></figcaption>-->
     <a href="#" onclick="$.mobile.silentScroll($.mobile.activePage.find('.leftnav').position().top)" class="ui-btn-right" data-corners="true" data-icon="grid">MENU</a>

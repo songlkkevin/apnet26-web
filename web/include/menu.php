@@ -12,7 +12,7 @@
      $cfpItems = array("cfp.php", "submission.php", "postersdemos.php", "industrialdemos.php", "cfwp.php", "cft.php", "travelgrants.php", "n2women.php", "n2women-award.php");
      
 ?>
-  <a href="index.php"><img src="images/logo2025.jpg" alt="APNET 2025, Shanghai, China" /></a>
+  <a href="index.php"><img src="images/logo2026.png" alt="APNET 2025, Shanghai, China" /></a>
   <!-- <figcaption><b>Co-located with ACM SIGCOMM 2024</b></figcaption> -->
   
   
