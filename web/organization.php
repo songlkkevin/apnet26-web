@@ -9,8 +9,8 @@
 
 <li data-role="list-divider">General Chairs</li>
 <?php
-    add_listitem("Lidong Zhou", "Microsoft Research", "https://www.microsoft.com/en-us/research/people/lidongz/");
-    add_listitem("Yang Xu", "Fudan University", "https://yangxu.info/");
+    add_listitem("Yuki Koizumi", "Osaka University", "https://www-hasegawa.ist.osaka-u.ac.jp/~ykoizumi/");
+    add_listitem("Qiao Xiang", "Xiamen University", "https://qiaoxiang.me/");
 ?>
 
 <li data-role="list-divider">General Vice Chairs</li>
