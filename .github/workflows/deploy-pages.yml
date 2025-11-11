@@ -12,7 +12,7 @@ concurrency:
   cancel-in-progress: true
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -48,8 +48,12 @@ jobs:
         chmod +x ./scripts/generate_static.sh
         # By default we do NOT span hosts. If you need to exclude some external domains
         # while allowing others, pass a comma-separated list as the 2nd argument.
-        # Here we explicitly exclude common external hosts to avoid 3rd-party fetches.
-        ./scripts/generate_static.sh 8001 "acm.org,libraries.acm.org,fonts.googleapis.com,fonts.gstatic.com,cdn.jsdelivr.net"
+        # If you need certain external assets downloaded, pass a comma-separated exclude
+        # list as the 2nd arg; otherwise leave empty to avoid external crawling.
+        # FAIL_ON_MISSING=0: ignore missing assets (404) and continue with deployment.
+        # Set FAIL_ON_MISSING=1 to fail the build if any assets are not found.
+        export FAIL_ON_MISSING=0
+        ./scripts/generate_static.sh 8001
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v4

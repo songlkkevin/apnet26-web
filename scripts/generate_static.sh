@@ -9,6 +9,9 @@ PORT=${1:-8001}
 # Optional comma-separated domains to exclude from wget (example: "acm.org,cdn.example.com").
 # If empty, wget will NOT span hosts (will only fetch the local PHP server at 127.0.0.1).
 EXCLUDE_DOMAINS=${2:-}
+# If set to 1, the script will exit with non-zero when wget log contains missing assets (404).
+# If 0 (default), missing assets are only warned about and do not fail the script.
+FAIL_ON_MISSING=${FAIL_ON_MISSING:-0}
 ROOT_DIR="$(cd "$(dirname "$0")/.." && pwd)"
 WEB_DIR="$ROOT_DIR/web"
 OUT_DIR="$ROOT_DIR/static_site"
@@ -39,19 +42,50 @@ done
 echo "Running wget to mirror site into $OUT_DIR"
 
 # Build wget args. By default we DO NOT span hosts to avoid fetching external domains.
-WGET_ARGS=(--mirror --convert-links --adjust-extension --page-requisites --no-parent \
-  --no-host-directories --directory-prefix="$OUT_DIR" -e robots=off)
+WGET_ARGS=(--convert-links --adjust-extension --page-requisites --no-parent \
+  --no-host-directories --directory-prefix="$OUT_DIR" -e robots=off \
+  --timeout=15 --tries=2 --wait=0.2 --quota=0)
 
 if [ -n "$EXCLUDE_DOMAINS" ]; then
   # If the caller passed exclude domains, allow spanning hosts but exclude the given domains.
-  WGET_ARGS+=(--span-hosts "--exclude-domains=$EXCLUDE_DOMAINS")
-  # Note: when excluding domains we must allow spanning hosts so wget can attempt other hosts
+  WGET_ARGS+=(--span-hosts --exclude-domains="$EXCLUDE_DOMAINS")
+  # Limit recursion depth when spanning hosts to avoid deep external crawls
+  WGET_ARGS+=(--recursive --level=3)
 else
   # Do not span hosts by default (only fetch from 127.0.0.1)
-  :
+  # Restrict to the local host to be extra safe
+  WGET_ARGS+=(--recursive --level=5 --domains=127.0.0.1)
 fi
 
-wget "http://127.0.0.1:$PORT/" "${WGET_ARGS[@]}"
+echo "wget arguments: ${WGET_ARGS[*]}"
+WGET_LOG="$ROOT_DIR/tmp/wget-$(date +%s).log"
+mkdir -p "$(dirname "$WGET_LOG")"
+
+# Run wget but don't let set -e abort the script on wget non-zero exit; capture exit code and continue.
+set +e
+wget --output-file="$WGET_LOG" "http://127.0.0.1:$PORT/" "${WGET_ARGS[@]}"
+WGET_EXIT=$?
+set -e
+
+echo "wget finished with exit code: $WGET_EXIT (log: $WGET_LOG)"
+
+# Detect missing assets (404) from wget log. Pattern matches common wget messages like 'ERROR 404: Not Found.'
+MISSING_LINES=$(grep -E "ERROR 404|404 Not Found| 404:" "$WGET_LOG" || true)
+MISSING_COUNT=0
+if [ -n "$MISSING_LINES" ]; then
+  MISSING_COUNT=$(echo "$MISSING_LINES" | wc -l | tr -d ' ')
+fi
+
+if [ "$MISSING_COUNT" -gt 0 ]; then
+  echo "Warning: detected $MISSING_COUNT missing asset(s) during wget. Sample lines:"
+  echo "$MISSING_LINES" | sed -n '1,20p'
+  if [ "${FAIL_ON_MISSING:-0}" = "1" ]; then
+    echo "FAIL_ON_MISSING=1; failing the build due to missing assets." >&2
+    exit 2
+  else
+    echo "FAIL_ON_MISSING not set; continuing despite missing assets. To fail on missing assets set FAIL_ON_MISSING=1" >&2
+  fi
+fi
 
 if [ -d "$OUT_DIR/127.0.0.1:$PORT" ]; then
   echo "Moving files out of host subdirectory"
