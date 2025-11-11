@@ -137,7 +137,7 @@
         }
     </style>
 
-<div class="custom-container">
+<!-- <div class="custom-container">
         <div class="custom-row">
             <a href="//www.sigcomm.org/"><img class="first-img" src="images/sig.png" alt="ACM SIGCOMM"/></a>
             <a href="//www.sigmobile.org/"><img class="second-img" src="images/sigmobile.jpeg" alt="ACM SIGMOBILE"/></a>
@@ -148,33 +148,8 @@
             <a href="//www.huawei.com/"><img class="five-img" src="images/sponsors/HW_POS_PANTONE_Horizontal-300ppi.jpg" alt="HUAWEI"/></a>
             <a href="//www.alibabacloud.com/"><img class="six-img" src="images/alicloud.png" alt="ALIBABA CLOUD"/></a>
         </div>
-    </div>
+    </div> -->
 
-<!-- <div class="sponsor">
-    <div class="row">
-    <a href="//www.cse.hkust.edu.hk/"><img src="images/sponsors/hkustcse.png" alt="HKUST CSE" class="full-width" style="width: 100%;"/></a>
-    </div>
-    <div class="row">
-        <a href="//www.huawei.com/"><img src="images/sponsors/huawei_logo.png" alt="HUAWEI" style="width: 28%; margin-left: 40px;"/></a>
-        <a href="//www.acm.org/"><img src="images/sponsors/acm.jpeg" alt="In-cooperation with ACM" style="width: 240%;  margin-left: 80px;"/></a>
-    </div>
-    <div class="row">
-        <a href="//www.sigmobile.org/"><img src="images/sponsors/sigmobile.gif" alt="ACM SIGMOBILE" style="width: 28%; margin-left: 20px;"/></a>
-        <a href="//www.sigcomm.org/"><img src="images/sponsors/sigcomm.png" alt="ACM SIGCOMM" style="width: 50%; margin-left: 80px;"/></a>
-    </div>
-</div> -->
-
-<!-- 
-<div class="sponsor">
-    <div class="row">
-    <a href="//www.cse.hkust.edu.hk/"><img src="images/sponsors/hkustcse.png" alt="HKUST CSE" class="full-width" style="width: 100%;"/></a>
-    </div>
-    <div class="row">
-        <a href="//www.acm.org/"><img src="images/sponsors/acm.jpeg" alt="In-cooperation with ACM" style="width: 100%;"/></a>
-        <a href="//www.sigcomm.org/"><img src="images/sponsors/sigcomm.png" alt="ACM SIGCOMM" style="width: 100%; margin-left: 80px;"/></a>
-        <a href="//www.sigmobile.org/"><img src="images/sponsors/sigmobile.gif" alt="ACM SIGMOBILE" style="width: 25%; margin-left: 220px;"/></a>
-    </div>
-</div> -->
 
 
 

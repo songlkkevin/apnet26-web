@@ -13,7 +13,7 @@
     add_listitem("Qiao Xiang", "Xiamen University", "https://qiaoxiang.me/");
 ?>
 
-<li data-role="list-divider">General Vice Chairs</li>
+<!-- <li data-role="list-divider">General Vice Chairs</li>
 <?php
     add_listitem("Qiao Xiang", "Xiamen University", "https://qiaoxiang.me/");
 ?>
@@ -86,12 +86,12 @@
 <?php
     add_listitem("Hao Wang", "Hong Kong University of Science & Technology", "https://whwh1996.github.io/");
     add_listitem("Hao Wang", "Stevens Institute of Technology", "https://intellisys.haow.ca/haowang/");
-?>
+?> -->
     
 </ul>
 
 
-<h2>Steering Committee</h2>
+<!-- <h2>Steering Committee</h2>
 <ul data-role="listview" data-inset="true" data-theme="a" data-content-theme="a" class="tbl">
   <li data-role="list-divider"></li>
   <?php
@@ -106,6 +106,6 @@
      add_listitem("Minlan Yu", "Harvard University", "http://www.cs.yale.edu/homes/yu-minlan/");
   ?>
     
-</ul>
+</ul> -->
 
 <?php include ("include/footer.php"); ?>

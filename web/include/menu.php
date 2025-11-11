@@ -22,19 +22,19 @@
       <a href="index.php">Home</a>
     </li>
 
-  <li class="notlast <?php if ($mypage=="registration.php") echo('navselected') ?>" data-icon="false">
+  <!-- <li class="notlast <?php if ($mypage=="registration.php") echo('navselected') ?>" data-icon="false">
       <a href="registration.php">Registration</a>
     </li>
 
     <li class="notlast <?php if ($mypage=="apnetprogram.php") echo('navselected') ?>" data-icon="false">
       <a href="apnetprogram.php">Program</a>
-    </li>
+    </li> -->
 
     <!--<li class="notlast <?php if ($mypage=="banquet.php") echo('navselected') ?>" data-icon="false">
       <a href="banquet.php">Banquet Information</a>
     </li>-->
 
-    <li class="notlast <?php if ($mypage=="keynote.php") echo('navselected') ?>" data-icon="false">
+    <!-- <li class="notlast <?php if ($mypage=="keynote.php") echo('navselected') ?>" data-icon="false">
       <a href="keynote.php">Keynote Talks</a>
     </li>
 
@@ -48,33 +48,33 @@
   
   <li class="notlast <?php if ($mypage=="accept.php") echo('navselected') ?>" data-icon="false">
       <a href="accept.php">Accepted Papers List</a>
-    </li>
+    </li> -->
 
-  <li class="notlast <?php if ($mypage=="grant.php") echo('navselected') ?>" data-icon="false">
+  <!-- <li class="notlast <?php if ($mypage=="grant.php") echo('navselected') ?>" data-icon="false">
       <a href="grant.php">Travel Grants Information</a>
     </li>
     <li class="notlast <?php if ($mypage=="visa.php") echo('navselected') ?>" data-icon="false">
       <a href="visa.php">Visa Information</a>
-    </li>
-  <li class="notlast <?php if ($mypage=="cfp.php") echo('navselected') ?>" data-icon="false">
+    </li> -->
+  <!-- <li class="notlast <?php if ($mypage=="cfp.php") echo('navselected') ?>" data-icon="false">
       <a href="cfp.php">Call for Papers</a>
     </li>
   
     <li class="notlast <?php if ($mypage=="cfposter.php") echo('navselected') ?>" data-icon="false">
       <a href="cfposter.php">Call for Posters</a>
-    </li>
+    </li> -->
 
-    <li class="notlast <?php if ($mypage=="cfpatron.php") echo('navselected') ?>" data-icon="false">
+    <!-- <li class="notlast <?php if ($mypage=="cfpatron.php") echo('navselected') ?>" data-icon="false">
       <a href="cfpatron.php">Sponsorship Benefits</a>
-    </li>
+    </li> -->
 
   <!--<li class="notlast <?php if ($mypage=="visa.php") echo('navselected') ?>" data-icon="false">
       <a href="visa.php">Visa Information</a>
     </li>-->
 
-    <li class="notlast <?php if ($mypage=="apnethotel.php") echo('navselected') ?>" data-icon="false">
+    <!-- <li class="notlast <?php if ($mypage=="apnethotel.php") echo('navselected') ?>" data-icon="false">
       <a href="apnethotel.php">Local Information</a>
-    </li>
+    </li> -->
 
   <li class="notlast <?php if ($mypage=="pc.php") echo('navselected') ?>" data-icon="false">
       <a href="pc.php">Program Committee</a>
@@ -83,9 +83,9 @@
   <li class="notlast <?php if ($mypage=="organization.php") echo('navselected') ?>" data-icon="false">
       <a href="organization.php">Organization Committee</a>
     </li>
-  <li class="notlast <?php if ($mypage=="sideEvent.php") echo('navselected') ?>" data-icon="false">
+  <!-- <li class="notlast <?php if ($mypage=="sideEvent.php") echo('navselected') ?>" data-icon="false">
       <a href="sideEvent.php">Side Event</a>
-    </li>
+    </li> -->
   
 
   
