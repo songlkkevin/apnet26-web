@@ -27,21 +27,16 @@ jobs:
           sleep 1
         done
 
-    - name: Generate static files with wget
+    - name: Generate static files with script
       run: |
-        sudo apt-get update && sudo apt-get install -y wget
+        sudo apt-get update && sudo apt-get install -y wget curl
         rm -rf static_site
         mkdir -p static_site
-        # Mirror the site served by local PHP server into static_site/
-        wget --mirror --convert-links --adjust-extension --page-requisites --no-parent \
-          --no-host-directories --directory-prefix=static_site -e robots=off --span-hosts http://127.0.0.1:8001/
-        # If wget created host subdir (e.g. static_site/127.0.0.1:8001), move files up
-        if [ -d static_site/127.0.0.1:8001 ]; then
-          mv static_site/127.0.0.1:8001/* static_site/ || true
-          rmdir static_site/127.0.0.1:8001 || true
-        fi
-        # Ensure GitHub Pages serves files as-is
-        touch static_site/.nojekyll
+        chmod +x ./scripts/generate_static.sh
+        # By default we do NOT span hosts. If you need to exclude some external domains
+        # while allowing others, pass a comma-separated list as the 2nd argument.
+        # Here we explicitly exclude common external hosts to avoid 3rd-party fetches.
+        ./scripts/generate_static.sh 8001 "acm.org,libraries.acm.org,fonts.googleapis.com,fonts.gstatic.com,cdn.jsdelivr.net"
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v4

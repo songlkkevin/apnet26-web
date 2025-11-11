@@ -6,6 +6,9 @@ set -euo pipefail
 # Default port: 8001
 
 PORT=${1:-8001}
+# Optional comma-separated domains to exclude from wget (example: "acm.org,cdn.example.com").
+# If empty, wget will NOT span hosts (will only fetch the local PHP server at 127.0.0.1).
+EXCLUDE_DOMAINS=${2:-}
 ROOT_DIR="$(cd "$(dirname "$0")/.." && pwd)"
 WEB_DIR="$ROOT_DIR/web"
 OUT_DIR="$ROOT_DIR/static_site"
@@ -34,8 +37,21 @@ for i in {1..15}; do
 done
 
 echo "Running wget to mirror site into $OUT_DIR"
-wget --mirror --convert-links --adjust-extension --page-requisites --no-parent \
-  --no-host-directories --directory-prefix="$OUT_DIR" -e robots=off --span-hosts "http://127.0.0.1:$PORT/"
+
+# Build wget args. By default we DO NOT span hosts to avoid fetching external domains.
+WGET_ARGS=(--mirror --convert-links --adjust-extension --page-requisites --no-parent \
+  --no-host-directories --directory-prefix="$OUT_DIR" -e robots=off)
+
+if [ -n "$EXCLUDE_DOMAINS" ]; then
+  # If the caller passed exclude domains, allow spanning hosts but exclude the given domains.
+  WGET_ARGS+=(--span-hosts "--exclude-domains=$EXCLUDE_DOMAINS")
+  # Note: when excluding domains we must allow spanning hosts so wget can attempt other hosts
+else
+  # Do not span hosts by default (only fetch from 127.0.0.1)
+  :
+fi
+
+wget "http://127.0.0.1:$PORT/" "${WGET_ARGS[@]}"
 
 if [ -d "$OUT_DIR/127.0.0.1:$PORT" ]; then
   echo "Moving files out of host subdirectory"
