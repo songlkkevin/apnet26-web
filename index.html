@@ -1,0 +1,711 @@
+
+<!DOCTYPE HTML>
+<html>
+<!--Anna: FIXME <html manifest="sigcomm.appcache"> -->
+<head>
+  <meta charset="iso-8859-1">
+  <meta property="og:title" content="APNET 2026 - APNET 2026" />
+  <meta property="og:image" content="https://apnet24.wanghao.dev/images/apnet-logo.jpg" />
+  <meta property="og:description" content="The 9th Asia-Pacific Workshop on Networking (APNET'25) will take place August 7-8, 2025, at Shanghai, China. APNet aims to bring together the very best researchers in computer networking and systems across the Asia-Pacific region and around the globe to a live forum discussing innovative ideas at their early stages. The mission of APNet is that promising but not-yet-mature ideas can receive timely feedback from the community and experienced researchers, leading them into publications at major conferences such as SIGCOMM, NSDI, SOSP, OSDI, MobiCom, and CoNEXT.We invite submissions of papers (up to 6 pages, excluding references) on a wide range of networking research topics." />
+  <meta property="og:url" content="http://127.0.0.1:8001/" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  <meta name="copyright" content="The APNET 2025 Website is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Based on the ACM SIGCOMM 2012 web site available at https://github.com/ryanrhymes/SIGCOMM2012" />
+  
+  <title>APNET 2026 - APNET 2026</title>
+  
+  <link href='http://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+  
+
+  <!-- Favicon alternatives: https://css-tricks.com/favicon-quiz/ -->
+  <link rel="apple-touch-icon" sizes="57x57" href="http://127.0.0.1:8001/images/apple-touch-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="http://127.0.0.1:8001/images/apple-touch-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="http://127.0.0.1:8001/images/apple-touch-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="http://127.0.0.1:8001/images/apple-touch-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="http://127.0.0.1:8001/images/apple-touch-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="http://127.0.0.1:8001/images/apple-touch-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="http://127.0.0.1:8001/images/apple-touch-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="http://127.0.0.1:8001/images/apple-touch-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="http://127.0.0.1:8001/images/apple-touch-icon-180x180.png">        
+  <link rel="icon" type="image/png" href="images/favicon-32x32.png" sizes="32x32">
+  <link rel="icon" type="image/png" href="images/android-chrome-192x192.png" sizes="192x192">
+  <link rel="icon" type="image/png" href="http://127.0.0.1:8001/images/favicon-96x96.png" sizes="96x96">
+  <link rel="icon" type="image/png" href="images/favicon-16x16.png" sizes="16x16">
+
+  <link rel="shortcut icon" type='image/ico' href="images/favicon.ico">
+
+  <link rel="manifest" href="images/manifest.json">
+  <meta name="msapplication-TileColor" content="#00a300">
+  <meta name="msapplication-TileImage" content="images/mstile-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+
+  <link rel="stylesheet" href="css/jquery.mobile-1.4.5.css" />
+
+  <!-- send file timestamp to prevent caching issues -->
+  <link rel="stylesheet" href="css/style.css%3Fcache_ts=1762841887.css" />
+
+  <!-- make the CSS work with older IE -->
+  <script src="js/css3-mediaqueries.js"></script>
+
+  <!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if offline -->
+  <script src="http://code.jquery.com/jquery-1.11.2.min.js"></script>
+  <script>window.jQuery || document.write('<script src="js/jquery-1.11.2.min.js"><\/script>')</script>
+
+  <!-- Grab CDN jquerymobile, with a protocol relative URL; fall back to local if offline -->
+  <script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+  <script>$.mobile || document.write('<script src="js/jquery.mobile-1.4.5.min.js"><\/script>')</script>
+
+  <script src="js/jqm-docs.js"></script>
+  
+  <!-- send file timestamp to prevent caching issues -->
+  <script src="js/script.js%3Fcache_ts=1762841888" type='text/javascript'></script>
+
+</head>
+
+<body>
+
+<!-- Prompt IE 6 users to install Chrome Frame. Remove this if you support IE 6.
+	 chromium.org/developers/how-tos/chrome-frame-getting-started -->
+<!--[if lt IE 7 ]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
+
+<div data-role="page" data-theme="a" class="main-page">
+
+  <div class="header" data-role="header" data-theme="a" data-position="inline">
+    <div>
+    <a href="index.php.html"><img src="images/logo2026.png" alt="APNET 2025, Shanghai, China"></a>
+    </div>
+    <!--<figcaption><b>Co-located with ACM SIGCOMM 2024</b></figcaption>-->
+    <a href="index.html#" onclick="$.mobile.silentScroll($.mobile.activePage.find('.leftnav').position().top)" class="ui-btn-right" data-corners="true" data-icon="grid">MENU</a>
+  </div>
+  
+  <div data-role="content" class="ui-content">
+    <div class="content-primary">
+
+    
+
+<img src="images/background.png" alt="painting" class="center-image" width="100%">
+
+<p style="text-align: justify; text-indent: 2em;"> The 10<sup>th</sup> Asia-Pacific Workshop on Networking (APNET'26) will take place August 6-7, 2026, at Osaka, Japan. APNet aims to bring together the very best researchers in computer networking and systems across the Asia-Pacific region and around the globe to a live forum discussing innovative ideas at their early stages. The mission of APNet is that promising but not-yet-mature ideas can receive timely feedback from the community and experienced researchers, leading them into publications at major conferences such as SIGCOMM, NSDI, SOSP, OSDI, MobiCom, and CoNEXT.</p>
+<!-- APNET'26 is co-located with <a href="https://APNET2026-Preday.fudan.edu.cn">The 1st Frontier Forum on Networking and Intelligent Technologies</a>. -->
+<!-- <p>We invite submissions of papers <font color="red">(up to 6 pages, excluding references)</font> on a wide range of networking research topics.</p> -->
+
+<!-- <p align="center"><br/><a href="statement-ec.php">Statement by the SIGCOMM Executive Committee</a> and</br><a href="message.php">Message from the General Chairs</a> on the relocation to Florian&oacute;polis</p> -->
+<br>
+
+<!-- TODO: xxxx, 2026 -->
+<p style="text-align: justify;"><b>Important Notice:</b> APNET 2026 will transition to the ACM Open Access publishing model starting xxxx, 2026; authors must meet Open Access requirements detailed on the <a href="https://www.acm.org/publications/openaccess">ACM website</a>. For more questions, please visit the <a href="https://conferences.sigcomm.org/events/apnet2025/qaAcmOpen.php">ACM Open Access Q&A page</a>.</p>
+
+
+<h2>News</h2>
+
+<ul data-role="listview" data-inset="true" data-theme="a" data-content-theme="a" class="datetbl">
+
+  <li data-icon="false">
+    <div class="ui-grid-a">
+      <div class="ui-block-a"><h2>Aug 1, 2025</h2></div>
+      <div class="ui-block-b"><p>Sponsorship Benefits is online.</p></div>
+    </div>
+  </li>
+  <li data-icon="false">
+    <div class="ui-grid-a">
+      <div class="ui-block-a"><h2>Jul 27, 2025</h2></div>
+      <div class="ui-block-b"><p>Side Event is online.</p></div>
+    </div>
+  </li>
+  <li data-icon="false">
+    <div class="ui-grid-a">
+      <div class="ui-block-a"><h2>Jul 10, 2025</h2></div>
+      <div class="ui-block-b"><p>Visa Information is online.</p></div>
+    </div>
+  </li>
+  <li data-icon="false">
+    <div class="ui-grid-a">
+      <div class="ui-block-a"><h2>Jul 1, 2025</h2></div>
+      <div class="ui-block-b"><p>Local Information is online.</p></div>
+    </div>
+  </li>
+  <li data-icon="false">
+    <div class="ui-grid-a">
+      <div class="ui-block-a"><h2>Jun 26, 2025</h2></div>
+      <div class="ui-block-b"><p>Program is online.</p></div>
+    </div>
+  </li>
+  <li data-icon="false">
+    <div class="ui-grid-a">
+      <div class="ui-block-a"><h2>Jun 11, 2025</h2></div>
+      <div class="ui-block-b"><p>Registration is online.</p></div>
+    </div>
+  </li>
+  <li data-icon="false">
+    <div class="ui-grid-a">
+      <div class="ui-block-a"><h2>May 28, 2025</h2></div>
+      <div class="ui-block-b"><p>Travel Grants Information is online.</p></div>
+    </div>
+  </li>
+  <li data-icon="false">
+    <div class="ui-grid-a">
+      <div class="ui-block-a"><h2>May 20, 2025</h2></div>
+      <div class="ui-block-b"><p>Accepted Papers List is online.</p></div>
+    </div>
+  </li>
+  <li data-icon="false">
+    <div class="ui-grid-a">
+      <div class="ui-block-a"><h2>May 10, 2025</h2></div>
+      <div class="ui-block-b"><p>Update the APC Burden Reduction Policy.</p></div>
+    </div>
+  </li>
+  <li data-icon="false">
+    <div class="ui-grid-a">
+      <div class="ui-block-a"><h2>May 10, 2025</h2></div>
+      <div class="ui-block-b"><p>Academic Insight Talks is online.</p></div>
+    </div>
+  </li>
+  <li data-icon="false">
+    <div class="ui-grid-a">
+      <div class="ui-block-a"><h2>May 10, 2025</h2></div>
+      <div class="ui-block-b"><p>Keynote Talks is online.</p></div>
+    </div>
+  </li>
+  <li data-icon="false">
+    <div class="ui-grid-a">
+      <div class="ui-block-a"><h2>May 8, 2025</h2></div>
+      <div class="ui-block-b"><p>Industry Spotlight Talks is online.</p></div>
+    </div>
+  </li>
+  <li data-icon="false">
+    <div class="ui-grid-a">
+      <div class="ui-block-a"><h2>May 7, 2025</h2></div>
+      <div class="ui-block-b"><p>The submission deadline of Posters has been postponed by one week.</p></div>
+    </div>
+  </li>
+  <li data-icon="false">
+    <div class="ui-grid-a">
+      <div class="ui-block-a"><h2>Apr 8, 2025</h2></div>
+      <div class="ui-block-b"><p>Call For Posters is online.</p></div>
+    </div>
+  </li>
+  <li data-icon="false">
+    <div class="ui-grid-a">
+      <div class="ui-block-a"><h2>Dec 4, 2024</h2></div>
+      <div class="ui-block-b"><p>Organizing Committee is online.</p></div>
+    </div>
+  </li>
+  <li data-icon="false">
+    <div class="ui-grid-a">
+      <div class="ui-block-a"><h2>Nov 26, 2024</h2></div>
+      <div class="ui-block-b"><p>Call For Papers is online.</p></div>
+    </div>
+  </li>
+  <li data-icon="false">
+    <div class="ui-grid-a">
+      <div class="ui-block-a"><h2>Nov 5, 2024</h2></div>
+      <div class="ui-block-b"><p>Program Committee is online.</p></div>
+    </div>
+  </li>
+  <li data-icon="false">
+    <div class="ui-grid-a">
+      <div class="ui-block-a"><h2>Oct 19, 2024</h2></div>
+      <div class="ui-block-b"><p>APNET 2025 website is live.</p></div>
+    </div>
+  </li>
+
+  <li class="newslibtn ui-btn ui-li" data-theme="a" onclick="showall();"><div><a>Older News</a><span class="ui-icon ui-btn-icon-right ui-icon-plus ui-icon-shadow">&nbsp;</span></div></li>
+</ul>
+
+<!--<h2>Conference Schedule</h2>
+
+<a href="files/schedule-2016-08-10.pdf" rel="external"><img src="files/schedule-2016-08-10.png" alt="ACM SIGCOMM 2016 - Detailed Conference Schedule" style="width: 100%;"></a>
+
+<h2>Calendar</h2>
+
+<iframe src="https://calendar.google.com/calendar/embed?title=ACM%20SIGCOMM%20Agenda&amp;showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=600&amp;wkst=1&amp;hl=en&amp;bgcolor=%23ffffff&amp;src=fgkdoih822v80dfk304pt56fjo%40group.calendar.google.com&amp;color=%23125A12&amp;ctz=America%2FSao_Paulo" style="border-width:0" width="100%" height="400" frameborder="0" scrolling="no"></iframe>-->
+
+<h2>Important Dates</h2>
+
+<ul data-role="listview" data-inset="true" data-theme="a" data-content-theme="a" class="datetbl">
+    <li data-icon="false">
+    <div class="ui-grid-a">
+      <div class="ui-block-a"><h2>Abstract due</h2></div>
+      <div class="ui-block-b"><p>March 6, 2025 AoE</p></div>
+    </div>
+  </li>
+    <li data-icon="false">
+    <div class="ui-grid-a">
+      <div class="ui-block-a"><h2>Submission due</h2></div>
+      <div class="ui-block-b"><p>March 13, 2025 AoE</p></div>
+    </div>
+  </li>
+    <li data-icon="false">
+    <div class="ui-grid-a">
+      <div class="ui-block-a"><h2>Notification to authors</h2></div>
+      <div class="ui-block-b"><p>April 25, 2025</p></div>
+    </div>
+  </li>
+    <li data-icon="false">
+    <div class="ui-grid-a">
+      <div class="ui-block-a"><h2>Camera-ready due</h2></div>
+      <div class="ui-block-b"><p>May 16, 2025</p></div>
+    </div>
+  </li>
+    <li data-icon="false">
+    <div class="ui-grid-a">
+      <div class="ui-block-a"><h2>Workshop</h2></div>
+      <div class="ui-block-b"><p>August 7-8, 2025</p></div>
+    </div>
+  </li>
+</ul>
+
+<h2>Sponsors</h2>
+
+
+
+<!--<div class="sponsors">
+    <a href="//www.cse.hkust.edu.hk/"><img src="images/sponsors/hkustcse.png" alt="HKUST CSE" style="width: 280%;" /></a>
+    <a href="//www.acm.org/"><img src="images/sponsors/acm.jpeg" alt="In-cooperation with ACM" /></a>
+	<a href="//www.sigcomm.org/"><img src="images/sponsors/sig.png" alt="ACM SIGCOMM" /></a>
+    <a href="//www.sigmobile.org/"><img src="images/sponsors/sigmobile.gif" alt="ACM SIGMOBILE" style="width: 28%;" /></a>
+    
+</div>
+
+<div class="sponsors" style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+    <a href="//www.cse.hkust.edu.hk/" style="flex: 0 0 200%;"><img src="images/sponsors/hkustcse.png" alt="HKUST CSE" /></a>
+    <a href="//www.acm.org/" style="flex: 0 0 33%; width: 100%;"><img src="images/sponsors/acm.jpeg" alt="In-cooperation with ACM" /></a>
+    <a href="//www.sigcomm.org/" style="flex: 0 0 33%; width: 200%;"><img src="images/sponsors/sig.png" alt="ACM SIGCOMM" /></a>
+    <a href="//www.sigmobile.org/" style="flex: 0 0 33%; width: 60%;"><img src="images/sponsors/sigmobile.gif" alt="ACM SIGMOBILE" /></a>
+</div>-->
+
+<style>
+        .custom-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 20px;
+            /* width: 100%; */
+        }
+        .custom-row {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 20px; /* 增加图片间的间距 */
+            /* flex-wrap: wrap; */
+        }
+        .custom-row img {
+            height: auto;
+            max-width: 1000px; /* 设置默认宽度大20% */
+        }
+        .custom-row.first-row img {
+            max-height: 60px; /* 保持第一行图片宽度 */
+            width: auto;
+        }
+        .custom-row img.first-img {
+            max-height: 60px;
+            width: auto;
+        }
+        .custom-row img.second-img {
+            max-height: 60px;
+            width: auto;
+        }
+        .custom-row img.third-img {
+            max-height: 60px;
+            width: auto;
+        }
+        .custom-row img.four-img {
+            max-height: 60px;
+            width: auto;
+        }
+        .custom-row img.five-img {
+            max-height: 60px;
+            width: auto;
+        }
+        .custom-row img.six-img {
+            max-height: 60px;
+            width: auto;
+        }
+        @media screen and (max-width: 768px) {
+            .custom-row img {
+                max-width: 300px; /* 调整小屏幕时的宽度 */
+            }
+            .custom-row.first-row img {
+                max-height: 30px;
+                width: auto; 
+            }
+            .custom-row img.first-img {
+                max-height: 30px;
+                width: auto;
+            }
+            .custom-row img.second-img {
+                max-height: 30px;
+                width: auto;
+            }
+            .custom-row img.third-img {
+                max-height: 30px;
+                width: auto;
+            }
+            .custom-row img.four-img {
+                max-height: 30px;
+                width: auto;
+            }
+            .custom-row img.five-img {
+                max-height: 20px;
+                width: auto;
+            }
+            .custom-row img.six-img {
+                max-height: 35px;
+                width: auto;
+            }
+        }
+    </style>
+
+<div class="custom-container">
+        <div class="custom-row">
+            <a href="http://www.sigcomm.org/"><img class="first-img" src="images/sig.png" alt="ACM SIGCOMM"/></a>
+            <a href="http://www.sigmobile.org/"><img class="second-img" src="images/sigmobile.jpeg" alt="ACM SIGMOBILE"/></a>
+            <a href="http://hkust.edu.hk/"><img class="third-img" src="images/hkust.png" alt="HKUST"/></a>
+        </div>
+        <div class="custom-row">
+            <a href="http://www.fudan.edu.cn/"><img class="four-img" src="images/fdu2.png" alt="FUDAN UNIVERSITY"/></a>
+            <a href="http://www.huawei.com/"><img class="five-img" src="images/sponsors/HW_POS_PANTONE_Horizontal-300ppi.jpg" alt="HUAWEI"/></a>
+            <a href="http://www.alibabacloud.com/"><img class="six-img" src="images/alicloud.png" alt="ALIBABA CLOUD"/></a>
+        </div>
+    </div>
+
+<!-- <div class="sponsor">
+    <div class="row">
+    <a href="//www.cse.hkust.edu.hk/"><img src="images/sponsors/hkustcse.png" alt="HKUST CSE" class="full-width" style="width: 100%;"/></a>
+    </div>
+    <div class="row">
+        <a href="//www.huawei.com/"><img src="images/sponsors/huawei_logo.png" alt="HUAWEI" style="width: 28%; margin-left: 40px;"/></a>
+        <a href="//www.acm.org/"><img src="images/sponsors/acm.jpeg" alt="In-cooperation with ACM" style="width: 240%;  margin-left: 80px;"/></a>
+    </div>
+    <div class="row">
+        <a href="//www.sigmobile.org/"><img src="images/sponsors/sigmobile.gif" alt="ACM SIGMOBILE" style="width: 28%; margin-left: 20px;"/></a>
+        <a href="//www.sigcomm.org/"><img src="images/sponsors/sigcomm.png" alt="ACM SIGCOMM" style="width: 50%; margin-left: 80px;"/></a>
+    </div>
+</div> -->
+
+<!-- 
+<div class="sponsor">
+    <div class="row">
+    <a href="//www.cse.hkust.edu.hk/"><img src="images/sponsors/hkustcse.png" alt="HKUST CSE" class="full-width" style="width: 100%;"/></a>
+    </div>
+    <div class="row">
+        <a href="//www.acm.org/"><img src="images/sponsors/acm.jpeg" alt="In-cooperation with ACM" style="width: 100%;"/></a>
+        <a href="//www.sigcomm.org/"><img src="images/sponsors/sigcomm.png" alt="ACM SIGCOMM" style="width: 100%; margin-left: 80px;"/></a>
+        <a href="//www.sigmobile.org/"><img src="images/sponsors/sigmobile.gif" alt="ACM SIGMOBILE" style="width: 25%; margin-left: 220px;"/></a>
+    </div>
+</div> -->
+
+
+
+  </div> <!-- content-primary -->
+  <div class="leftnav" role="panel" data-position="left" data-display="overlay" data-theme="a">
+    <a href="index.php.html"><img src="images/logo2026.png" alt="APNET 2025, Shanghai, China" /></a>
+  <!-- <figcaption><b>Co-located with ACM SIGCOMM 2024</b></figcaption> -->
+  
+  
+  <ul data-role="listview" data-inset="true" data-theme="a" data-divider-theme="a">
+
+    <li class="navselected" data-icon="false">
+      <a href="index.php.html">Home</a>
+    </li>
+
+  <li class="notlast " data-icon="false">
+      <a href="registration.php.html">Registration</a>
+    </li>
+
+    <li class="notlast " data-icon="false">
+      <a href="apnetprogram.php.html">Program</a>
+    </li>
+
+    <!--<li class="notlast " data-icon="false">
+      <a href="banquet.php">Banquet Information</a>
+    </li>-->
+
+    <li class="notlast " data-icon="false">
+      <a href="keynote.php.html">Keynote Talks</a>
+    </li>
+
+    <li class="notlast " data-icon="false">
+      <a href="industry.php.html">Industry Spotlight Talks</a>
+    </li>
+
+    <li class="notlast " data-icon="false">
+      <a href="sigcommnsdi.php.html">Academic Insight Talks</a>
+    </li>
+  
+  <li class="notlast " data-icon="false">
+      <a href="accept.php.html">Accepted Papers List</a>
+    </li>
+
+  <li class="notlast " data-icon="false">
+      <a href="grant.php.html">Travel Grants Information</a>
+    </li>
+    <li class="notlast " data-icon="false">
+      <a href="visa.php.html">Visa Information</a>
+    </li>
+  <li class="notlast " data-icon="false">
+      <a href="cfp.php.html">Call for Papers</a>
+    </li>
+  
+    <li class="notlast " data-icon="false">
+      <a href="cfposter.php.html">Call for Posters</a>
+    </li>
+
+    <li class="notlast " data-icon="false">
+      <a href="cfpatron.php.html">Sponsorship Benefits</a>
+    </li>
+
+  <!--<li class="notlast " data-icon="false">
+      <a href="visa.php">Visa Information</a>
+    </li>-->
+
+    <li class="notlast " data-icon="false">
+      <a href="apnethotel.php.html">Local Information</a>
+    </li>
+
+  <li class="notlast " data-icon="false">
+      <a href="pc.php.html">Program Committee</a>
+    </li>
+  
+  <li class="notlast " data-icon="false">
+      <a href="organization.php.html">Organization Committee</a>
+    </li>
+  <li class="notlast " data-icon="false">
+      <a href="sideEvent.php.html">Side Event</a>
+    </li>
+  
+
+  
+
+  <!--<li class="notlast " data-icon="false">
+      <a href="supporters.php">Supporters</a>
+    </li>-->
+ <!--   comment here : working -->
+   <!--<div data-role="collapsible" data-theme="a" data-content-theme="a" data-collapsed-icon="arrow-d" data-expanded-icon="arrow-u" data-iconpos="right"
+          class="navgroup">
+      <h4>Conference</h4>
+      <ul data-role="listview" data-inset="false">
+         <li class="subnav " data-icon="false">
+           <a href="awards.php">Awards</a>
+        </li>
+         <li class="subnav " data-icon="false">
+           <a href="program.php">Program</a>
+        </li>
+         <li class="subnav " data-icon="false">
+           <a href="pc.php">Program Committee</a>
+        </li>
+        <li class="subnav " data-icon="false">
+          <a href="posterprogram.php">Posters</a>
+        </li>
+        <li class="subnav " data-icon="false">
+          <a href="demoprogram.php">Demos</a>
+        </li>
+        <li class="subnav " data-icon="false">
+          <a href="src.php">ACM SRC</a>
+        </li>
+        <li class="subnav " data-icon="false">
+          <a href="industrialdemoprogram.php">Industrial Demos</a>
+        </li>
+        <li class="subnav " data-icon="false">
+          <a href="maintrackposterprogram.php">Posters/Demos from Main Track</a>
+        </li>
+        <li class="subnav " data-icon="false">
+          <a href="preview.php">Topic Preview</a>
+        </li>
+        <li class="subnav " data-icon="false">
+          <a href="mentoring.php">Mentoring</a>
+        </li>
+        <li class="subnav " data-icon="false">
+           <a href="socialevents.php">Social Events</a>
+        </li>
+      </ul>
+    </div>-->
+
+    <!--<div data-role="collapsible" data-theme="a" data-content-theme="a" data-collapsed-icon="arrow-d" data-expanded-icon="arrow-u" data-iconpos="right"
+          class="navgroup">
+      <h4>Workshops</h4>
+      <ul data-role="listview" data-inset="false">
+        <li class="subnav " data-icon="false">
+          <a href="gaia.php">GAIA</a>
+        </li>
+        <li class="subnav " data-icon="false">
+          <a href="hotmiddlebox.php">HotMiddlebox</a>
+        </li>
+        <li class="subnav " data-icon="false">
+          <a href="qoe.php">Internet-QoE</a>
+        </li>
+        <li class="subnav " data-icon="false">
+          <a href="lancomm.php">LANCOMM</a>
+        </li>
+        <li class="subnav " data-icon="false">
+          <a href="netpl.php">NetPL</a>
+        </li>
+       </ul>
+    </div>-->
+
+    <!--<div data-role="collapsible" data-theme="a" data-content-theme="a" data-collapsed-icon="arrow-d" data-expanded-icon="arrow-u" data-iconpos="right"
+          class="navgroup">
+      <h4>Tutorials</h4>
+      <ul data-role="listview" data-inset="false">
+        <li class="subnav " data-icon="false">
+          <a href="tutorial-wimobnet.php">Enabling Research in Future WiMobNet</a>
+        </li>
+        <li class="subnav " data-icon="false">
+          <a href="tutorial-im.php">Internet Measurements</a>
+        </li>
+        <li class="subnav " data-icon="false">
+          <a href="tutorial-iptv.php">IPTV and Over-the-Top Video</a>
+        </li>
+        <li class="subnav " data-icon="false">
+          <a href="tutorial-p4.php">P4</a>
+        </li>
+        <li class="subnav " data-icon="false">
+          <a href="tutorial-sdnnfv5g.php">SDN, NFV and Their Role in 5G</a>
+        </li>
+      </ul>
+    </div>-->
+
+    <!--<li class="notlast " data-icon="false">
+      <a href="https://www.regonline.com/acmsigcomm2016" rel="external">Registration</a>
+    </li>-->
+
+    <!--<div data-role="collapsible" data-theme="a" data-content-theme="a" data-collapsed-icon="arrow-d" data-expanded-icon="arrow-u" data-iconpos="right"
+          class="navgroup">
+      <h4>Local Information</h4>
+      <ul data-role="listview" data-inset="false">
+        <li class="subnav " data-icon="false">
+          <a href="assistance.php">Travel Assistance</a>
+        </li>
+
+        <li class="subnav " data-icon="false">
+          <a href="travel.php">Venue and Travel</a>
+        </li>
+
+        <li class="subnav " data-icon="false">
+          <a href="restaurants.php">Pubs &amp; Restaurants</a>
+        </li>
+
+        <li class="subnav " data-icon="false">
+          <a href="visa.php">Visa</a>
+        </li>
+
+        <li class="subnav " data-icon="false">
+          <a href="hotel.php">Accommodation</a>
+        </li>
+
+        <li class="subnav " data-icon="false">
+          <a href="roomshare.php">Room Share</a>
+        </li>
+
+        <li class="subnav " data-icon="false">
+          <a href="tourism.php">Tourism</a>
+        </li>
+
+        <li class="subnav " data-icon="false">
+          <a href="advisory.php">Advice for Travellers</a>
+        </li>
+      </ul>
+    </div>-->
+
+    <!--<li class="notlast " data-icon="false">
+      <a href="policies.php">Anti-Harassment Policy</a>
+    </li>-->
+
+    <!--<div data-role="collapsible" data-theme="a" data-content-theme="a" data-collapsed-icon="arrow-d" data-expanded-icon="arrow-u" data-iconpos="right"
+          class="navgroup listlast">
+      <h4>Calls</h4>
+      <ul data-role="listview" data-inset="false">
+        <li class="subnav " data-icon="false">
+          <a href="cfp.php">Call for Papers</a>
+        </li>
+        <li class="subnav " data-icon="false">
+          <a href="submission.php">Paper Submission</a>
+        </li>
+        <li class="subnav " data-icon="false">
+          <a href="postersdemos.php">Call for Posters &amp; Demos</a>
+        </li>
+        <li class="subnav " data-icon="false">
+          <a href="industrialdemos.php">Call for Industrial Demos</a>
+        </li>
+        <li class="subnav " data-icon="false">
+          <a href="cfwp.php">Call for Workshops</a>
+        </li>
+        <li class="subnav " data-icon="false">
+          <a href="cft.php">Call for Tutorials</a>
+        </li>
+        <li class="subnav " data-icon="false">
+          <a href="travelgrants.php">Travel Grants</a>
+        </li>
+        <li class="subnav " data-icon="false">
+          <a href="n2women.php">N2Women Fellowship</a>
+        </li>
+        <li class="subnav " data-icon="false">
+          <a href="n2women-award.php">N2Women Travel Grant</a>
+        </li>
+      </ul>
+    </div>-->
+    
+  </ul>  
+
+  <!--<div class="border ui-corner-all ui-shadow socialbuttons">
+    <iframe src="include/socialbtn.php" scrolling="no" height="21" width="100%" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+  </div>-->
+
+</div>
+</div> <!-- content -->
+
+  <!--   
+    <div class="logobar" data-role="footer" data-position="fixed" data-tap-toggle="false" data-theme="c"></div>
+
+    
+</div> <!-- page -->
+
+    
+    <img src='images/sponsors/cisco.png' alt='cached' class='hidden'>
+    <img src='images/sponsors/huawei.png' alt='cached' class='hidden'>
+    <img src='images/sponsors/ericsson.png' alt='cached' class='hidden'>
+    <img src='images/sponsors/facebook.png' alt='cached' class='hidden'>
+    <img src='images/sponsors/google.png' alt='cached' class='hidden'>
+    <img src='images/sponsors/akamai.png' alt='cached' class='hidden'>
+    <img src='images/sponsors/hpe.png' alt='cached' class='hidden'>
+    <img src='images/sponsors/netapp.jpeg' alt='cached' class='hidden'>
+    <img src='images/sponsors/telefonica.png' alt='cached' class='hidden'>
+    <img src='images/sponsors/vmware.jpg' alt='cached' class='hidden'>
+    <img src='images/sponsors/comcast.jpg' alt='cached' class='hidden'>
+    <img src="images/sponsors/cgi_br_nic_br.jpg" alt="cached" class='hidden'/>
+    <img src="images/sponsors/nsf.jpg" alt="cached" class='hidden'/>
+
+    <script type="text/javascript">
+      /* [priority, logo_filename, sponsor_website, sponsor_shortname, 0, real_height, real_width] */
+      sps = [
+        [300, "cisco.png", "http://www.cisco.com/", "cisco", 0, 200, 379],
+        [300, "nsf.jpg", "http://www.nsf.gov/", "cisco", 0, 100, 100],
+        [100, "huawei.png", "http://www.huawei.com/", "huawei", 0, 150, 150],
+        [100, "ericsson.png", "http://www.ericsson.com/", "ericsson", 0, 104, 116],
+        [100, "facebook.png", "http://research.facebook.com/", "facebook", 0, 713, 2026],
+        [100, "google.png", "http://www.google.com/", "google", 0, 329, 1000],
+        [100, "cgi_br_nic_br.jpg", "http://cgi.br/about/", "cgi.br", 0, 300, 900],
+        [50, "akamai.png", "http://www.akamai.com/", "akamai", 0, 195, 450],
+        [10, "hpe.png", "http://www.hpe.com/", "hp", 0, 180, 360],
+        [10, "telefonica.png", "http://www.tid.es/", "telefonica", 0, 152, 250],
+        [10, "vmware.jpg", "http://www.vmware.com/", "vmware", 0, 100, 420],
+        [10, "netapp.jpeg", "http://www.netapp.com/", "netapp", 0, 478, 1200],
+        [10, "comcast.jpg", "http://www.comcast.com/", "comcast", 0, 263, 594]
+    ];</script>
+    
+    
+<!-- SIGCOMM'16 script code for collecting visit statistics --> 
+<!-- <script> -->
+  <!-- (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-30942101-4', 'auto');
+  ga('send', 'pageview'); -->
+
+<!-- </script> -->
+</body>
+</html>

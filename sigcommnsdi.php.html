@@ -1,0 +1,522 @@
+
+<!DOCTYPE HTML>
+<html>
+<!--Anna: FIXME <html manifest="sigcomm.appcache"> -->
+<head>
+  <meta charset="iso-8859-1">
+  <meta property="og:title" content="Academic Insight Talks - APNET 2026" />
+  <meta property="og:image" content="https://apnet24.wanghao.dev/images/apnet-logo.jpg" />
+  <meta property="og:url" content="http://127.0.0.1:8001/sigcommnsdi.php" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  <meta name="copyright" content="The APNET 2025 Website is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Based on the ACM SIGCOMM 2012 web site available at https://github.com/ryanrhymes/SIGCOMM2012" />
+  
+  <title>Academic Insight Talks - APNET 2026</title>
+  
+  <link href='http://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+  
+
+  <!-- Favicon alternatives: https://css-tricks.com/favicon-quiz/ -->
+  <link rel="apple-touch-icon" sizes="57x57" href="http://127.0.0.1:8001/images/apple-touch-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="http://127.0.0.1:8001/images/apple-touch-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="http://127.0.0.1:8001/images/apple-touch-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="http://127.0.0.1:8001/images/apple-touch-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="http://127.0.0.1:8001/images/apple-touch-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="http://127.0.0.1:8001/images/apple-touch-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="http://127.0.0.1:8001/images/apple-touch-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="http://127.0.0.1:8001/images/apple-touch-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="http://127.0.0.1:8001/images/apple-touch-icon-180x180.png">        
+  <link rel="icon" type="image/png" href="images/favicon-32x32.png" sizes="32x32">
+  <link rel="icon" type="image/png" href="images/android-chrome-192x192.png" sizes="192x192">
+  <link rel="icon" type="image/png" href="http://127.0.0.1:8001/images/favicon-96x96.png" sizes="96x96">
+  <link rel="icon" type="image/png" href="images/favicon-16x16.png" sizes="16x16">
+
+  <link rel="shortcut icon" type='image/ico' href="images/favicon.ico">
+
+  <link rel="manifest" href="images/manifest.json">
+  <meta name="msapplication-TileColor" content="#00a300">
+  <meta name="msapplication-TileImage" content="images/mstile-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+
+  <link rel="stylesheet" href="css/jquery.mobile-1.4.5.css" />
+
+  <!-- send file timestamp to prevent caching issues -->
+  <link rel="stylesheet" href="css/style.css%3Fcache_ts=1762841887.css" />
+
+  <!-- make the CSS work with older IE -->
+  <script src="js/css3-mediaqueries.js"></script>
+
+  <!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if offline -->
+  <script src="http://code.jquery.com/jquery-1.11.2.min.js"></script>
+  <script>window.jQuery || document.write('<script src="js/jquery-1.11.2.min.js"><\/script>')</script>
+
+  <!-- Grab CDN jquerymobile, with a protocol relative URL; fall back to local if offline -->
+  <script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+  <script>$.mobile || document.write('<script src="js/jquery.mobile-1.4.5.min.js"><\/script>')</script>
+
+  <script src="js/jqm-docs.js"></script>
+  
+  <!-- send file timestamp to prevent caching issues -->
+  <script src="js/script.js%3Fcache_ts=1762841888" type='text/javascript'></script>
+
+</head>
+
+<body>
+
+<!-- Prompt IE 6 users to install Chrome Frame. Remove this if you support IE 6.
+	 chromium.org/developers/how-tos/chrome-frame-getting-started -->
+<!--[if lt IE 7 ]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
+
+<div data-role="page" data-theme="a" class="main-page">
+
+  <div class="header" data-role="header" data-theme="a" data-position="inline">
+    <div>
+    <a href="index.php.html"><img src="images/logo2026.png" alt="APNET 2025, Shanghai, China"></a>
+    </div>
+    <!--<figcaption><b>Co-located with ACM SIGCOMM 2024</b></figcaption>-->
+    <a href="sigcommnsdi.php.html#" onclick="$.mobile.silentScroll($.mobile.activePage.find('.leftnav').position().top)" class="ui-btn-right" data-corners="true" data-icon="grid">MENU</a>
+  </div>
+  
+  <div data-role="content" class="ui-content">
+    <div class="content-primary">
+
+    
+
+<h1>Academic Insight Talks</h1>
+
+<style>
+  /* 基础样式 */
+  .container {
+    background-color: #eaeaea;
+    margin: 2em;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  .image-container {
+    flex: 0 0 200px; /* 固定图片区域的宽度为200px */
+  }
+  .image-container img {
+    width: 100%; 
+    height: auto; 
+    border: none; /* 移除边框 */
+    max-height: 200px; /* 限制图片的最大高度 */
+    object-fit: contain; /* 保持图片的宽高比 */
+  }
+  .text-container {
+    flex-grow: 1; /* 文字区域占据剩余空间 */
+    padding-left: 20px;
+    overflow: hidden; /* 防止内容溢出 */
+  }
+
+  /* 媒体查询，用于小屏幕设备 */
+  @media (max-width: 600px) {
+    .container {
+      flex-direction: column; /* 在小屏幕上将布局调整为垂直堆叠 */
+    }
+    .image-container {
+      flex: 0 0 auto; /* 图片容器宽度自适应 */
+    }
+    .text-container {
+      padding-left: 0;
+      padding-top: 20px; /* 在图片下方增加一些间隔 */
+    }
+  }
+</style>
+<!-- <br> -->
+<!-- <p>We are honored to have invited four professors to deliver Academic Insight Talks. Further details will be updated soon.</p> -->
+<!-- <br> -->
+<div class="container">
+  <div class="image-container">
+    <img src="images/kk.jpeg">
+  </div>
+  <div class="text-container">
+    <h2><a href="https://kknetsyslab.cs.ucr.edu/" class="ui-link">K. K. Ramakrishnan</a ></h2>
+    <p>Distinguished Professor, University of California, Riverside.</p>
+    <h2>Talk Title:</h2>
+    <p>Making Serverless Computing Efficient and Scalable</p>
+  </div>
+</div>
+			<p style="text-align: justify;"><b>Abstract:</b> We have been working on Serverless Computing, a fast-growing area of cloud computing, for a few years now. Serverless computing simplifies the development, deployment, and automated management of modular software functions, exploiting the microservices paradigm while promising efficient, low-cost computing for users. Serverless computing has evolved by integrating multiple existing cloud computing software components, thus quickly offering its capabilities in the cloud, while possibly sacrificing efficiency. 
+
+We developed SPRIGHT, to exploit event-driven shared memory processing to improve the serverless data plane’s efficiency and scalability by eliminating data copies and avoiding unnecessary protocol processing and serialization-deserialization overheads. The extended Berkeley Packet Filter (eBPF) enabled us to create true event-driven processing, especially to replace the typical heavyweight sidecar proxy used in serverless computing. After a brief recap of SPRIGHT, we will look at another aspect of our work, SURE, a unikernel-based serverless framework, to address the need for a secure data plane and fast-function startup. SURE's data plane supports distributed zero-copy communication via the seamless interaction between zero-copy protocol stack (Z-stack) and local shared memory processing. We leverage Intel's Memory Protection Keys (MPK) as a lightweight capability to ensure safe access to the shared memory data plane and the use of a library-based sidecar. We have recently extended the shared memory of our serverless computing framework to multiple nodes using RDMA to achieve even higher performance and lower latency.
+
+ </p>
+			<p style="text-align: justify;"><b>Speaker Bio:</b> Dr. K. K. Ramakrishnan is a Distinguished Professor of Computer Science and Engineering at the University of California, Riverside. Previously, he was a Distinguished Member of Technical Staff at AT&T Labs-Research. He joined AT&T Bell Labs in 1994 and was with AT&T Labs-Research since its inception in 1996. Prior to 1994, he was a Technical Director and Consulting Engineer in Networking at Digital Equipment Corporation. Between 2000 and 2002, he was at TeraOptic Networks, Inc., as Founder and Vice President. 
+ 
+ Dr. Ramakrishnan is an ACM Fellow, IEEE Fellow, and an AT&T Fellow, recognized for his fundamental contributions to communication networks, congestion control, traffic management, VPN services, and a lasting impact on AT&T and the industry. His work on the "DECbit" congestion avoidance protocol received the ACM Sigcomm Test of Time Paper Award in 2006. K. K. received the ACM Sigcomm Lifetime Achievement Award in 2024. He has published over 300 papers and has over 180 patents issued in his name. K. K. received his MTech from the Indian Institute of Science (1978, recently recognized as one of IISc’s Distinguished Alumni), MS (1981), and Ph.D. (1983) in Computer Science from the University of Maryland, College Park, USA. 
+</p>
+
+
+<div class="container">
+  <div class="image-container">
+    <img src="images/tianchen1.jpg">
+  </div>
+  <div class="text-container">
+    <h2><a href="https://cs.nju.edu.cn/tianchen/" class="ui-link">Chen Tian</a ></h2>
+    <p>Professor, Nanjing University</p>
+    <h2>Talk Title:</h2>
+    <p>Congestion Management in/beyond Datacenter Networks:  Pyrrha as a case</p>
+  </div>
+</div>
+			<p style="text-align: justify;"><b>Abstract:</b> Congestion management, including congestion control and flow control, plays a critical role in the performance of datacenter networks. Due to the growth of port bandwidth and the scale of data center applications, new opportunities appear in this classic research area. A large number of researches are published recently. In this talk, I will first briefly review the status quo. I will then present our recent progresses in this field, which stick to our own motto "Congestion Control is Dead, Long Live Flow Control". At last I will talk about possible future directions of congestion management, especially those beyond datacenter networks, e.g., inter-datacenter and intra-router networks，especially our new paper Pyrrha in NSDI 2025.
+
+ </p>
+			
+			<p style="text-align: justify;"><b>Speaker Bio:</b> Chen Tian, is currently a professor and doctoral supervisor at the School of Computer Science, Nanjing University. In 2023, he was selected for the National Science Fund for Distinguished Young Scholars. His research expertise lies in computer networks and distributed systems. He has published more than 100 papers in top academic conferences and renowned international journals in the fields of computer networks and distributed systems, such as SIGCOMM, NSDI, OSDI, FAST, SIGMOD, PPoPP, and Eurosys. He proposed a congestion management concept centered on traffic control for next-generation data center networks, designed a stateful programmable network tester with independent intellectual property rights, led the realization of large-scale parallel acceleration of open-source network simulation software, and served as the rotating chairman of the OpenNetLab international network testbed.
+</p>
+
+<div class="container">
+  <div class="image-container">
+    <img src="images/henryXu.png">
+  </div>
+  <div class="text-container">
+    <h2><a href="https://henryhxu.github.io/" class="ui-link">Hong Xu</a ></h2>
+    <p>Associate Professor, The Chinese University of Hong Kong</p>
+    <h2>Talk Title:</h2>
+    <p>Mycroft: Tracing Dependencies in Collective Communication Towards Reliable LLM Training</p>
+  </div>
+</div>
+			<p style="text-align: justify;"><b>Abstract:</b> Reliability plays an important role in LLM training to ensure high efficiency. However, many real-world reliability issues remain difficult to resolve, resulting in resource wastage and downgraded model performance. We argue that many of these issues lie in collective communications, which involve complex dependencies in distributed training. Unfortunately, collective communication libraries today are operated as a black box, hiding critical evidence towards efficient root cause analysis.
+
+In this talk, we highlight the importance of tracing collective communication states and leveraging internal control and data dependencies to address reliability problems in LLM training. We build Mycroft, a lightweight distributed tracing and root cause analysis system to solve previously hidden reliability issues in collective communication. Mycroft has been battle-tested with deployment in ByteDance’s large training clusters: it successfully detects collective communication-related anomalies with a 100% detection rate within 15 seconds in 90% of cases, and achieves root-cause identification within 20 seconds in 60% of the cases.
+
+ </p>
+			
+			<p style="text-align: justify;"><b>Speaker Bio:</b> Hong Xu is an Associate Professor in Department of Computer Science and Engineering, The Chinese University of Hong Kong. His research area is computer networking and systems, particularly machine learning systems and data center networks. From 2013 to 2020 he was with City University of Hong Kong. He received his B.Eng. from The Chinese University of Hong Kong in 2007, and his M.A.Sc. and Ph.D. from University of Toronto in 2009 and 2013, respectively. His work has received best paper awards from ACM SIGCOMM 2022, IEEE ICNP 2023 and 2015, among others. He was the recipient of an Early Career Scheme Grant from the Hong Kong Research Grants Council in 2014. He is a senior member of IEEE and ACM.
+</p>
+
+
+<div class="container">
+  <div class="image-container">
+    <img src="images/shizhen.jpeg">
+  </div>
+  <div class="text-container">
+    <h2><a href="https://jhc.sjtu.edu.cn/~shizhenzhao/" class="ui-link">Shizhen Zhao</a ></h2>
+    <p>Associate Professor, Shanghai Jiao Tong University</p>
+    <h2>Talk Title:</h2>
+    <p>On the Design of High Performance Routing Protocols in AI Clusters</p>
+  </div>
+</div>
+			<p style="text-align: justify;"><b>Abstract:</b> Researchers are designing packet-based routing protocols for low-entropy AI workloads. Three key characteristics—In-order Delivery, Lossless Transmission, and Out-of-order Capability—are crucial for effective transmission, yet no practical implementation has achieved all three simultaneously. We identified that combining these characteristics causes a new type of deadlock, termed Orderlock. Operating in an Orderlock-risky network is impractical. Thus, we explored and compared Orderlock-free protocols through a case study on AI workload performance tuning. Our findings offer insights for future High-Performance Network (HPN) protocol and hardware designs, emphasizing the need for Orderlock prevention.
+
+ </p>
+			
+			<p style="text-align: justify;"><b>Speaker Bio:</b> Shizhen Zhao is a tenured associate professor at Shanghai Jiao Tong University. He received his Ph.D. from Purdue University in 2015 and worked at Google's Networking Group from 2015 to 2019. Since 2019, he has been at the John Hopcroft Center for Computer Science. His research focuses on hybrid optoelectronic data center networks for AI workloads. His work has been published in top venues such as SIGCOMM, NSDI, and IEEE/ACM Transactions on Networking.
+</p>
+
+
+  </div> <!-- content-primary -->
+  <div class="leftnav" role="panel" data-position="left" data-display="overlay" data-theme="a">
+    <a href="index.php.html"><img src="images/logo2026.png" alt="APNET 2025, Shanghai, China" /></a>
+  <!-- <figcaption><b>Co-located with ACM SIGCOMM 2024</b></figcaption> -->
+  
+  
+  <ul data-role="listview" data-inset="true" data-theme="a" data-divider-theme="a">
+
+    <li  data-icon="false">
+      <a href="index.php.html">Home</a>
+    </li>
+
+  <li class="notlast " data-icon="false">
+      <a href="registration.php.html">Registration</a>
+    </li>
+
+    <li class="notlast " data-icon="false">
+      <a href="apnetprogram.php.html">Program</a>
+    </li>
+
+    <!--<li class="notlast " data-icon="false">
+      <a href="banquet.php">Banquet Information</a>
+    </li>-->
+
+    <li class="notlast " data-icon="false">
+      <a href="keynote.php.html">Keynote Talks</a>
+    </li>
+
+    <li class="notlast " data-icon="false">
+      <a href="industry.php.html">Industry Spotlight Talks</a>
+    </li>
+
+    <li class="notlast navselected" data-icon="false">
+      <a href="sigcommnsdi.php.html">Academic Insight Talks</a>
+    </li>
+  
+  <li class="notlast " data-icon="false">
+      <a href="accept.php.html">Accepted Papers List</a>
+    </li>
+
+  <li class="notlast " data-icon="false">
+      <a href="grant.php.html">Travel Grants Information</a>
+    </li>
+    <li class="notlast " data-icon="false">
+      <a href="visa.php.html">Visa Information</a>
+    </li>
+  <li class="notlast " data-icon="false">
+      <a href="cfp.php.html">Call for Papers</a>
+    </li>
+  
+    <li class="notlast " data-icon="false">
+      <a href="cfposter.php.html">Call for Posters</a>
+    </li>
+
+    <li class="notlast " data-icon="false">
+      <a href="cfpatron.php.html">Sponsorship Benefits</a>
+    </li>
+
+  <!--<li class="notlast " data-icon="false">
+      <a href="visa.php">Visa Information</a>
+    </li>-->
+
+    <li class="notlast " data-icon="false">
+      <a href="apnethotel.php.html">Local Information</a>
+    </li>
+
+  <li class="notlast " data-icon="false">
+      <a href="pc.php.html">Program Committee</a>
+    </li>
+  
+  <li class="notlast " data-icon="false">
+      <a href="organization.php.html">Organization Committee</a>
+    </li>
+  <li class="notlast " data-icon="false">
+      <a href="sideEvent.php.html">Side Event</a>
+    </li>
+  
+
+  
+
+  <!--<li class="notlast " data-icon="false">
+      <a href="supporters.php">Supporters</a>
+    </li>-->
+ <!--   comment here : working -->
+   <!--<div data-role="collapsible" data-theme="a" data-content-theme="a" data-collapsed-icon="arrow-d" data-expanded-icon="arrow-u" data-iconpos="right"
+          class="navgroup">
+      <h4>Conference</h4>
+      <ul data-role="listview" data-inset="false">
+         <li class="subnav " data-icon="false">
+           <a href="awards.php">Awards</a>
+        </li>
+         <li class="subnav " data-icon="false">
+           <a href="program.php">Program</a>
+        </li>
+         <li class="subnav " data-icon="false">
+           <a href="pc.php">Program Committee</a>
+        </li>
+        <li class="subnav " data-icon="false">
+          <a href="posterprogram.php">Posters</a>
+        </li>
+        <li class="subnav " data-icon="false">
+          <a href="demoprogram.php">Demos</a>
+        </li>
+        <li class="subnav " data-icon="false">
+          <a href="src.php">ACM SRC</a>
+        </li>
+        <li class="subnav " data-icon="false">
+          <a href="industrialdemoprogram.php">Industrial Demos</a>
+        </li>
+        <li class="subnav " data-icon="false">
+          <a href="maintrackposterprogram.php">Posters/Demos from Main Track</a>
+        </li>
+        <li class="subnav " data-icon="false">
+          <a href="preview.php">Topic Preview</a>
+        </li>
+        <li class="subnav " data-icon="false">
+          <a href="mentoring.php">Mentoring</a>
+        </li>
+        <li class="subnav " data-icon="false">
+           <a href="socialevents.php">Social Events</a>
+        </li>
+      </ul>
+    </div>-->
+
+    <!--<div data-role="collapsible" data-theme="a" data-content-theme="a" data-collapsed-icon="arrow-d" data-expanded-icon="arrow-u" data-iconpos="right"
+          class="navgroup">
+      <h4>Workshops</h4>
+      <ul data-role="listview" data-inset="false">
+        <li class="subnav " data-icon="false">
+          <a href="gaia.php">GAIA</a>
+        </li>
+        <li class="subnav " data-icon="false">
+          <a href="hotmiddlebox.php">HotMiddlebox</a>
+        </li>
+        <li class="subnav " data-icon="false">
+          <a href="qoe.php">Internet-QoE</a>
+        </li>
+        <li class="subnav " data-icon="false">
+          <a href="lancomm.php">LANCOMM</a>
+        </li>
+        <li class="subnav " data-icon="false">
+          <a href="netpl.php">NetPL</a>
+        </li>
+       </ul>
+    </div>-->
+
+    <!--<div data-role="collapsible" data-theme="a" data-content-theme="a" data-collapsed-icon="arrow-d" data-expanded-icon="arrow-u" data-iconpos="right"
+          class="navgroup">
+      <h4>Tutorials</h4>
+      <ul data-role="listview" data-inset="false">
+        <li class="subnav " data-icon="false">
+          <a href="tutorial-wimobnet.php">Enabling Research in Future WiMobNet</a>
+        </li>
+        <li class="subnav " data-icon="false">
+          <a href="tutorial-im.php">Internet Measurements</a>
+        </li>
+        <li class="subnav " data-icon="false">
+          <a href="tutorial-iptv.php">IPTV and Over-the-Top Video</a>
+        </li>
+        <li class="subnav " data-icon="false">
+          <a href="tutorial-p4.php">P4</a>
+        </li>
+        <li class="subnav " data-icon="false">
+          <a href="tutorial-sdnnfv5g.php">SDN, NFV and Their Role in 5G</a>
+        </li>
+      </ul>
+    </div>-->
+
+    <!--<li class="notlast " data-icon="false">
+      <a href="https://www.regonline.com/acmsigcomm2016" rel="external">Registration</a>
+    </li>-->
+
+    <!--<div data-role="collapsible" data-theme="a" data-content-theme="a" data-collapsed-icon="arrow-d" data-expanded-icon="arrow-u" data-iconpos="right"
+          class="navgroup">
+      <h4>Local Information</h4>
+      <ul data-role="listview" data-inset="false">
+        <li class="subnav " data-icon="false">
+          <a href="assistance.php">Travel Assistance</a>
+        </li>
+
+        <li class="subnav " data-icon="false">
+          <a href="travel.php">Venue and Travel</a>
+        </li>
+
+        <li class="subnav " data-icon="false">
+          <a href="restaurants.php">Pubs &amp; Restaurants</a>
+        </li>
+
+        <li class="subnav " data-icon="false">
+          <a href="visa.php">Visa</a>
+        </li>
+
+        <li class="subnav " data-icon="false">
+          <a href="hotel.php">Accommodation</a>
+        </li>
+
+        <li class="subnav " data-icon="false">
+          <a href="roomshare.php">Room Share</a>
+        </li>
+
+        <li class="subnav " data-icon="false">
+          <a href="tourism.php">Tourism</a>
+        </li>
+
+        <li class="subnav " data-icon="false">
+          <a href="advisory.php">Advice for Travellers</a>
+        </li>
+      </ul>
+    </div>-->
+
+    <!--<li class="notlast " data-icon="false">
+      <a href="policies.php">Anti-Harassment Policy</a>
+    </li>-->
+
+    <!--<div data-role="collapsible" data-theme="a" data-content-theme="a" data-collapsed-icon="arrow-d" data-expanded-icon="arrow-u" data-iconpos="right"
+          class="navgroup listlast">
+      <h4>Calls</h4>
+      <ul data-role="listview" data-inset="false">
+        <li class="subnav " data-icon="false">
+          <a href="cfp.php">Call for Papers</a>
+        </li>
+        <li class="subnav " data-icon="false">
+          <a href="submission.php">Paper Submission</a>
+        </li>
+        <li class="subnav " data-icon="false">
+          <a href="postersdemos.php">Call for Posters &amp; Demos</a>
+        </li>
+        <li class="subnav " data-icon="false">
+          <a href="industrialdemos.php">Call for Industrial Demos</a>
+        </li>
+        <li class="subnav " data-icon="false">
+          <a href="cfwp.php">Call for Workshops</a>
+        </li>
+        <li class="subnav " data-icon="false">
+          <a href="cft.php">Call for Tutorials</a>
+        </li>
+        <li class="subnav " data-icon="false">
+          <a href="travelgrants.php">Travel Grants</a>
+        </li>
+        <li class="subnav " data-icon="false">
+          <a href="n2women.php">N2Women Fellowship</a>
+        </li>
+        <li class="subnav " data-icon="false">
+          <a href="n2women-award.php">N2Women Travel Grant</a>
+        </li>
+      </ul>
+    </div>-->
+    
+  </ul>  
+
+  <!--<div class="border ui-corner-all ui-shadow socialbuttons">
+    <iframe src="include/socialbtn.php" scrolling="no" height="21" width="100%" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+  </div>-->
+
+</div>
+</div> <!-- content -->
+
+  <!--   
+    <div class="logobar" data-role="footer" data-position="fixed" data-tap-toggle="false" data-theme="c"></div>
+
+    
+</div> <!-- page -->
+
+    
+    <img src='images/sponsors/cisco.png' alt='cached' class='hidden'>
+    <img src='images/sponsors/huawei.png' alt='cached' class='hidden'>
+    <img src='images/sponsors/ericsson.png' alt='cached' class='hidden'>
+    <img src='images/sponsors/facebook.png' alt='cached' class='hidden'>
+    <img src='images/sponsors/google.png' alt='cached' class='hidden'>
+    <img src='images/sponsors/akamai.png' alt='cached' class='hidden'>
+    <img src='images/sponsors/hpe.png' alt='cached' class='hidden'>
+    <img src='images/sponsors/netapp.jpeg' alt='cached' class='hidden'>
+    <img src='images/sponsors/telefonica.png' alt='cached' class='hidden'>
+    <img src='images/sponsors/vmware.jpg' alt='cached' class='hidden'>
+    <img src='images/sponsors/comcast.jpg' alt='cached' class='hidden'>
+    <img src="images/sponsors/cgi_br_nic_br.jpg" alt="cached" class='hidden'/>
+    <img src="images/sponsors/nsf.jpg" alt="cached" class='hidden'/>
+
+    <script type="text/javascript">
+      /* [priority, logo_filename, sponsor_website, sponsor_shortname, 0, real_height, real_width] */
+      sps = [
+        [300, "cisco.png", "http://www.cisco.com/", "cisco", 0, 200, 379],
+        [300, "nsf.jpg", "http://www.nsf.gov/", "cisco", 0, 100, 100],
+        [100, "huawei.png", "http://www.huawei.com/", "huawei", 0, 150, 150],
+        [100, "ericsson.png", "http://www.ericsson.com/", "ericsson", 0, 104, 116],
+        [100, "facebook.png", "http://research.facebook.com/", "facebook", 0, 713, 2026],
+        [100, "google.png", "http://www.google.com/", "google", 0, 329, 1000],
+        [100, "cgi_br_nic_br.jpg", "http://cgi.br/about/", "cgi.br", 0, 300, 900],
+        [50, "akamai.png", "http://www.akamai.com/", "akamai", 0, 195, 450],
+        [10, "hpe.png", "http://www.hpe.com/", "hp", 0, 180, 360],
+        [10, "telefonica.png", "http://www.tid.es/", "telefonica", 0, 152, 250],
+        [10, "vmware.jpg", "http://www.vmware.com/", "vmware", 0, 100, 420],
+        [10, "netapp.jpeg", "http://www.netapp.com/", "netapp", 0, 478, 1200],
+        [10, "comcast.jpg", "http://www.comcast.com/", "comcast", 0, 263, 594]
+    ];</script>
+    
+    
+<!-- SIGCOMM'16 script code for collecting visit statistics --> 
+<!-- <script> -->
+  <!-- (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-30942101-4', 'auto');
+  ga('send', 'pageview'); -->
+
+<!-- </script> -->
+</body>
+</html>
