@@ -2,9 +2,9 @@ name: Build and deploy static site to GitHub Pages
 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
   pull_request:
-    branches: [ master ]
+    branches: [ main ]
   workflow_dispatch: {}
 
 concurrency:
