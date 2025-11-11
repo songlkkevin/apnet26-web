@@ -25,7 +25,8 @@ jobs:
       uses: actions/checkout@v4
 
     - name: Setup PHP
-      uses: shivammathur/setup-php@v3
+      # Use a released major version that the runner can resolve. v2 is widely available.
+      uses: shivammathur/setup-php@v2
       with:
         php-version: '8.1'
 
