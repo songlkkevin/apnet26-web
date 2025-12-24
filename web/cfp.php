@@ -53,7 +53,7 @@
 
 <h2>Submission Instructions</h2>
                 <br>
-<p style="text-align: justify; text-indent: 2em;">Submissions must be no longer than <b>6 pages</b>, including all content except references, and must be formatted in the standard <b>ACM two-column conference style</b> with a <b>10-pt font</b>. Authors should use the provided <b>LaTeX template</b> (available as a <a href="files/APNet26_Template.zip">ZIP file</a> or on <a href="https://www.overleaf.com/project/69495b1f04a01366845359f3" target="_blank">Overleaf</a>) to create a printable PDF for submission.</p>
+<p style="text-align: justify; text-indent: 2em;">Submissions must be no longer than <b>6 pages</b>, including all content except references, and must be formatted in the standard <b>ACM two-column conference style</b> with a <b>10-pt font</b>. Authors should use the provided <b>LaTeX template</b> (available as a <a href="files/APNet26_Template.zip" download target="_blank">ZIP file</a> or on <a href="https://www.overleaf.com/project/69495b1f04a01366845359f3" target="_blank">Overleaf</a>) to create a printable PDF for submission.</p>
 
 <p style="text-align: justify; text-indent: 2em;">Reviewing will be <b>double-blind</b>: author names and affiliations must not appear in the submission. Previous papers by the authors should be cited either (1) in the third person or (2) anonymously, with the corresponding deanonymized citations indicated in the submission form. If the submission includes links to open-source code, the linked sites must not reveal the identity or organization of the authors. Authors should also follow best practices to avoid implicitly disclosing their identities.</p>
 
