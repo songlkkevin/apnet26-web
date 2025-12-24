@@ -25,12 +25,12 @@
 <h1>Call for Papers</h1>
 
 <br>
-<p style="text-align: justify; text-indent: 2em;">The 9<sup>th</sup> Asia-Pacific Workshop on Networking (APNet’25) will be held in Shanghai, China on August 7-8, 2025. Building on the success of its predecessors, APNet’25 will continue to bring together the very best researchers in computer networking and systems across the Asia-Pacific region and around the globe to a live forum discussing innovative ideas at their early stages. The mission of APNet is that promising but not-yet-mature ideas can receive timely feedback from the community and experienced researchers, leading them into publications at major conferences such as SIGCOMM, NSDI, SOSP, OSDI, EuroSys, MobiCom, and CoNEXT.</p>
+<p style="text-align: justify; text-indent: 2em;">The 10<sup>th</sup> Asia-Pacific Workshop on Networking (APNet'26) will take place August 6-7, 2026, at Osaka, Japan. APNet aims to bring together the very best researchers in computer networking and systems across the Asia-Pacific region and around the globe to a live forum discussing innovative ideas at their early stages. The mission of APNet is that promising but not-yet-mature ideas can receive timely feedback from the community and experienced researchers, leading them into publications at major conferences such as SIGCOMM, NSDI, SOSP, OSDI, MobiCom, and CoNEXT.</p>
 
 <br>
 
-<p style="text-align: justify; text-indent: 2em;">We invite submissions of papers <font color="red">(up to 6 pages, excluding references)</font> on a wide range of networking research, including, but not limited to:</p>
-				<ul class="custom-list">
+<p style="text-align: justify; text-indent: 2em;">We invite submissions of papers on a wide range of networking research, including, but not limited to:</p>
+<ul class="custom-list">
   <li style="font-style: italic;">Network architectures and algorithms</li>
   <li style="font-style: italic;">Cloud and wide-area networking systems &amp; infrastructure</li>
   <li style="font-style: italic;">Networking for Machine Learning and Machine Learning for Networking</li>
@@ -51,95 +51,25 @@
 
 <br>
 
-<p style="text-align: justify; text-indent: 2em;">The APNet Technical Program Committee will evaluate submissions based on their novelty, significance, and technical merit, rather than completeness. Innovative and well-reasoned ideas supported by preliminary evaluations are sufficient for APNet. We encourage authors to further develop their APNet papers with robust implementations and experiments, aiming for publication in the aforementioned premier conferences.</p>
-
-<br>
-<h2>APC Burden Reduction (ABR) Program</h2>
-<br>
-    <p style="text-align: justify; text-indent: 2em;">Following recent changes in ACM's publication policies for the International Conference Proceedings Series (ICPS), authors affiliated with institutions that are not part of the ACM Open program (<a href="https://libraries.acm.org/acmopen/open-participants" target="_blank">libraries.acm.org/acmopen/open-participants</a>) and do not qualify for a waiver must pay an article processing charge (APC) to publish their ICPS article in the ACM Digital Library.</p>
-    <p style="text-align: justify; text-indent: 2em;">To help mitigate this financial burden, <b>APNet’25 is introducing the APC Burden Reduction (ABR) Program</b>, which provides registration discount to compensate for the APC cost. Please be advised that the ABR Program benefits are mutually exclusive with travel grant, and cannot be combined with other funding mechanisms from APNet’25. </p>
-
-<h3>Eligibility Criteria</h3>
-    <p style="text-indent: 2em;">Authors may apply for the ABR Program if they meet all of the following conditions:</p>
-    <ul class="custom-list">
-        <li>The paper has been officially accepted as a <b>regular paper</b> at APNet’25.</li>
-        <li>The corresponding author’s institution is <b>not</b> listed in the <a href="https://libraries.acm.org/acmopen/open-participants">ACM Open Participant List</a>.</li>
-        <li>A formal APC waiver request has been <b>submitted to ACM and rejected</b>.</li>
-        <li>The paper’s APC invoice from ACM.</li>
-    </ul>
-
-    <h3>Application Process</h3>
-    <p style="text-align: justify; text-indent: 2em;">Eligible authors must provide verification of all four conditions and submit the required documentation via email to <a href="mailto:senliu@fudan.edu.cn">senliu@fudan.edu.cn</a>. The application deadline is June 28, 2025 (AoE). Late submissions will not be accepted. Upon successful processing of the ABR Program application, a single-use discount code will be issued to authors via email. This unique identifier must be applied during conference registration and cannot be transferred to other researchers.</p>
-
-    <h3>Important Note</h3>
-    <p style="text-align: justify; text-indent: 2em;">The ABR Program discount is exclusively applicable to full registration fees and cannot be used for other types of registrations (e.g., student registration, etc.).</p>
-
-<br>
-<h2>Information of China’s Visa-Free Policies</h2>
-<br>
-    <p style="text-indent: 2em;">We are pleased to announce that many countries are eligible for visa-free entry to Shanghai, making it easier for you to attend the APNet 2025 conference. For the latest information on China’s visa-free travel policies, please refer to the following links:
-    </p>
-    <ul>
-        <li><a href="https://www.china-briefing.com/news/china-visa-free-travel-policies-complete-guide/" target="_blank">China’s Visa-Free Policies: Latest Updates</a></li>
-        <!-- <li><a href="https://www.visaforchina.cn/CBR2_EN/generalinformation/faq/275556.shtml" target="_blank">Visa-free entry in to Mainland China: Frequently Asked Questions</a></li> -->
-        <li><a href="https://www.visaforchina.cn/" target="_blank">Chinese Visa Application Service Center</a></li>
-        </a></li>
-        
-    </ul>
-    <p>
-
-    
-<br>
-<h2>Visa Information</h2>
-<br>
-<p>If you need an invitation letter or other documents, you may contact the Local Chairs (Yang Chen, chenyang@fudan.edu.cn). Please include "APNet25 Visa Application" in your email subject and specify in your email body these fields:</p>
-              <ul>
-                <li>Full name in passport</li>
-                <li>Title</li>
-                <li>Employer or affiliation</li>
-              </ul>
-
-<br>
-<h2>Important Note to Authors about ACM Open Access Publishing Model</h2>
-<br>
-<p style="text-align: justify; text-indent: 2em;">We are pleased to announce that APNET 2025 will participate in the ACM Open initiative, transitioning to a 100% Open Access publishing model starting January 1, 2026. This change aims to enhance the accessibility and impact of research published in the ACM Digital Library. Authors submitting papers to APNET must either be affiliated with an ACM Open institution, pay the applicable Article Processing Charge (APC), or qualify for an automatic or discretionary waiver. Detailed information regarding the Open Access model and associated fees can be found on the <a href="https://www.acm.org/publications/openaccess">ACM website</a>. We encourage authors to review this information carefully to ensure a smooth submission process. For any inquiries, please reach out to <a href="mailto:acmopen@hq.acm.org">acmopen@hq.acm.org</a>.</p>
-
-    <br>
 <h2>Submission Instructions</h2>
-				<!--<p><b><a href="https://apnet24.hotcrp.com">https://apnet24.hotcrp.com</a> is open for registration and submission.</b></p>-->
-				<!-- <p><b><a href="https://apnet24.hotcrp.com">https://apnet24.hotcrp.com</a> is open now.</b></p> -->
-
                 <br>
-<p style="text-align: justify; text-indent: 2em;">Submissions must be no longer than 6 pages in length including all content except references, formatted in standard ACM two-column conference style with 10-pt font size. Authors should consult the <a href="https://www.acm.org/publications/proceedings-template">ACM website</a> for the up to date template. Reviewing will be double-blind: no author or affiliation information should appear in the submission. The authors should additionally follow the best practice in order not to disclose their identities implicitly. Papers may present preliminary results but must include novel ideas and differ significantly from previously published work. In line with standard scholarly practices, authors should not have substantially similar work under review elsewhere. However, an extended version of the APNet submission, with a complete implementation and additional experiments, can be submitted simultaneously to another venue. Accepted papers will appear in the proceedings of the workshop, which will be published in the ACM Digital Library.</p> 
+<p style="text-align: justify; text-indent: 2em;">Submissions must be no longer than <b>6 pages</b>, including all content except references, and must be formatted in the standard <b>ACM two-column conference style</b> with a <b>10-pt font</b>. Authors should use the provided <b>LaTeX template</b> (available as a <a href="files/APNet26_Template.zip">ZIP file</a> or on <a href="https://www.overleaf.com/project/69495b1f04a01366845359f3" target="_blank">Overleaf</a>) to create a printable PDF for submission.</p>
+
+<p style="text-align: justify; text-indent: 2em;">Reviewing will be <b>double-blind</b>: author names and affiliations must not appear in the submission. Previous papers by the authors should be cited either (1) in the third person or (2) anonymously, with the corresponding deanonymized citations indicated in the submission form. If the submission includes links to open-source code, the linked sites must not reveal the identity or organization of the authors. Authors should also follow best practices to avoid implicitly disclosing their identities.</p>
+
+<p style="text-align: justify; text-indent: 2em;">Papers may present preliminary results but must include <b>novel ideas</b> and differ significantly from previously published work. In line with standard scholarly practices, authors must not have substantially similar work under review at another venue. However, an extended version of an APNet submission&mdash;with a complete implementation and additional experiments&mdash;may be submitted simultaneously to another venue. Accepted papers will appear in the workshop proceedings, which will be published in the ACM Digital Library.</p>
+
+<p style="text-indent: 2em;">Submissions should be made online at <a href="https://apnet26.hotcrp.com/">https://apnet26.hotcrp.com/</a>.</p>
 
 <br>
-
-<p style="text-indent: 2em;">Submissions can be made online at <a href="https://apnet25.hotcrp.com">https://apnet25.hotcrp.com/</a>.</p>
+<h2>Generative AI Use</h2>
+<br>
+<p style="text-align: justify; text-indent: 2em;">Authors must not submit papers produced entirely or substantially by generative AI. However, the use of AI tools for editing and improving the grammar or clarity of authors' own human-written text is permitted. For any questions regarding the appropriate use of generative AI, please contact the program chairs.</p>
 
 <br>
-<h2 >Important dates</h2>
+<h2>Important Dates</h2>
 <?php include("include/dates.php"); ?>
-<!--<ul data-role="listview" data-inset="true" data-theme="a" data-content-theme="a" class="datetbl">
-    <?php add_dateitem("January 22, 2016", "Abstract due"); ?>
-    <?php add_dateitem("January 29, 2016", "Complete paper submissions due"); ?>
-    <?php add_dateitem("April 22, 2016", "Notification to authors"); ?>
-    <?php add_dateitem("Late May, 2016", "Final papers due"); ?>
-</ul>-->
 
 <!--<a href="files/cfp.pdf" rel="external" data-role="button" class="dl-button button">Download this call as a PDF</a>-->
-
-<br>
-<h2>Camera-Ready Instructions</h2>
-	<br>
-				<p>Please note any change in title or authorship must be <b>APPROVED BY the PC CHAIRS</b>. This is to ensure that our publication accurately reflects any updates.</p>
-				
-				<p>The page limit for the final paper is 6 pages, excluding references. For the final paper, please use the <a href="http://www.acm.org/publications/proceedings-template">official ACM Article template</a>, and make sure to use 9 pt font. Please do NOT use copies of these templates that you might find elsewhere since we cannot be sure that those are compliant.</p>
-				
-				<p>As described on the above template webpage, the authors should provide proper indexing information in the final version according to the ACM Computing Classification System (CCS). More information about the ACM CCS is available at <a href="http://www.acm.org/publications/class-2012">ACM CCS website</a>.</p>
-	
-				<p>The authors must insert the correct rights management text and bibliographic strip into the final paper. The ACM will use its automated system to email this information to the authors. Please set your email spam settings to allow messages from "rightsreview@acm.org". <b>For papers that are conditionally accepted with shepherding, the copyright forms will be available after the shepherding outcome</b>.</p>
-				
-				<p>If you have any questions about the camera-ready process, feel free to contact APNET 2025 publication chair <a href="https://huhuzizi.github.io/jinbinhu.github.io/index.html">Jinbin Hu</a>.</p> 
-				
 
 <?php include ("include/footer.php"); ?>
